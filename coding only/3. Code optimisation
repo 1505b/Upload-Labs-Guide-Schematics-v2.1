@@ -1,0 +1,209 @@
+[schematic]
+
+windows=[{
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "f3ac31f17d59",
+"outputs_id": Array[String]([]),
+"resource": "boost_code",
+"variation": 0
+},
+"PanelContainer/MainContainer/CodeSpeed": {
+"id": "cae985f4e12a",
+"outputs_id": Array[String](["3c20a16bf451"]),
+"resource": "code_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Contribution": {
+"id": "067feacb4b20",
+"outputs_id": Array[String]([]),
+"resource": "contribution",
+"variation": 0
+}
+},
+"filename": "window_coder.tscn",
+"name": "coder0",
+"position": Vector2(2500, 2450),
+"window": "coder"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Code": {
+"id": "9e3b1030d32a",
+"outputs_id": Array[String]([]),
+"resource": "code_optimization",
+"variation": 0
+}
+},
+"filename": "window_build.tscn",
+"name": "build0",
+"position": Vector2(3300, 2700),
+"window": "build"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/CodeSpeed": {
+"id": "3c20a16bf451",
+"outputs_id": Array[String]([]),
+"resource": "code_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
+"id": "cb5d1d8b8d16",
+"outputs_id": Array[String](["3d8f5a72052b"]),
+"resource": "bool",
+"variation": 0
+},
+"PanelContainer/MainContainer/char/ResourceContainer/Resource": {
+"id": "e6925cac7b79",
+"outputs_id": Array[String]([]),
+"resource": "char",
+"variation": 0
+},
+"PanelContainer/MainContainer/float/ResourceContainer/Resource": {
+"id": "c2e23bd4bfc6",
+"outputs_id": Array[String](["017c8134a218", "a45817dce7d5"]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/int/ResourceContainer/Resource": {
+"id": "49b442bde241",
+"outputs_id": Array[String](["62b490d32b8b"]),
+"resource": "int",
+"variation": 0
+}
+},
+"filename": "window_ide.tscn",
+"name": "ide0",
+"position": Vector2(2500, 2800),
+"var_bool_ratio": 1.0,
+"var_char_ratio": 0.0,
+"var_float_ratio": 2.0,
+"var_int_ratio": 1.0,
+"window": "ide"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input1": {
+"id": "3d8f5a72052b",
+"outputs_id": Array[String]([]),
+"resource": "bool",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "62b490d32b8b",
+"outputs_id": Array[String]([]),
+"resource": "int",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "8630faef33b2",
+"outputs_id": Array[String](["b077d4e2fcd9"]),
+"resource": "bitflag",
+"variation": 0
+}
+},
+"filename": "window_variable_combiner.tscn",
+"name": "variable_combiner0",
+"position": Vector2(2900, 2450),
+"window": "variable_combiner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input1": {
+"id": "017c8134a218",
+"outputs_id": Array[String]([]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "a45817dce7d5",
+"outputs_id": Array[String]([]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "98ed992846bb",
+"outputs_id": Array[String](["f21a734925e1"]),
+"resource": "vector",
+"variation": 0
+}
+},
+"filename": "window_variable_combiner.tscn",
+"name": "variable_combiner1",
+"position": Vector2(2900, 2750),
+"window": "variable_combiner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Code": {
+"id": "7e20605a70ee",
+"outputs_id": Array[String](["c46de67c8561", "9e3b1030d32a"]),
+"resource": "code_optimization",
+"variation": 0
+},
+"PanelContainer/MainContainer/Requirements/Bitflag": {
+"id": "b077d4e2fcd9",
+"outputs_id": Array[String]([]),
+"resource": "bitflag",
+"variation": 0
+},
+"PanelContainer/MainContainer/Requirements/Vector": {
+"id": "f21a734925e1",
+"outputs_id": Array[String]([]),
+"resource": "vector",
+"variation": 0
+}
+},
+"filename": "window_code_optimization.tscn",
+"name": "code_optimization0",
+"position": Vector2(2900, 3050),
+"window": "code_optimization"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Code": {
+"id": "c46de67c8561",
+"outputs_id": Array[String]([]),
+"resource": "code_optimization",
+"variation": 0
+},
+"PanelContainer/MainContainer/Contribution": {
+"id": "27d54dfd512e",
+"outputs_id": Array[String](["067feacb4b20"]),
+"resource": "contribution",
+"variation": 0
+}
+},
+"filename": "window_commit.tscn",
+"name": "commit0",
+"position": Vector2(3300, 2450),
+"window": "commit"
+}]
+connectors={
+"017c8134a218": {
+"custom_points": Array[Vector2]([])
+},
+"067feacb4b20": {
+"custom_points": Array[Vector2]([])
+},
+"3c20a16bf451": {
+"custom_points": Array[Vector2]([])
+},
+"3d8f5a72052b": {
+"custom_points": Array[Vector2]([])
+},
+"62b490d32b8b": {
+"custom_points": Array[Vector2]([])
+},
+"9e3b1030d32a": {
+"custom_points": Array[Vector2]([])
+},
+"a45817dce7d5": {
+"custom_points": Array[Vector2]([])
+},
+"b077d4e2fcd9": {
+"custom_points": Array[Vector2]([])
+},
+"c46de67c8561": {
+"custom_points": Array[Vector2]([])
+},
+"f21a734925e1": {
+"custom_points": Array[Vector2]([])
+}
+}
+rect=Rect2(2500, 2450, 1150, 943)
