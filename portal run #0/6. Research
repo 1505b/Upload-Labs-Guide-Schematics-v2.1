@@ -1,0 +1,575 @@
+[schematic]
+
+windows=[{
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "ed9826111a5f",
+"outputs_id": Array[String]([]),
+"resource": "boost_component",
+"variation": 0
+},
+"PanelContainer/MainContainer/Download": {
+"id": "6f2f400f703c",
+"outputs_id": Array[String](["afc9e3961900"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Heat": {
+"id": "a26997c0af8b",
+"outputs_id": Array[String]([]),
+"resource": "heat",
+"variation": 0
+},
+"PanelContainer/MainContainer/Module": {
+"id": "a295f385d5fb",
+"outputs_id": Array[String]([]),
+"resource": "router",
+"variation": 0
+},
+"PanelContainer/MainContainer/Overclock": {
+"id": "4929d174bf75",
+"outputs_id": Array[String]([]),
+"resource": "overclock",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "59e551814691",
+"outputs_id": Array[String](["b348da2df2bb"]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_network.tscn",
+"name": "Network",
+"position": Vector2(4450, 4900),
+"window": "network"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "f9d956d583fe",
+"outputs_id": Array[String]([]),
+"resource": "boost_component",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock": {
+"id": "a755abc723f2",
+"outputs_id": Array[String](["25f1d601dc8c"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock2": {
+"id": "8b2a3b05e2bd",
+"outputs_id": Array[String](["bc77ad896fd2", "d03141781703"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock3": {
+"id": "fdffb3152169",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock4": {
+"id": "6cf2d93f34f7",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock5": {
+"id": "4b9893c2a3d8",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Heat": {
+"id": "6e33894b7812",
+"outputs_id": Array[String]([]),
+"resource": "heat",
+"variation": 0
+},
+"PanelContainer/MainContainer/Module": {
+"id": "c94d0eb0c2bf",
+"outputs_id": Array[String]([]),
+"resource": "cpu_core",
+"variation": 0
+},
+"PanelContainer/MainContainer/Overclock": {
+"id": "06737b3ace69",
+"outputs_id": Array[String]([]),
+"resource": "overclock",
+"variation": 0
+}
+},
+"filename": "window_processor.tscn",
+"name": "processor0",
+"position": Vector2(4050, 4900),
+"window": "processor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clean": {
+"id": "7ed8df9ac2ce",
+"outputs_id": Array[String](["7e131671dac6"]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Clock": {
+"id": "25f1d601dc8c",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "9c74460d2e31",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Infected": {
+"id": "60ee2f1d9d94",
+"outputs_id": Array[String](["600e077240d0"]),
+"resource": "image",
+"variation": 257
+}
+},
+"filename": "window_virus_scanner.tscn",
+"name": "virus_scanner0",
+"position": Vector2(5250, 4900),
+"window": "virus_scanner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/File": {
+"id": "0441747c167b",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Infections": {
+"id": "147fe608e2f7",
+"outputs_id": Array[String]([]),
+"resource": "infected_computer",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "6e1487b1e1d9",
+"outputs_id": Array[String](["6a5890013c09"]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "b348da2df2bb",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_upload.tscn",
+"name": "upload0",
+"position": Vector2(5650, 4900),
+"window": "upload"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "bc77ad896fd2",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Money": {
+"id": "2dffd1a6fe4b",
+"outputs_id": Array[String](["c32eed7cdd83"]),
+"resource": "money",
+"variation": 0
+}
+},
+"filename": "window_processing_seller.tscn",
+"name": "processing_seller0",
+"position": Vector2(4050, 5200),
+"window": "processing_seller"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "b6dc644b3515",
+"outputs_id": Array[String]([]),
+"resource": "boost_component",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock": {
+"id": "d69acd027c66",
+"outputs_id": Array[String](["7ba0ad47ea70"]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock10": {
+"id": "b703a53e9d8c",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock2": {
+"id": "ba87f8279202",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock3": {
+"id": "c60f5c61987b",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock4": {
+"id": "6a3a9637e86d",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock5": {
+"id": "662ac1b65128",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock6": {
+"id": "b758c3bce5bf",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock7": {
+"id": "c77dd414abda",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock8": {
+"id": "94b8b7ccb98b",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Clocks/Clock9": {
+"id": "613d6fbf97cd",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Heat": {
+"id": "5c6f226e817b",
+"outputs_id": Array[String]([]),
+"resource": "heat",
+"variation": 0
+},
+"PanelContainer/MainContainer/Module": {
+"id": "c0ec4754d4fd",
+"outputs_id": Array[String]([]),
+"resource": "gpu",
+"variation": 0
+},
+"PanelContainer/MainContainer/Overclock": {
+"id": "0aa329082ee0",
+"outputs_id": Array[String]([]),
+"resource": "overclock",
+"variation": 0
+}
+},
+"filename": "window_gpu_cluster.tscn",
+"name": "gpu_cluster0",
+"position": Vector2(3650, 4900),
+"window": "gpu_cluster"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Coin": {
+"id": "1174627c3cd1",
+"outputs_id": Array[String](["5cad12c5376b"]),
+"resource": "litecoin",
+"variation": 0
+},
+"PanelContainer/MainContainer/GPU": {
+"id": "7ba0ad47ea70",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+}
+},
+"filename": "window_mine_litecoin.tscn",
+"name": "mine_litecoin0",
+"position": Vector2(3650, 5100),
+"window": "mine_litecoin"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Coin": {
+"id": "5cad12c5376b",
+"outputs_id": Array[String]([]),
+"resource": "litecoin",
+"variation": 0
+}
+},
+"filename": "window_crypto_seller.tscn",
+"name": "crypto_seller0",
+"position": Vector2(3650, 5400),
+"window": "crypto_seller"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "d03141781703",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "600e077240d0",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 257
+},
+"PanelContainer/MainContainer/Output": {
+"id": "bb85582114e7",
+"outputs_id": Array[String](["3c460ded46b9"]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Virus": {
+"id": "41dc294e294e",
+"outputs_id": Array[String]([]),
+"resource": "virus",
+"variation": 0
+}
+},
+"filename": "window_quarantine.tscn",
+"name": "quarantine0",
+"position": Vector2(5250, 5300),
+"window": "quarantine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "7e131671dac6",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "3c460ded46b9",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "a2e468be044c",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "36eb4732e8a7",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "6ce00013e520",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Output": {
+"id": "d59a381af305",
+"outputs_id": Array[String](["0441747c167b"]),
+"resource": "image",
+"variation": 1
+}
+},
+"filename": "window_folder.tscn",
+"name": "folder0",
+"position": Vector2(5250, 5700),
+"window": "folder"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input": {
+"id": "6a5890013c09",
+"outputs_id": Array[String]([]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "c32eed7cdd83",
+"outputs_id": Array[String]([]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input3": {
+"id": "6afacee50169",
+"outputs_id": Array[String]([]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input4": {
+"id": "2129f50eb28f",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input5": {
+"id": "d89047764270",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+}
+},
+"filename": "window_auto_collect.tscn",
+"name": "auto_collect0",
+"position": Vector2(5650, 5250),
+"window": "auto_collect"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "d963563daa47",
+"outputs_id": Array[String](["6ed632f4d7b1"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "27cf33c0a253",
+"outputs_id": Array[String](["8afcbdcbcd6b"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "afc9e3961900",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+}
+},
+"filename": "window_download_limiter.tscn",
+"name": "download_limiter0",
+"position": Vector2(4850, 4900),
+"ratio": 15.0,
+"ratio2": 1.0,
+"window": "download_limiter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "6ed632f4d7b1",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "17f303ae419a",
+"outputs_id": Array[String](["9c74460d2e31"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_download_image.tscn",
+"name": "download_image0",
+"position": Vector2(4850, 5200),
+"window": "download_image"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "8afcbdcbcd6b",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "ad3d142beeac",
+"outputs_id": Array[String](["21e36f13a7bb"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_download_image.tscn",
+"name": "@VBoxContainer@1731",
+"position": Vector2(6050, 4900),
+"window": "download_image"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "03f8ceca7991",
+"outputs_id": Array[String]([]),
+"resource": "boost_research",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "21e36f13a7bb",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Points": {
+"id": "c26f9e5442ef",
+"outputs_id": Array[String](["6afacee50169"]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/ResearchPower": {
+"id": "3d35750c0d00",
+"outputs_id": Array[String]([]),
+"resource": "research_power",
+"variation": 0
+}
+},
+"filename": "window_data_lab.tscn",
+"name": "data_lab0",
+"position": Vector2(6450, 4900),
+"window": "data_lab"
+}]
+connectors={
+"0441747c167b": {
+"custom_points": Array[Vector2]([])
+},
+"21e36f13a7bb": {
+"custom_points": Array[Vector2]([])
+},
+"25f1d601dc8c": {
+"custom_points": Array[Vector2]([])
+},
+"3c460ded46b9": {
+"custom_points": Array[Vector2]([])
+},
+"5cad12c5376b": {
+"custom_points": Array[Vector2]([])
+},
+"600e077240d0": {
+"custom_points": Array[Vector2]([])
+},
+"6a5890013c09": {
+"custom_points": Array[Vector2]([])
+},
+"6afacee50169": {
+"custom_points": Array[Vector2]([])
+},
+"6ed632f4d7b1": {
+"custom_points": Array[Vector2]([])
+},
+"7ba0ad47ea70": {
+"custom_points": Array[Vector2]([])
+},
+"7e131671dac6": {
+"custom_points": Array[Vector2]([])
+},
+"8afcbdcbcd6b": {
+"custom_points": Array[Vector2]([])
+},
+"9c74460d2e31": {
+"custom_points": Array[Vector2]([])
+},
+"afc9e3961900": {
+"custom_points": Array[Vector2]([])
+},
+"b348da2df2bb": {
+"custom_points": Array[Vector2]([])
+},
+"bc77ad896fd2": {
+"custom_points": Array[Vector2]([])
+},
+"c32eed7cdd83": {
+"custom_points": Array[Vector2]([])
+},
+"d03141781703": {
+"custom_points": Array[Vector2]([])
+}
+}
+rect=Rect2(3650, 4900, 3150, 1139)
