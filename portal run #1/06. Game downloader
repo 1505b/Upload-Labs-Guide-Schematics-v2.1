@@ -213,7 +213,7 @@ windows=[{
 "filename": "window_download_limiter.tscn",
 "name": "download_limiter0",
 "position": Vector2(1200, 50),
-"ratio": 20.0,
+"ratio": 23.0,
 "ratio2": 1.0,
 "window": "download_limiter"
 }, {
@@ -241,7 +241,7 @@ windows=[{
 "name": "_VBoxContainer_2331",
 "position": Vector2(1200, 350),
 "ratio": 11.0,
-"ratio2": 30.0,
+"ratio2": 60.0,
 "window": "download_limiter"
 }, {
 "container_data": {
@@ -994,37 +994,6 @@ windows=[{
 "name": "research_advanced0",
 "position": Vector2(4400, 850),
 "window": "research_advanced"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/BreachDamage": {
-"id": "746d394e97ae",
-"outputs_id": Array[String]([]),
-"resource": "payload_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/InfectionDamage": {
-"id": "170849fcdc37",
-"outputs_id": Array[String]([]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/Result": {
-"id": "bf487f6fa67e",
-"outputs_id": Array[String](["bb7c6c9b342c"]),
-"resource": "government_data",
-"variation": 0
-},
-"PanelContainer/MainContainer/Vulnerability": {
-"id": "e2dcd3ab36fb",
-"outputs_id": Array[String]([]),
-"resource": "vulnerability",
-"variation": 0
-}
-},
-"filename": "window_breach_government.tscn",
-"name": "breach_government0",
-"position": Vector2(1600, 2500),
-"window": "breach_government"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
@@ -1809,80 +1778,6 @@ windows=[{
 "window": "download_limiter"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Download": {
-"id": "1ca19aa8e833",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Torrents/Game": {
-"id": "54cf604f40b3",
-"outputs_id": Array[String](["92054c2249cf"]),
-"resource": "torrent_game",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrents/Image": {
-"id": "3d7c7b049314",
-"outputs_id": Array[String]([]),
-"resource": "torrent_image",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrents/Program": {
-"id": "571b14c5043f",
-"outputs_id": Array[String]([]),
-"resource": "torrent_program",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrents/Sound": {
-"id": "2fe08e1958ca",
-"outputs_id": Array[String]([]),
-"resource": "torrent_sound",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrents/Text": {
-"id": "fcf7b201d3c3",
-"outputs_id": Array[String]([]),
-"resource": "torrent_text",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrents/Video": {
-"id": "2d0ac4d158a4",
-"outputs_id": Array[String]([]),
-"resource": "torrent_video",
-"variation": 256
-}
-},
-"filename": "window_torrent_browser_infected.tscn",
-"name": "torrent_browser_infected0",
-"position": Vector2(1200, 950),
-"window": "torrent_browser_infected"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Download": {
-"id": "5aa851a9bbee",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "c981458a7431",
-"outputs_id": Array[String](["f35d31248b73"]),
-"resource": "game",
-"variation": 256
-},
-"PanelContainer/MainContainer/Torrent": {
-"id": "92054c2249cf",
-"outputs_id": Array[String]([]),
-"resource": "torrent_game",
-"variation": 256
-}
-},
-"filename": "window_torrent_downloader.tscn",
-"name": "torrent_downloader0",
-"position": Vector2(1200, 1550),
-"window": "torrent_downloader"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Clock": {
 "id": "2ed06c4e699e",
 "outputs_id": Array[String]([]),
@@ -1906,62 +1801,6 @@ windows=[{
 "name": "compressor0",
 "position": Vector2(2000, 1150),
 "window": "compressor"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "9bb17c97b8b6",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "89c79028a8d8",
-"outputs_id": Array[String]([]),
-"resource": "game",
-"variation": 262
-},
-"PanelContainer/MainContainer/Output": {
-"id": "ebb77d93222c",
-"outputs_id": Array[String](["0bf0dd4331d3"]),
-"resource": "game",
-"variation": 270
-}
-},
-"filename": "window_compressor.tscn",
-"name": "compressor3",
-"position": Vector2(2000, 1500),
-"window": "compressor"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "39da95844850",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "0bf0dd4331d3",
-"outputs_id": Array[String]([]),
-"resource": "game",
-"variation": 270
-},
-"PanelContainer/MainContainer/Output": {
-"id": "31060f7f40d6",
-"outputs_id": Array[String](["6951bf612383"]),
-"resource": "game",
-"variation": 14
-},
-"PanelContainer/MainContainer/Virus": {
-"id": "bff1d4d5e4a4",
-"outputs_id": Array[String](["eac7fa80d857"]),
-"resource": "virus",
-"variation": 0
-}
-},
-"filename": "window_quarantine.tscn",
-"name": "quarantine0",
-"position": Vector2(2000, 1850),
-"window": "quarantine"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
@@ -2153,7 +1992,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/DamageOut": {
 "id": "045ea5665297",
-"outputs_id": Array[String](["b77199e8fcd2"]),
+"outputs_id": Array[String](["582870812db2"]),
 "resource": "infection_damage",
 "variation": 0
 }
@@ -2162,44 +2001,6 @@ windows=[{
 "name": "charged_attack1",
 "position": Vector2(400, 2800),
 "window": "charged_attack"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/DamageIn": {
-"id": "b77199e8fcd2",
-"outputs_id": Array[String]([]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/DamageOut": {
-"id": "6a049db76229",
-"outputs_id": Array[String](["bf24f97c9a72", "170849fcdc37", "cf5cbe9ee694", "b27ee8c770de"]),
-"resource": "infection_damage",
-"variation": 0
-}
-},
-"filename": "window_charged_attack.tscn",
-"name": "charged_attack0",
-"position": Vector2(400, 3050),
-"window": "charged_attack"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Damage": {
-"id": "238a14a7db05",
-"outputs_id": Array[String](["edd3fe3aebd7"]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/HackPower": {
-"id": "bd619c6cc8cd",
-"outputs_id": Array[String]([]),
-"resource": "hack_power",
-"variation": 0
-}
-},
-"filename": "window_build_infection.tscn",
-"name": "build_infection0",
-"position": Vector2(400, 2500),
-"window": "build_infection"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input": {
@@ -2352,37 +2153,6 @@ windows=[{
 "window": "breach_corps"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/BreachDamage": {
-"id": "d55ece9db8ce",
-"outputs_id": Array[String]([]),
-"resource": "payload_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/InfectionDamage": {
-"id": "b27ee8c770de",
-"outputs_id": Array[String]([]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/Result": {
-"id": "1ae6643f52da",
-"outputs_id": Array[String](["1cf9575f7ef3"]),
-"resource": "hack_experience",
-"variation": 0
-},
-"PanelContainer/MainContainer/Vulnerability": {
-"id": "5e6d898edfce",
-"outputs_id": Array[String]([]),
-"resource": "vulnerability",
-"variation": 0
-}
-},
-"filename": "window_breach_anonymous.tscn",
-"name": "breach_anonymous0",
-"position": Vector2(800, 2500),
-"window": "breach_anonymous"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Code": {
 "id": "90fd8ecbded3",
 "outputs_id": Array[String]([]),
@@ -2444,33 +2214,6 @@ windows=[{
 "name": "flipper0",
 "position": Vector2(2400, 1700),
 "window": "flipper"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "d5f24dd81790",
-"outputs_id": Array[String](["d239f5eb1817"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "2b9b400b8bdc",
-"outputs_id": Array[String](["36f4284dbcfe"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "51c70d906c76",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-}
-},
-"filename": "window_thread_manager.tscn",
-"name": "thread_manager1",
-"position": Vector2(1600, 1250),
-"ratio": 2.0,
-"ratio2": 3.0,
-"window": "thread_manager"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
@@ -2683,6 +2426,282 @@ windows=[{
 "name": "data_lab4",
 "position": Vector2(4000, 1450),
 "window": "data_lab"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/BreachDamage": {
+"id": "d55ece9db8ce",
+"outputs_id": Array[String]([]),
+"resource": "payload_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/InfectionDamage": {
+"id": "b27ee8c770de",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "1ae6643f52da",
+"outputs_id": Array[String](["1cf9575f7ef3"]),
+"resource": "hack_experience",
+"variation": 0
+},
+"PanelContainer/MainContainer/Vulnerability": {
+"id": "5e6d898edfce",
+"outputs_id": Array[String]([]),
+"resource": "vulnerability",
+"variation": 0
+}
+},
+"filename": "window_breach_anonymous.tscn",
+"name": "breach_anonymous0",
+"position": Vector2(800, 2500),
+"window": "breach_anonymous"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/DamageIn": {
+"id": "582870812db2",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/DamageOut": {
+"id": "cc491903b913",
+"outputs_id": Array[String](["b77199e8fcd2"]),
+"resource": "infection_damage",
+"variation": 0
+}
+},
+"filename": "window_charged_attack.tscn",
+"name": "charged_attack2",
+"position": Vector2(400, 3050),
+"window": "charged_attack"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/DamageIn": {
+"id": "b77199e8fcd2",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/DamageOut": {
+"id": "6a049db76229",
+"outputs_id": Array[String](["bf24f97c9a72", "170849fcdc37", "cf5cbe9ee694", "b27ee8c770de"]),
+"resource": "infection_damage",
+"variation": 0
+}
+},
+"filename": "window_charged_attack.tscn",
+"name": "charged_attack0",
+"position": Vector2(400, 3300),
+"window": "charged_attack"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/BreachDamage": {
+"id": "746d394e97ae",
+"outputs_id": Array[String]([]),
+"resource": "payload_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/InfectionDamage": {
+"id": "170849fcdc37",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "bf487f6fa67e",
+"outputs_id": Array[String](["bb7c6c9b342c"]),
+"resource": "government_data",
+"variation": 0
+},
+"PanelContainer/MainContainer/Vulnerability": {
+"id": "e2dcd3ab36fb",
+"outputs_id": Array[String]([]),
+"resource": "vulnerability",
+"variation": 0
+}
+},
+"filename": "window_breach_government.tscn",
+"name": "breach_government0",
+"position": Vector2(1600, 2500),
+"window": "breach_government"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Damage": {
+"id": "238a14a7db05",
+"outputs_id": Array[String](["edd3fe3aebd7"]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/HackPower": {
+"id": "bd619c6cc8cd",
+"outputs_id": Array[String]([]),
+"resource": "hack_power",
+"variation": 0
+}
+},
+"filename": "window_build_infection.tscn",
+"name": "build_infection0",
+"position": Vector2(400, 2500),
+"window": "build_infection"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "d5f24dd81790",
+"outputs_id": Array[String](["d239f5eb1817"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "2b9b400b8bdc",
+"outputs_id": Array[String](["36f4284dbcfe"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "51c70d906c76",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+}
+},
+"filename": "window_thread_manager.tscn",
+"name": "thread_manager1",
+"position": Vector2(1600, 1250),
+"ratio": 2.0,
+"ratio2": 3.0,
+"window": "thread_manager"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "5aa851a9bbee",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "c981458a7431",
+"outputs_id": Array[String](["f35d31248b73"]),
+"resource": "game",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrent": {
+"id": "92054c2249cf",
+"outputs_id": Array[String]([]),
+"resource": "torrent_game",
+"variation": 256
+}
+},
+"filename": "window_torrent_downloader.tscn",
+"name": "torrent_downloader0",
+"position": Vector2(1200, 1600),
+"window": "torrent_downloader"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "9bb17c97b8b6",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "89c79028a8d8",
+"outputs_id": Array[String]([]),
+"resource": "game",
+"variation": 262
+},
+"PanelContainer/MainContainer/Output": {
+"id": "ebb77d93222c",
+"outputs_id": Array[String](["0bf0dd4331d3"]),
+"resource": "game",
+"variation": 270
+}
+},
+"filename": "window_compressor.tscn",
+"name": "compressor3",
+"position": Vector2(2000, 1500),
+"window": "compressor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "39da95844850",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "0bf0dd4331d3",
+"outputs_id": Array[String]([]),
+"resource": "game",
+"variation": 270
+},
+"PanelContainer/MainContainer/Output": {
+"id": "31060f7f40d6",
+"outputs_id": Array[String](["6951bf612383"]),
+"resource": "game",
+"variation": 14
+},
+"PanelContainer/MainContainer/Virus": {
+"id": "bff1d4d5e4a4",
+"outputs_id": Array[String](["eac7fa80d857"]),
+"resource": "virus",
+"variation": 0
+}
+},
+"filename": "window_quarantine.tscn",
+"name": "quarantine0",
+"position": Vector2(2000, 1850),
+"window": "quarantine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "1ca19aa8e833",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Torrents/Game": {
+"id": "54cf604f40b3",
+"outputs_id": Array[String](["92054c2249cf"]),
+"resource": "torrent_game",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrents/Image": {
+"id": "3d7c7b049314",
+"outputs_id": Array[String]([]),
+"resource": "torrent_image",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrents/Program": {
+"id": "571b14c5043f",
+"outputs_id": Array[String]([]),
+"resource": "torrent_program",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrents/Sound": {
+"id": "2fe08e1958ca",
+"outputs_id": Array[String]([]),
+"resource": "torrent_sound",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrents/Text": {
+"id": "fcf7b201d3c3",
+"outputs_id": Array[String]([]),
+"resource": "torrent_text",
+"variation": 256
+},
+"PanelContainer/MainContainer/Torrents/Video": {
+"id": "2d0ac4d158a4",
+"outputs_id": Array[String]([]),
+"resource": "torrent_video",
+"variation": 256
+}
+},
+"filename": "window_torrent_browser_infected.tscn",
+"name": "torrent_browser_infected0",
+"position": Vector2(1200, 950),
+"window": "torrent_browser_infected"
 }]
 connectors={
 "030e34ad57ba": {
@@ -2824,6 +2843,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "55eeeac1be92": {
+"custom_points": Array[Vector2]([])
+},
+"582870812db2": {
 "custom_points": Array[Vector2]([])
 },
 "5aa851a9bbee": {
