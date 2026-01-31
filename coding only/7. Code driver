@@ -975,7 +975,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
 "id": "cf573076f2fa",
-"outputs_id": Array[String](["1c7a3f887fb6"]),
+"outputs_id": Array[String](["1c7a3f887fb6", "48fae82ef24b"]),
 "resource": "code_speed",
 "variation": 0
 },
@@ -1071,6 +1071,122 @@ windows=[{
 "name": "build1",
 "position": Vector2(5700, 3900),
 "window": "build"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input1": {
+"id": "03834b4dd8bd",
+"outputs_id": Array[String]([]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "5d2c3d6f9ace",
+"outputs_id": Array[String]([]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "c21aabbba143",
+"outputs_id": Array[String](["a7cbf9d4c2a1"]),
+"resource": "vector",
+"variation": 0
+}
+},
+"filename": "window_variable_combiner.tscn",
+"name": "@VBoxContainer@2333",
+"position": Vector2(4900, 3450),
+"window": "variable_combiner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Code": {
+"id": "b45c0a699c4b",
+"outputs_id": Array[String](["f61f1b942c34"]),
+"resource": "code_optimization",
+"variation": 0
+},
+"PanelContainer/MainContainer/Requirements/Bitflag": {
+"id": "3006452fd0c6",
+"outputs_id": Array[String]([]),
+"resource": "bitflag",
+"variation": 0
+},
+"PanelContainer/MainContainer/Requirements/Vector": {
+"id": "a7cbf9d4c2a1",
+"outputs_id": Array[String]([]),
+"resource": "vector",
+"variation": 0
+}
+},
+"filename": "window_code_optimization.tscn",
+"name": "@VBoxContainer@2334",
+"position": Vector2(4900, 3750),
+"window": "code_optimization"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input1": {
+"id": "ecd501ecece9",
+"outputs_id": Array[String]([]),
+"resource": "bool",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "0c5d024cec17",
+"outputs_id": Array[String]([]),
+"resource": "int",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "086d7083feea",
+"outputs_id": Array[String](["3006452fd0c6"]),
+"resource": "bitflag",
+"variation": 0
+}
+},
+"filename": "window_variable_combiner.tscn",
+"name": "@VBoxContainer@2335",
+"position": Vector2(4900, 3150),
+"window": "variable_combiner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/CodeSpeed": {
+"id": "48fae82ef24b",
+"outputs_id": Array[String]([]),
+"resource": "code_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
+"id": "7a597641f67c",
+"outputs_id": Array[String](["ecd501ecece9"]),
+"resource": "bool",
+"variation": 0
+},
+"PanelContainer/MainContainer/char/ResourceContainer/Resource": {
+"id": "50b27d2b5d74",
+"outputs_id": Array[String]([]),
+"resource": "char",
+"variation": 0
+},
+"PanelContainer/MainContainer/float/ResourceContainer/Resource": {
+"id": "87ca12ead223",
+"outputs_id": Array[String](["03834b4dd8bd", "5d2c3d6f9ace"]),
+"resource": "float",
+"variation": 0
+},
+"PanelContainer/MainContainer/int/ResourceContainer/Resource": {
+"id": "84028e455518",
+"outputs_id": Array[String](["0c5d024cec17"]),
+"resource": "int",
+"variation": 0
+}
+},
+"filename": "window_ide.tscn",
+"name": "@VBoxContainer@2408",
+"position": Vector2(4900, 2550),
+"var_bool_ratio": 1.0,
+"var_char_ratio": 0.0,
+"var_float_ratio": 2.0,
+"var_int_ratio": 1.0,
+"window": "ide"
 }, {
 "color": 0,
 "container_data": {},
@@ -1484,10 +1600,16 @@ connectors={
 "030e34ad57ba": {
 "custom_points": Array[Vector2]([])
 },
+"03834b4dd8bd": {
+"custom_points": Array[Vector2]([])
+},
 "03ae77bb1a92": {
 "custom_points": Array[Vector2]([])
 },
 "056d03b8be6a": {
+"custom_points": Array[Vector2]([])
+},
+"0c5d024cec17": {
 "custom_points": Array[Vector2]([])
 },
 "0d399c622fc4": {
@@ -1523,6 +1645,9 @@ connectors={
 "2e55dcbbbaa9": {
 "custom_points": Array[Vector2]([])
 },
+"3006452fd0c6": {
+"custom_points": Array[Vector2]([])
+},
 "30a992425428": {
 "custom_points": Array[Vector2]([])
 },
@@ -1553,6 +1678,9 @@ connectors={
 "482e21752a82": {
 "custom_points": Array[Vector2]([])
 },
+"48fae82ef24b": {
+"custom_points": Array[Vector2]([])
+},
 "4e121dd8bf5f": {
 "custom_points": Array[Vector2]([])
 },
@@ -1566,6 +1694,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "5cf1cae49259": {
+"custom_points": Array[Vector2]([])
+},
+"5d2c3d6f9ace": {
 "custom_points": Array[Vector2]([])
 },
 "6a0d05886f09": {
@@ -1626,6 +1757,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "a2fffefe4851": {
+"custom_points": Array[Vector2]([])
+},
+"a7cbf9d4c2a1": {
 "custom_points": Array[Vector2]([])
 },
 "a92aa9a6d02e": {
@@ -1706,6 +1840,9 @@ connectors={
 "e45866bde605": {
 "custom_points": Array[Vector2]([])
 },
+"ecd501ecece9": {
+"custom_points": Array[Vector2]([])
+},
 "ecff9cc824a0": {
 "custom_points": Array[Vector2]([])
 },
@@ -1713,6 +1850,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "ee52044ee9bd": {
+"custom_points": Array[Vector2]([])
+},
+"f61f1b942c34": {
 "custom_points": Array[Vector2]([])
 },
 "f6593c150fb6": {
