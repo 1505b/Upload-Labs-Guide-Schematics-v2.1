@@ -300,7 +300,7 @@ windows=[{
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
 "id": "90c356ae84ff",
-"outputs_id": Array[String](["e2cf94702964", "468463ea047e"]),
+"outputs_id": Array[String](["e2cf94702964", "223861521dee"]),
 "resource": "download_speed",
 "variation": 0
 },
@@ -2049,16 +2049,6 @@ windows=[{
 "position": Vector2(4900, 3800),
 "window": "build"
 }, {
-"color": 0,
-"container_data": {},
-"custom_icon": "code",
-"custom_name": "optimisation",
-"filename": "window_group.tscn",
-"name": "group0",
-"position": Vector2(2900, 2500),
-"size": Vector2(1150, 1950),
-"window": "group"
-}, {
 "container_data": {
 "PanelContainer/MainContainer/BreachDamage": {
 "id": "50d4ef5d0525",
@@ -2152,15 +2142,25 @@ windows=[{
 "position": Vector2(800, 2500),
 "window": "breach_anonymous"
 }, {
+"color": 0,
+"container_data": {},
+"custom_icon": "code",
+"custom_name": "optimisation",
+"filename": "window_group.tscn",
+"name": "group0",
+"position": Vector2(2900, 2500),
+"size": Vector2(1150, 1950),
+"window": "group"
+}, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "468463ea047e",
+"id": "223861521dee",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "d9ab853b8293",
+"id": "cbc87196cccb",
 "outputs_id": Array[String](["ede7d64f3080"]),
 "resource": "image",
 "variation": 0
@@ -2220,6 +2220,9 @@ connectors={
 "1ada2e92a67a": {
 "custom_points": Array[Vector2]([])
 },
+"223861521dee": {
+"custom_points": Array[Vector2]([])
+},
 "226e4f5189eb": {
 "custom_points": Array[Vector2]([])
 },
@@ -2263,9 +2266,6 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "454c3cf92965": {
-"custom_points": Array[Vector2]([])
-},
-"468463ea047e": {
 "custom_points": Array[Vector2]([])
 },
 "48820665cdf2": {
