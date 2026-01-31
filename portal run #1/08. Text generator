@@ -8,7 +8,7 @@ windows=[{
 "filename": "window_group.tscn",
 "name": "group2",
 "position": Vector2(0, 0),
-"size": Vector2(8350, 4450),
+"size": Vector2(5550, 4450),
 "window": "group"
 }, {
 "container_data": {
@@ -3234,4 +3234,4 @@ connectors={
 "custom_points": Array[Vector2]([])
 }
 }
-rect=Rect2(0, 0, 8350, 4450)
+rect=Rect2(0, 0, 5550, 4450)
