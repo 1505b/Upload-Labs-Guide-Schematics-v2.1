@@ -8,43 +8,43 @@ windows=[{
 "filename": "window_group.tscn",
 "name": "group0",
 "position": Vector2(0, 0),
-"size": Vector2(5250, 4450),
+"size": Vector2(6750, 5500),
 "window": "group"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "aeb744915515",
+"id": "914d7782d55a",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Download": {
-"id": "aa86508574a8",
-"outputs_id": Array[String](["9c48b2720a3a"]),
+"id": "340ef445ed91",
+"outputs_id": Array[String](["d566ecd0ba53"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "a78d6ff13936",
+"id": "385274b5a319",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "6dfe207773fb",
+"id": "e60b76a29eea",
 "outputs_id": Array[String]([]),
 "resource": "router",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "d3b3fc45be40",
+"id": "2ca12d6ccc2a",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "05a51bda50ee",
-"outputs_id": Array[String](["46a497c49f50"]),
+"id": "d5f001b88975",
+"outputs_id": Array[String](["9645a5c11a82"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -56,14 +56,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "f0a4a63ac059",
+"id": "f2c626d6723e",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "a6d7f087930d",
-"outputs_id": Array[String](["d241d403166c"]),
+"id": "9f38e6cf0a51",
+"outputs_id": Array[String](["186e27e9a97f"]),
 "resource": "image",
 "variation": 0
 }
@@ -75,38 +75,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "46a497c49f50",
+"id": "9645a5c11a82",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "d5bf5d34dff4",
+"id": "8277448bda05",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "cfb1c92e7bd5",
+"id": "607eef8d33e4",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "c12111c8c284",
+"id": "4edddd9db89b",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "4c3056dafb4b",
+"id": "84bde70b8ef0",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "7cc6d519e31f",
-"outputs_id": Array[String](["de3c1a4c82e4"]),
+"id": "14bd36580528",
+"outputs_id": Array[String](["b9e6a9e2cb11"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -117,70 +117,27 @@ windows=[{
 "window": "upload_merger"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Input/0": {
-"id": "9c48b2720a3a",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/1": {
-"id": "1df1d318e197",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/2": {
-"id": "a1c77071611e",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/3": {
-"id": "dd563da6064b",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/4": {
-"id": "e1e800f9d783",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output": {
-"id": "e8e03e5eef23",
-"outputs_id": Array[String](["284a1bff1af7"]),
-"resource": "download_speed",
-"variation": 0
-}
-},
-"filename": "window_download_merger.tscn",
-"name": "download_merger0",
-"position": Vector2(800, 1450),
-"window": "download_merger"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "d69accb1e5ef",
+"id": "b7177d36041b",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/DownloadOut": {
-"id": "3e1f11d784eb",
+"id": "bd6ded906ed7",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "c26d1c0fa2b0",
+"id": "3c025e7e1694",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/UploadOut": {
-"id": "1233087c5312",
-"outputs_id": Array[String](["11482ced867f"]),
+"id": "c633fd6a5cfd",
+"outputs_id": Array[String](["2560f2fe3713"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -191,80 +148,26 @@ windows=[{
 "window": "network_exchanger"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "bde5ec2b5050",
-"outputs_id": Array[String](["1d2c1955504e"]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "a50a05201518",
-"outputs_id": Array[String](["f0a4a63ac059"]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "284a1bff1af7",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-}
-},
-"filename": "window_download_limiter.tscn",
-"name": "download_limiter0",
-"position": Vector2(1200, 50),
-"ratio": 1.0,
-"ratio2": 0.0,
-"window": "download_limiter"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "c131ca89be07",
-"outputs_id": Array[String](["fe7230f63a83"]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "70cdf098c951",
-"outputs_id": Array[String](["d69accb1e5ef"]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "1d2c1955504e",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-}
-},
-"filename": "window_download_limiter.tscn",
-"name": "_VBoxContainer_2331",
-"position": Vector2(1200, 350),
-"ratio": 11.0,
-"ratio2": 30.0,
-"window": "download_limiter"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/File": {
-"id": "6e344dba9141",
+"id": "a3d3a07e8141",
 "outputs_id": Array[String]([]),
 "resource": "video",
 "variation": 4195
 },
 "PanelContainer/MainContainer/Infections": {
-"id": "174c49fbd424",
-"outputs_id": Array[String](["f9b16a11701b"]),
+"id": "a73dc333eedc",
+"outputs_id": Array[String](["fc46ac2dfb60"]),
 "resource": "infected_computer",
 "variation": 0
 },
 "PanelContainer/MainContainer/Result": {
-"id": "11806ebed30a",
-"outputs_id": Array[String](["f7a1e783395a"]),
+"id": "add425bd18a7",
+"outputs_id": Array[String](["c3db612cc818"]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "11482ced867f",
+"id": "2560f2fe3713",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
@@ -277,25 +180,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "4d02444ffa46",
+"id": "ee18b9f6a2c7",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "7fb2afcea481",
+"id": "ab27bdc99f28",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2656
 },
 "PanelContainer/MainContainer/Points": {
-"id": "c7ccfa2bbff7",
-"outputs_id": Array[String](["9a0258f6a82d"]),
+"id": "05bff009d9eb",
+"outputs_id": Array[String](["0a4947386ee9"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "518d1d8bddc0",
+"id": "545e24cb2ed2",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -308,38 +211,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "11bda7929b8b",
+"id": "a9e92d4372bb",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "9a0258f6a82d",
+"id": "0a4947386ee9",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "e641ef4551ae",
+"id": "5147baf10ad9",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "ca320b96e803",
+"id": "deb09c593137",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "ffec39910931",
+"id": "725502b3d552",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "a753f6a45e30",
-"outputs_id": Array[String](["ff2511eeff98"]),
+"id": "8d239d0d2448",
+"outputs_id": Array[String](["de2b8de51664"]),
 "resource": "research",
 "variation": 0
 }
@@ -351,25 +254,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "b3454650b788",
+"id": "00011ae47669",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "1de11feee7d6",
+"id": "a9c6c9713766",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2656
 },
 "PanelContainer/MainContainer/Points": {
-"id": "d5deff9d9eba",
-"outputs_id": Array[String](["11bda7929b8b"]),
+"id": "748c3c9f6519",
+"outputs_id": Array[String](["a9e92d4372bb"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "89562121583f",
+"id": "390d3a9a73f3",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -382,38 +285,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "3be0187820ad",
+"id": "5769ac17941d",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "f0ecea7967e6",
+"id": "25a968640dcf",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "2a26b72f5aab",
+"id": "3c145d2f5eb7",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "b5ebafdc51be",
+"id": "17b2b575ea01",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "e02ed3508e8d",
+"id": "3bdd64e2697e",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "053e7d367605",
-"outputs_id": Array[String](["5b883ea6a27d"]),
+"id": "833a0a618f75",
+"outputs_id": Array[String](["e1df6ae5aa3a"]),
 "resource": "clock_speed",
 "variation": 0
 }
@@ -425,25 +328,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "f22b2c93ec75",
+"id": "1d013ca87c08",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "5ec5ad9f2e9c",
+"id": "299d800975bf",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2656
 },
 "PanelContainer/MainContainer/Points": {
-"id": "2fee53912416",
-"outputs_id": Array[String](["e641ef4551ae"]),
+"id": "0aea4bf5bb04",
+"outputs_id": Array[String](["5147baf10ad9"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "ed8492d3eba4",
+"id": "b9c1f13529c0",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -456,68 +359,68 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "addf52843149",
+"id": "dceabca368a5",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "fbeacd0ada97",
+"id": "42dcf35104eb",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "1c572f20f6ea",
+"id": "9ae871dbf8fd",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "3a5e209ae061",
+"id": "440889ef4e44",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "6c7ca0417102",
+"id": "10631bf45227",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/5": {
-"id": "f984fc7dd28b",
+"id": "c96a15d45d6c",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/6": {
-"id": "1baa110a8514",
+"id": "2afb671bc421",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/7": {
-"id": "3dfbeda77791",
+"id": "619aa39fff82",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/8": {
-"id": "292cf2ae9dc5",
+"id": "1cf33675779f",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/9": {
-"id": "03551e728adb",
+"id": "83a1ea4630b4",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "1dd451a0c4cc",
-"outputs_id": Array[String](["b6ba043690ef", "8fb7f1118e92"]),
+"id": "da1cabcc9d51",
+"outputs_id": Array[String](["0dc9becd84c8", "759e105778d4"]),
 "resource": "gpu_speed",
 "variation": 0
 }
@@ -529,20 +432,20 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "6febacb4ed26",
+"id": "e88434b3879b",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "166004e2309e",
+"id": "921730083521",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 524
 },
 "PanelContainer/MainContainer/Output": {
-"id": "3391dfba5ad7",
-"outputs_id": Array[String](["150be49c5c1d"]),
+"id": "d56085cf3aa1",
+"outputs_id": Array[String](["bd3c7e163a69"]),
 "resource": "image",
 "variation": 2572
 }
@@ -554,20 +457,20 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "7215fe064703",
+"id": "685498fa4726",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "150be49c5c1d",
+"id": "bd3c7e163a69",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2572
 },
 "PanelContainer/MainContainer/Output": {
-"id": "da2e179ef412",
-"outputs_id": Array[String](["fb9642e60b96"]),
+"id": "cbaf012d782f",
+"outputs_id": Array[String](["b7a89464f835"]),
 "resource": "image",
 "variation": 2596
 }
@@ -579,20 +482,20 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "3f84703343aa",
+"id": "18762ad33125",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "c417a736e510",
+"id": "915678923227",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 12
 },
 "PanelContainer/MainContainer/Output": {
-"id": "8154a8bea3ad",
-"outputs_id": Array[String](["166004e2309e"]),
+"id": "baca3f18a1cd",
+"outputs_id": Array[String](["921730083521"]),
 "resource": "image",
 "variation": 524
 }
@@ -604,19 +507,19 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/BreachDamage": {
-"id": "041cfc3e61c8",
+"id": "96e8c8d798ad",
 "outputs_id": Array[String]([]),
 "resource": "payload_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/InfectionDamage": {
-"id": "cf5cbe9ee694",
+"id": "e1ce2be88e1b",
 "outputs_id": Array[String]([]),
 "resource": "infection_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/Vulnerability": {
-"id": "4a3ab8bd93ab",
+"id": "ee7fc71bdd2e",
 "outputs_id": Array[String]([]),
 "resource": "vulnerability",
 "variation": 0
@@ -624,25 +527,25 @@ windows=[{
 },
 "filename": "window_breach_bank.tscn",
 "name": "breach_bank0",
-"position": Vector2(2000, 2500),
+"position": Vector2(2400, 2500),
 "window": "breach_bank"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "9c9743c4cb5a",
+"id": "bab18666edf9",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "fb9642e60b96",
+"id": "b7a89464f835",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2596
 },
 "PanelContainer/MainContainer/Output": {
-"id": "6cef6d5962ce",
-"outputs_id": Array[String](["1de11feee7d6", "7fb2afcea481", "5ec5ad9f2e9c", "33542bda2f7e", "080643afc077"]),
+"id": "31359c9749cc",
+"outputs_id": Array[String](["a9c6c9713766", "ab27bdc99f28", "299d800975bf", "c8088928ca8d", "38179836bc37"]),
 "resource": "image",
 "variation": 2656
 }
@@ -654,20 +557,20 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "4b396934355b",
+"id": "1e562e3e8d4a",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "d241d403166c",
+"id": "186e27e9a97f",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "df5a81632c7d",
-"outputs_id": Array[String](["df0fbb937d8e"]),
+"id": "bb774119c95d",
+"outputs_id": Array[String](["023f10bda714"]),
 "resource": "image",
 "variation": 4
 }
@@ -679,20 +582,20 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "8d211877e1ae",
+"id": "7fe72a9ae8a4",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "df0fbb937d8e",
+"id": "023f10bda714",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 4
 },
 "PanelContainer/MainContainer/Output": {
-"id": "ca3935277ced",
-"outputs_id": Array[String](["c417a736e510"]),
+"id": "35fac5c37554",
+"outputs_id": Array[String](["915678923227"]),
 "resource": "image",
 "variation": 12
 }
@@ -704,19 +607,19 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "d832a044a711",
-"outputs_id": Array[String](["4b396934355b", "8d211877e1ae"]),
+"id": "166c7f6ceac5",
+"outputs_id": Array[String](["1e562e3e8d4a", "7fe72a9ae8a4"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "7b6d2d637150",
-"outputs_id": Array[String](["5c4561cac853"]),
+"id": "ecc0f0b424db",
+"outputs_id": Array[String](["69a97cb74150"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "a03353407dc3",
+"id": "5d7d96ade009",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
@@ -731,19 +634,19 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "998c5710b2c9",
-"outputs_id": Array[String](["3f84703343aa", "7215fe064703"]),
+"id": "84051172972f",
+"outputs_id": Array[String](["18762ad33125", "685498fa4726"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "997bfbe3a7b7",
-"outputs_id": Array[String](["6febacb4ed26", "9c9743c4cb5a"]),
+"id": "1023e270d69b",
+"outputs_id": Array[String](["e88434b3879b", "bab18666edf9"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "5c4561cac853",
+"id": "69a97cb74150",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
@@ -758,44 +661,19 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "90aecfbfcf64",
-"outputs_id": Array[String]([]),
-"resource": "boost_hack",
-"variation": 0
-},
-"PanelContainer/MainContainer/Experience": {
-"id": "1cf9575f7ef3",
-"outputs_id": Array[String]([]),
-"resource": "hack_experience",
-"variation": 0
-},
-"PanelContainer/MainContainer/HackPower": {
-"id": "b58c887ad40b",
-"outputs_id": Array[String](["bd619c6cc8cd"]),
-"resource": "hack_power",
-"variation": 0
-}
-},
-"filename": "window_hacker.tscn",
-"name": "hacker0",
-"position": Vector2(0, 2500),
-"window": "hacker"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Boost": {
-"id": "9b6d9de24f2d",
+"id": "ee8d086bb699",
 "outputs_id": Array[String]([]),
 "resource": "boost_code",
 "variation": 0
 },
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "7deaf46d4749",
-"outputs_id": Array[String](["3b7840d36093", "0d399c622fc4"]),
+"id": "a774209c7ca8",
+"outputs_id": Array[String](["a74a9a4d4749", "ca67d74e5f83"]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Contribution": {
-"id": "2581417f7cee",
+"id": "5e7697dd709a",
 "outputs_id": Array[String]([]),
 "resource": "contribution",
 "variation": 0
@@ -803,49 +681,49 @@ windows=[{
 },
 "filename": "window_coder.tscn",
 "name": "coder0",
-"position": Vector2(2500, 2500),
+"position": Vector2(2900, 2500),
 "window": "coder"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input1": {
-"id": "030e34ad57ba",
+"id": "05e7cc44c9d7",
 "outputs_id": Array[String]([]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "1490b5f4721b",
+"id": "e05d5d2d32ae",
 "outputs_id": Array[String]([]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "a8a6d355e83a",
-"outputs_id": Array[String](["7c3ee95f1e8a"]),
+"id": "2ab1cccd1eb7",
+"outputs_id": Array[String](["8eb7e17bb303"]),
 "resource": "vector",
 "variation": 0
 }
 },
 "filename": "window_variable_combiner.tscn",
 "name": "variable_combiner1",
-"position": Vector2(3300, 3450),
+"position": Vector2(3700, 3450),
 "window": "variable_combiner"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "d5a721737925",
-"outputs_id": Array[String](["9927bb48411e"]),
+"id": "1d3979298468",
+"outputs_id": Array[String](["24109a64e046"]),
 "resource": "code_optimization",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Bitflag": {
-"id": "056d03b8be6a",
+"id": "98824ec612c2",
 "outputs_id": Array[String]([]),
 "resource": "bitflag",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Vector": {
-"id": "7c3ee95f1e8a",
+"id": "8eb7e17bb303",
 "outputs_id": Array[String]([]),
 "resource": "vector",
 "variation": 0
@@ -853,30 +731,30 @@ windows=[{
 },
 "filename": "window_code_optimization.tscn",
 "name": "code_optimization0",
-"position": Vector2(3300, 3750),
+"position": Vector2(3700, 3750),
 "window": "code_optimization"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "d0218cce2a5a",
+"id": "018a7292063d",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "33542bda2f7e",
+"id": "c8088928ca8d",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2656
 },
 "PanelContainer/MainContainer/Points": {
-"id": "74a456b2d82d",
-"outputs_id": Array[String](["ca320b96e803"]),
+"id": "2038a80c2766",
+"outputs_id": Array[String](["deb09c593137"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "1737b14f3fd0",
+"id": "5e7552d58ebe",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -889,25 +767,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/BreachDamage": {
-"id": "2572dd3c6373",
+"id": "3db09dc8343f",
 "outputs_id": Array[String]([]),
 "resource": "payload_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/InfectionDamage": {
-"id": "bf24f97c9a72",
+"id": "463b6fb3cc23",
 "outputs_id": Array[String]([]),
 "resource": "infection_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/Result": {
-"id": "2ac9ea8f2113",
-"outputs_id": Array[String](["9f080d3ce6c1"]),
+"id": "2bc36b31e331",
+"outputs_id": Array[String](["42776204b2bf"]),
 "resource": "corporation_data",
 "variation": 0
 },
 "PanelContainer/MainContainer/Vulnerability": {
-"id": "c0cc60182e2e",
+"id": "e3e795f645f7",
 "outputs_id": Array[String]([]),
 "resource": "vulnerability",
 "variation": 0
@@ -915,49 +793,49 @@ windows=[{
 },
 "filename": "window_breach_corps.tscn",
 "name": "breach_corps0",
-"position": Vector2(1200, 2500),
+"position": Vector2(1600, 2500),
 "window": "breach_corps"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input1": {
-"id": "a2ae7d16264e",
+"id": "cb230e1b7b0c",
 "outputs_id": Array[String]([]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "ac97a0969503",
+"id": "95331a7c4137",
 "outputs_id": Array[String]([]),
 "resource": "int",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "203645205565",
-"outputs_id": Array[String](["056d03b8be6a"]),
+"id": "8abfd14971dd",
+"outputs_id": Array[String](["98824ec612c2"]),
 "resource": "bitflag",
 "variation": 0
 }
 },
 "filename": "window_variable_combiner.tscn",
 "name": "variable_combiner0",
-"position": Vector2(3300, 3150),
+"position": Vector2(3700, 3150),
 "window": "variable_combiner"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "ceb4ffccfb10",
-"outputs_id": Array[String](["4f8a4926332d"]),
+"id": "54172c723e4b",
+"outputs_id": Array[String](["eb90f0320c44"]),
 "resource": "code_bugfix",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Bool": {
-"id": "7c80130df9d2",
+"id": "996b4238698c",
 "outputs_id": Array[String]([]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Int": {
-"id": "55eeeac1be92",
+"id": "e272821d0461",
 "outputs_id": Array[String]([]),
 "resource": "int",
 "variation": 0
@@ -965,92 +843,92 @@ windows=[{
 },
 "filename": "window_code_bugfix.tscn",
 "name": "code_bugfix0",
-"position": Vector2(2900, 3450),
+"position": Vector2(3300, 3450),
 "window": "code_bugfix"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/BugFix": {
-"id": "4f8a4926332d",
+"id": "eb90f0320c44",
 "outputs_id": Array[String]([]),
 "resource": "code_bugfix",
 "variation": 0
 },
 "PanelContainer/MainContainer/Code": {
-"id": "456ae525d72a",
+"id": "ff93fdc1b416",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 33
 },
 "PanelContainer/MainContainer/Fixed": {
-"id": "4e53590f0f0a",
-"outputs_id": Array[String](["e102dedd51e8"]),
+"id": "3ecfe1918fb9",
+"outputs_id": Array[String](["70da555198fe"]),
 "resource": "code_optimization",
 "variation": 1
 }
 },
 "filename": "window_fix_code.tscn",
 "name": "fix_code0",
-"position": Vector2(3700, 2950),
+"position": Vector2(4100, 2950),
 "window": "fix_code"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "a2fffefe4851",
+"id": "9ae5e5833185",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "e102dedd51e8",
+"id": "70da555198fe",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "c1b4233ee922",
+"id": "1df2172cc63f",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "22f0dab1ca62",
+"id": "dc6a47804c14",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "a34a447e1faf",
+"id": "800385f9b14f",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
 },
 "PanelContainer/MainContainer/Output": {
-"id": "358493d620d2",
-"outputs_id": Array[String](["ecff9cc824a0"]),
+"id": "4e5526a8e07f",
+"outputs_id": Array[String](["91aef8a658ec"]),
 "resource": "code_optimization",
 "variation": 1
 }
 },
 "filename": "window_repository.tscn",
 "name": "repository0",
-"position": Vector2(3700, 3250),
+"position": Vector2(4100, 3250),
 "window": "repository"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "0c159fa0f0c1",
-"outputs_id": Array[String](["265e95f8445b"]),
+"id": "fb6b56c2a173",
+"outputs_id": Array[String](["2ac6e0915d6c"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "45dd7136050b",
-"outputs_id": Array[String](["fd933745df41"]),
+"id": "c8bdf43252a0",
+"outputs_id": Array[String](["84c7593a780d"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "ff2511eeff98",
+"id": "de2b8de51664",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
@@ -1065,7 +943,7 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Research": {
-"id": "fd933745df41",
+"id": "84c7593a780d",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
@@ -1078,25 +956,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "c3b3b1c6a7fe",
+"id": "1d2d20fc067b",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "080643afc077",
+"id": "38179836bc37",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 2656
 },
 "PanelContainer/MainContainer/Points": {
-"id": "97fb5ab78106",
-"outputs_id": Array[String](["ffec39910931"]),
+"id": "732cddbd4d96",
+"outputs_id": Array[String](["725502b3d552"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "1b73b66c1868",
+"id": "af2db4b069f4",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -1109,25 +987,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/BreachDamage": {
-"id": "746d394e97ae",
+"id": "e80ac7ac7d0c",
 "outputs_id": Array[String]([]),
 "resource": "payload_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/InfectionDamage": {
-"id": "170849fcdc37",
+"id": "8437d2575fa9",
 "outputs_id": Array[String]([]),
 "resource": "infection_damage",
 "variation": 0
 },
 "PanelContainer/MainContainer/Result": {
-"id": "bf487f6fa67e",
-"outputs_id": Array[String](["bb7c6c9b342c"]),
+"id": "aed36b84c71d",
+"outputs_id": Array[String](["f6de97caac87"]),
 "resource": "government_data",
 "variation": 0
 },
 "PanelContainer/MainContainer/Vulnerability": {
-"id": "e2dcd3ab36fb",
+"id": "bd060036d125",
 "outputs_id": Array[String]([]),
 "resource": "vulnerability",
 "variation": 0
@@ -1135,43 +1013,12 @@ windows=[{
 },
 "filename": "window_breach_government.tscn",
 "name": "breach_government0",
-"position": Vector2(1600, 2500),
+"position": Vector2(2000, 2500),
 "window": "breach_government"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/BreachDamage": {
-"id": "d55ece9db8ce",
-"outputs_id": Array[String]([]),
-"resource": "payload_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/InfectionDamage": {
-"id": "b27ee8c770de",
-"outputs_id": Array[String]([]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/Result": {
-"id": "1ae6643f52da",
-"outputs_id": Array[String](["1cf9575f7ef3"]),
-"resource": "hack_experience",
-"variation": 0
-},
-"PanelContainer/MainContainer/Vulnerability": {
-"id": "5e6d898edfce",
-"outputs_id": Array[String]([]),
-"resource": "vulnerability",
-"variation": 0
-}
-},
-"filename": "window_breach_anonymous.tscn",
-"name": "breach_anonymous0",
-"position": Vector2(800, 2500),
-"window": "breach_anonymous"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/GPU": {
-"id": "8fb7f1118e92",
+"id": "759e105778d4",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
@@ -1184,13 +1031,13 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "1b3626729eac",
-"outputs_id": Array[String](["a03353407dc3"]),
+"id": "c7148f292acb",
+"outputs_id": Array[String](["5d7d96ade009"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/GPU": {
-"id": "b6ba043690ef",
+"id": "0dc9becd84c8",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
@@ -1202,51 +1049,20 @@ windows=[{
 "window": "task_scheduler"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Download": {
-"id": "5a91d8e9c099",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/DownloadOut": {
-"id": "f66bffead33d",
-"outputs_id": Array[String](["a1c77071611e"]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Upload": {
-"id": "de3c1a4c82e4",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/UploadOut": {
-"id": "f617650771ed",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-}
-},
-"filename": "window_network_exchanger.tscn",
-"name": "network_exchanger0",
-"position": Vector2(800, 1100),
-"window": "network_exchanger"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "2fab193374db",
-"outputs_id": Array[String](["bf0301593c8a", "d71f22e53519"]),
+"id": "43af06380680",
+"outputs_id": Array[String](["e919be167c31", "45ec4e1b6a28"]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "e07cfda30a7b",
-"outputs_id": Array[String](["ee52044ee9bd"]),
+"id": "87c58a5de17c",
+"outputs_id": Array[String](["13faea313c71"]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "3b7840d36093",
+"id": "a74a9a4d4749",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
@@ -1254,46 +1070,46 @@ windows=[{
 },
 "filename": "window_if.tscn",
 "name": "if0",
-"position": Vector2(2900, 2550),
+"position": Vector2(3300, 2550),
 "ratio": 8.0,
 "ratio2": 1.0,
 "window": "if"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "ee52044ee9bd",
+"id": "13faea313c71",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
-"id": "987eaed4bcb8",
-"outputs_id": Array[String](["7c80130df9d2"]),
+"id": "468323325d00",
+"outputs_id": Array[String](["996b4238698c"]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/char/ResourceContainer/Resource": {
-"id": "67556f29325f",
+"id": "bad9e3f96b1f",
 "outputs_id": Array[String]([]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/float/ResourceContainer/Resource": {
-"id": "9d03197c6573",
+"id": "546fd624c303",
 "outputs_id": Array[String]([]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/int/ResourceContainer/Resource": {
-"id": "22da2e907bf4",
-"outputs_id": Array[String](["55eeeac1be92"]),
+"id": "8f971a88481e",
+"outputs_id": Array[String](["e272821d0461"]),
 "resource": "int",
 "variation": 0
 }
 },
 "filename": "window_ide.tscn",
 "name": "ide1",
-"position": Vector2(2900, 2850),
+"position": Vector2(3300, 2850),
 "var_bool_ratio": 1.0,
 "var_char_ratio": 0.0,
 "var_float_ratio": 0.0,
@@ -1302,39 +1118,39 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "bf0301593c8a",
+"id": "e919be167c31",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
-"id": "181600e901a0",
-"outputs_id": Array[String](["a2ae7d16264e"]),
+"id": "73453f6f7310",
+"outputs_id": Array[String](["cb230e1b7b0c"]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/char/ResourceContainer/Resource": {
-"id": "9f3815fbfe7a",
+"id": "8dfa63c015f2",
 "outputs_id": Array[String]([]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/float/ResourceContainer/Resource": {
-"id": "525af0fbca5e",
-"outputs_id": Array[String](["030e34ad57ba", "1490b5f4721b"]),
+"id": "8ec5172ec12d",
+"outputs_id": Array[String](["05e7cc44c9d7", "e05d5d2d32ae"]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/int/ResourceContainer/Resource": {
-"id": "03f94626bc47",
-"outputs_id": Array[String](["ac97a0969503"]),
+"id": "61cc791b63a1",
+"outputs_id": Array[String](["95331a7c4137"]),
 "resource": "int",
 "variation": 0
 }
 },
 "filename": "window_ide.tscn",
 "name": "ide0",
-"position": Vector2(3300, 2550),
+"position": Vector2(3700, 2550),
 "var_bool_ratio": 1.0,
 "var_char_ratio": 0.0,
 "var_float_ratio": 2.0,
@@ -1343,7 +1159,7 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "ecff9cc824a0",
+"id": "91aef8a658ec",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 1
@@ -1351,55 +1167,55 @@ windows=[{
 },
 "filename": "window_build.tscn",
 "name": "build0",
-"position": Vector2(3700, 3600),
+"position": Vector2(4100, 3600),
 "window": "build"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Bugged": {
-"id": "5ef3e2967ef8",
-"outputs_id": Array[String](["456ae525d72a"]),
+"id": "156071923316",
+"outputs_id": Array[String](["ff93fdc1b416"]),
 "resource": "code_optimization",
 "variation": 33
 },
 "PanelContainer/MainContainer/Code": {
-"id": "9927bb48411e",
+"id": "24109a64e046",
 "outputs_id": Array[String]([]),
 "resource": "code_optimization",
 "variation": 0
 },
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "d71f22e53519",
+"id": "45ec4e1b6a28",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Fixed": {
-"id": "ef3c37a33bbc",
-"outputs_id": Array[String](["a2fffefe4851"]),
+"id": "a45af06b76bb",
+"outputs_id": Array[String](["9ae5e5833185"]),
 "resource": "code_optimization",
 "variation": 1
 }
 },
 "filename": "window_debug.tscn",
 "name": "debug0",
-"position": Vector2(3700, 2550),
+"position": Vector2(4100, 2550),
 "window": "debug"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "fd5e124b50e7",
-"outputs_id": Array[String](["14bf1fae3aa4", "1c7a3f887fb6"]),
+"id": "9bd4a29f93a3",
+"outputs_id": Array[String](["34b909494306", "e749dc8433f0"]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "b99c22237b4e",
-"outputs_id": Array[String](["2ce89d7fabe7"]),
+"id": "8fc110cc154a",
+"outputs_id": Array[String](["5295e56c01ac"]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "0d399c622fc4",
+"id": "ca67d74e5f83",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
@@ -1407,46 +1223,46 @@ windows=[{
 },
 "filename": "window_if.tscn",
 "name": "if1",
-"position": Vector2(4100, 2550),
+"position": Vector2(4500, 2550),
 "ratio": 16.0,
 "ratio2": 1.0,
 "window": "if"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "2ce89d7fabe7",
+"id": "5295e56c01ac",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
-"id": "ce2610a9ea3d",
-"outputs_id": Array[String](["3b0b4819ce20"]),
+"id": "4185fb4c3e22",
+"outputs_id": Array[String](["99ad4c47da11"]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/char/ResourceContainer/Resource": {
-"id": "ac68e3a3cbf5",
+"id": "a653079ddb1d",
 "outputs_id": Array[String]([]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/float/ResourceContainer/Resource": {
-"id": "ca852a4a405e",
+"id": "948cbb3cbfc2",
 "outputs_id": Array[String]([]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/int/ResourceContainer/Resource": {
-"id": "98fced28d901",
-"outputs_id": Array[String](["03ae77bb1a92"]),
+"id": "39260e2b9e26",
+"outputs_id": Array[String](["dd281a97d00e"]),
 "resource": "int",
 "variation": 0
 }
 },
 "filename": "window_ide.tscn",
 "name": "ide2",
-"position": Vector2(4100, 2850),
+"position": Vector2(4500, 2850),
 "var_bool_ratio": 1.0,
 "var_char_ratio": 0.0,
 "var_float_ratio": 0.0,
@@ -1455,63 +1271,63 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input1": {
-"id": "10b4747a8530",
+"id": "4903a027505c",
 "outputs_id": Array[String]([]),
 "resource": "int",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "c5d3e2d27e1c",
+"id": "35e55d350dc7",
 "outputs_id": Array[String]([]),
 "resource": "int",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "ea6e649cff74",
-"outputs_id": Array[String](["4e121dd8bf5f"]),
+"id": "40fdb354196e",
+"outputs_id": Array[String](["d126c8665178"]),
 "resource": "bigint",
 "variation": 0
 }
 },
 "filename": "window_variable_combiner.tscn",
 "name": "variable_combiner2",
-"position": Vector2(4500, 3150),
+"position": Vector2(4900, 3150),
 "window": "variable_combiner"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input1": {
-"id": "e280e03c26e6",
+"id": "65a15f51a63a",
 "outputs_id": Array[String]([]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "b082b83aa168",
+"id": "fc77ba7be400",
 "outputs_id": Array[String]([]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "0b4ecd53b4aa",
-"outputs_id": Array[String](["f6593c150fb6"]),
+"id": "2c659041a9bc",
+"outputs_id": Array[String](["9eda37843d21"]),
 "resource": "string",
 "variation": 0
 }
 },
 "filename": "window_variable_combiner.tscn",
 "name": "variable_combiner3",
-"position": Vector2(4500, 3450),
+"position": Vector2(4900, 3450),
 "window": "variable_combiner"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Array": {
-"id": "3363274db1c7",
-"outputs_id": Array[String](["99a996ba9eeb"]),
+"id": "affca0f35cfd",
+"outputs_id": Array[String](["7e6862f4f37e"]),
 "resource": "array_bigint",
 "variation": 0
 },
 "PanelContainer/MainContainer/Variable": {
-"id": "4e121dd8bf5f",
+"id": "d126c8665178",
 "outputs_id": Array[String]([]),
 "resource": "bigint",
 "variation": 0
@@ -1519,18 +1335,18 @@ windows=[{
 },
 "filename": "window_code_array.tscn",
 "name": "code_array0",
-"position": Vector2(4500, 3750),
+"position": Vector2(4900, 3750),
 "window": "code_array"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Array": {
-"id": "d2d65f6d3606",
-"outputs_id": Array[String](["dd11b1144a07"]),
+"id": "42e4ccc07a1e",
+"outputs_id": Array[String](["e854a409bb97"]),
 "resource": "array_string",
 "variation": 0
 },
 "PanelContainer/MainContainer/Variable": {
-"id": "f6593c150fb6",
+"id": "9eda37843d21",
 "outputs_id": Array[String]([]),
 "resource": "string",
 "variation": 0
@@ -1538,123 +1354,123 @@ windows=[{
 },
 "filename": "window_code_array.tscn",
 "name": "code_array1",
-"position": Vector2(4500, 3950),
+"position": Vector2(4900, 3950),
 "window": "code_array"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Bugged": {
-"id": "a6d06887ca00",
-"outputs_id": Array[String](["3d6b8eac4689"]),
+"id": "1e269a2a3e23",
+"outputs_id": Array[String](["7ca8f680eefa"]),
 "resource": "code_application",
 "variation": 33
 },
 "PanelContainer/MainContainer/Code": {
-"id": "f61f1b942c34",
+"id": "385d97b70ad5",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 0
 },
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "1c7a3f887fb6",
+"id": "e749dc8433f0",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Fixed": {
-"id": "e34a5b55b069",
-"outputs_id": Array[String](["5cf1cae49259"]),
+"id": "bd6fa9709093",
+"outputs_id": Array[String](["4633b3d0e268"]),
 "resource": "code_application",
 "variation": 1
 }
 },
 "filename": "window_debug.tscn",
 "name": "debug1",
-"position": Vector2(4900, 2550),
+"position": Vector2(5300, 2550),
 "window": "debug"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/BugFix": {
-"id": "e36769bc3075",
+"id": "18717a7613b9",
 "outputs_id": Array[String]([]),
 "resource": "code_bugfix",
 "variation": 0
 },
 "PanelContainer/MainContainer/Code": {
-"id": "3d6b8eac4689",
+"id": "7ca8f680eefa",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 33
 },
 "PanelContainer/MainContainer/Fixed": {
-"id": "38909ba93365",
-"outputs_id": Array[String](["7048f5b5b7d2"]),
+"id": "4f2e320b4a9e",
+"outputs_id": Array[String](["47e73a724205"]),
 "resource": "code_application",
 "variation": 1
 }
 },
 "filename": "window_fix_code.tscn",
 "name": "fix_code1",
-"position": Vector2(4900, 2950),
+"position": Vector2(5300, 2950),
 "window": "fix_code"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "5cf1cae49259",
+"id": "4633b3d0e268",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "7048f5b5b7d2",
+"id": "47e73a724205",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "7df31e9a2e82",
+"id": "87525b1f3f5a",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "f3752d2c40cd",
+"id": "dcb5c5c02821",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "22d4019ebf85",
+"id": "45a9cffcd5f4",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Output": {
-"id": "53a49568574e",
-"outputs_id": Array[String](["72d42e0cfd82", "90fd8ecbded3"]),
+"id": "b987c497021d",
+"outputs_id": Array[String](["978219743551", "269651141fb4"]),
 "resource": "code_application",
 "variation": 1
 }
 },
 "filename": "window_repository.tscn",
 "name": "repository1",
-"position": Vector2(4900, 3250),
+"position": Vector2(5300, 3250),
 "window": "repository"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "d472d8b8af83",
-"outputs_id": Array[String](["f61f1b942c34"]),
+"id": "d50538475922",
+"outputs_id": Array[String](["385d97b70ad5"]),
 "resource": "code_application",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/BitInt": {
-"id": "99a996ba9eeb",
+"id": "7e6862f4f37e",
 "outputs_id": Array[String]([]),
 "resource": "array_bigint",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/String": {
-"id": "dd11b1144a07",
+"id": "e854a409bb97",
 "outputs_id": Array[String]([]),
 "resource": "array_string",
 "variation": 0
@@ -1662,24 +1478,24 @@ windows=[{
 },
 "filename": "window_code_application.tscn",
 "name": "code_application0",
-"position": Vector2(4500, 4150),
+"position": Vector2(4900, 4150),
 "window": "code_application"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "3794b1e5f2c9",
-"outputs_id": Array[String](["e36769bc3075"]),
+"id": "52304116d151",
+"outputs_id": Array[String](["18717a7613b9"]),
 "resource": "code_bugfix",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Bool": {
-"id": "3b0b4819ce20",
+"id": "99ad4c47da11",
 "outputs_id": Array[String]([]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/Requirements/Int": {
-"id": "03ae77bb1a92",
+"id": "dd281a97d00e",
 "outputs_id": Array[String]([]),
 "resource": "int",
 "variation": 0
@@ -1687,44 +1503,44 @@ windows=[{
 },
 "filename": "window_code_bugfix.tscn",
 "name": "code_bugfix1",
-"position": Vector2(4100, 3450),
+"position": Vector2(4500, 3450),
 "window": "code_bugfix"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/CodeSpeed": {
-"id": "14bf1fae3aa4",
+"id": "34b909494306",
 "outputs_id": Array[String]([]),
 "resource": "code_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/bool/ResourceContainer/Resource": {
-"id": "035092f14705",
+"id": "dcca3f80563d",
 "outputs_id": Array[String]([]),
 "resource": "bool",
 "variation": 0
 },
 "PanelContainer/MainContainer/char/ResourceContainer/Resource": {
-"id": "644e660eccc8",
-"outputs_id": Array[String](["e280e03c26e6", "b082b83aa168"]),
+"id": "39566f359825",
+"outputs_id": Array[String](["65a15f51a63a", "fc77ba7be400"]),
 "resource": "char",
 "variation": 0
 },
 "PanelContainer/MainContainer/float/ResourceContainer/Resource": {
-"id": "df68289458c0",
+"id": "c199e47aeb47",
 "outputs_id": Array[String]([]),
 "resource": "float",
 "variation": 0
 },
 "PanelContainer/MainContainer/int/ResourceContainer/Resource": {
-"id": "5747b24f45c8",
-"outputs_id": Array[String](["10b4747a8530", "c5d3e2d27e1c"]),
+"id": "fdc485e66ae7",
+"outputs_id": Array[String](["4903a027505c", "35e55d350dc7"]),
 "resource": "int",
 "variation": 0
 }
 },
 "filename": "window_ide.tscn",
 "name": "_VBoxContainer_1075",
-"position": Vector2(4500, 2550),
+"position": Vector2(4900, 2550),
 "var_bool_ratio": 0.0,
 "var_char_ratio": 1.0,
 "var_float_ratio": 0.0,
@@ -1733,104 +1549,104 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "72d42e0cfd82",
+"id": "978219743551",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
 },
 "PanelContainer/MainContainer/Contribution": {
-"id": "4c7ad17a898e",
-"outputs_id": Array[String](["2581417f7cee"]),
+"id": "e36f1f79627b",
+"outputs_id": Array[String](["5e7697dd709a"]),
 "resource": "contribution",
 "variation": 0
 }
 },
 "filename": "window_commit.tscn",
 "name": "commit0",
-"position": Vector2(4900, 3600),
+"position": Vector2(5300, 3600),
 "window": "commit"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "506568dd316e",
+"id": "cc7f62cc7225",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock": {
-"id": "07fd667204b6",
-"outputs_id": Array[String](["addf52843149"]),
+"id": "a9adecd0ba21",
+"outputs_id": Array[String](["dceabca368a5"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock10": {
-"id": "b1a3bef5b822",
+"id": "de69762dcda3",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock2": {
-"id": "549c8b82afd5",
-"outputs_id": Array[String](["fbeacd0ada97"]),
+"id": "8c0b3e773d1a",
+"outputs_id": Array[String](["42dcf35104eb"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock3": {
-"id": "563eefb7e293",
-"outputs_id": Array[String](["1c572f20f6ea"]),
+"id": "9c670f71122e",
+"outputs_id": Array[String](["9ae871dbf8fd"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock4": {
-"id": "221128dff67e",
-"outputs_id": Array[String](["3a5e209ae061"]),
+"id": "5cdc33a1db8d",
+"outputs_id": Array[String](["440889ef4e44"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock5": {
-"id": "08720e9f6e03",
-"outputs_id": Array[String](["6c7ca0417102"]),
+"id": "7d85c41cb81e",
+"outputs_id": Array[String](["10631bf45227"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock6": {
-"id": "88b67cc5aabf",
-"outputs_id": Array[String](["f984fc7dd28b"]),
+"id": "ac97fb26dda5",
+"outputs_id": Array[String](["c96a15d45d6c"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock7": {
-"id": "3843a294396a",
+"id": "7a09007407e1",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock8": {
-"id": "99e8e91c94cd",
+"id": "c93753434643",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock9": {
-"id": "f150ff90c62d",
+"id": "028e643f8e97",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "8022433c624c",
+"id": "af71df03ac5a",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "384909c3fccf",
+"id": "67e0a04224b8",
 "outputs_id": Array[String]([]),
 "resource": "gpu",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "2814a324bb58",
+"id": "322580dcfab2",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
@@ -1841,31 +1657,245 @@ windows=[{
 "position": Vector2(0, 50),
 "window": "gpu_cluster"
 }, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "270d20f4b783",
+"outputs_id": Array[String]([]),
+"resource": "boost_hack",
+"variation": 0
+},
+"PanelContainer/MainContainer/Experience": {
+"id": "089f9749d1dc",
+"outputs_id": Array[String]([]),
+"resource": "hack_experience",
+"variation": 0
+},
+"PanelContainer/MainContainer/HackPower": {
+"id": "b19210a54e86",
+"outputs_id": Array[String](["182a6e2d6bcf"]),
+"resource": "hack_power",
+"variation": 0
+}
+},
+"filename": "window_hacker.tscn",
+"name": "hacker0",
+"position": Vector2(0, 2500),
+"window": "hacker"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "d566ecd0ba53",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "b0c4b7171e4a",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "00fa63534477",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "06326fc30070",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "a9bfcc192e75",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "e46358a95bd9",
+"outputs_id": Array[String](["51653bcc9ee6"]),
+"resource": "download_speed",
+"variation": 0
+}
+},
+"filename": "window_download_merger.tscn",
+"name": "download_merger0",
+"position": Vector2(800, 1450),
+"window": "download_merger"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "24afb840b32c",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/DownloadOut": {
+"id": "4d4d58c1e18a",
+"outputs_id": Array[String](["00fa63534477"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "b9e6a9e2cb11",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/UploadOut": {
+"id": "3aa3488192c0",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_network_exchanger.tscn",
+"name": "network_exchanger0",
+"position": Vector2(800, 1100),
+"window": "network_exchanger"
+}, {
 "color": 0,
 "container_data": {},
-"custom_icon": "",
-"custom_name": "application",
+"custom_icon": "code",
+"custom_name": "Application",
 "filename": "window_group.tscn",
 "name": "group2",
-"position": Vector2(4100, 2500),
+"position": Vector2(4500, 2500),
 "size": Vector2(1150, 1950),
 "window": "group"
 }, {
 "container_data": {
+"PanelContainer/MainContainer/BreachDamage": {
+"id": "34954dba7699",
+"outputs_id": Array[String]([]),
+"resource": "payload_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/InfectionDamage": {
+"id": "79c3cddc6876",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "2187a07e45f9",
+"outputs_id": Array[String](["089f9749d1dc"]),
+"resource": "hack_experience",
+"variation": 0
+},
+"PanelContainer/MainContainer/Vulnerability": {
+"id": "f99cad03ac6f",
+"outputs_id": Array[String]([]),
+"resource": "vulnerability",
+"variation": 0
+}
+},
+"filename": "window_breach_anonymous.tscn",
+"name": "breach_anonymous0",
+"position": Vector2(1200, 2500),
+"window": "breach_anonymous"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/DamageIn": {
+"id": "f7849bef750d",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/DamageOut": {
+"id": "7245f6980c95",
+"outputs_id": Array[String](["79c3cddc6876", "463b6fb3cc23", "8437d2575fa9", "e1ce2be88e1b"]),
+"resource": "infection_damage",
+"variation": 0
+}
+},
+"filename": "window_charged_attack.tscn",
+"name": "charged_attack0",
+"position": Vector2(400, 2750),
+"window": "charged_attack"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/DamageIn": {
+"id": "4a29467c17ee",
+"outputs_id": Array[String]([]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/DamageOut": {
+"id": "cd34746139c6",
+"outputs_id": Array[String](["f7849bef750d"]),
+"resource": "infection_damage",
+"variation": 0
+}
+},
+"filename": "window_charged_attack.tscn",
+"name": "@VBoxContainer@2153",
+"position": Vector2(400, 2500),
+"window": "charged_attack"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Damage": {
+"id": "8f5ca15c546d",
+"outputs_id": Array[String](["4a29467c17ee"]),
+"resource": "infection_damage",
+"variation": 0
+},
+"PanelContainer/MainContainer/HackPower": {
+"id": "182a6e2d6bcf",
+"outputs_id": Array[String]([]),
+"resource": "hack_power",
+"variation": 0
+}
+},
+"filename": "window_build_infection.tscn",
+"name": "build_infection0",
+"position": Vector2(0, 2750),
+"window": "build_infection"
+}, {
+"container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "f1b7f1cfa6ed",
-"outputs_id": Array[String](["975459de58c1"]),
+"id": "a0d8dc55509a",
+"outputs_id": Array[String](["70d2f810a65e"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "62362b9d0a58",
+"outputs_id": Array[String](["f2c626d6723e"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "51653bcc9ee6",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+}
+},
+"filename": "window_download_limiter.tscn",
+"name": "download_limiter0",
+"position": Vector2(1200, 100),
+"ratio": 1.0,
+"ratio2": 0.0,
+"window": "download_limiter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "c11b497e4563",
+"outputs_id": Array[String](["a2bd4426738b", "5aba9f11c13a"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "d15423b75c50",
-"outputs_id": Array[String](["277d68eb9bfc"]),
+"id": "95b8ede6c102",
+"outputs_id": Array[String](["1b3318e61ecb"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "5b883ea6a27d",
+"id": "e1df6ae5aa3a",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
@@ -1873,161 +1903,130 @@ windows=[{
 },
 "filename": "window_thread_manager.tscn",
 "name": "thread_manager0",
-"position": Vector2(1600, 50),
-"ratio": 32.0,
-"ratio2": 97.0,
+"position": Vector2(1600, 100),
+"ratio": 64.0,
+"ratio2": 47.0,
 "window": "thread_manager"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "975459de58c1",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Corrupted": {
-"id": "413514b09428",
-"outputs_id": Array[String](["65ca35404ba9"]),
-"resource": "video",
-"variation": 8450
-},
-"PanelContainer/MainContainer/File": {
-"id": "f35d31248b73",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 256
-},
-"PanelContainer/MainContainer/Validated": {
-"id": "4e16a0dec45f",
-"outputs_id": Array[String](["04d4335b6c7b"]),
-"resource": "video",
-"variation": 258
-}
-},
-"filename": "window_verifier.tscn",
-"name": "verifier0",
-"position": Vector2(2000, 50),
-"window": "verifier"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "eac44f224d28",
+"id": "335e0a9dd738",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "65ca35404ba9",
+"id": "da3b2c8db492",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 8450
+"variation": 8462
 },
 "PanelContainer/MainContainer/Output": {
-"id": "d1bd9e0552af",
-"outputs_id": Array[String](["bf8e24d5b516"]),
+"id": "dcccfeea4987",
+"outputs_id": Array[String](["34234eb1cce6"]),
 "resource": "video",
-"variation": 258
+"variation": 270
 }
 },
 "filename": "window_reconstructor.tscn",
 "name": "reconstructor0",
-"position": Vector2(2000, 450),
+"position": Vector2(2000, 1150),
 "window": "reconstructor"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "04d4335b6c7b",
+"id": "5875e99de6e1",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 258
+"variation": 270
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "bf8e24d5b516",
+"id": "34234eb1cce6",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 258
+"variation": 270
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "cb68a2e4017b",
+"id": "a0c1d2db6d9e",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 258
+"variation": 270
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "6d36d1b7cb3c",
+"id": "766cc13ba64e",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 258
+"variation": 270
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "eb0f1d8ea55f",
+"id": "e0990c388822",
 "outputs_id": Array[String]([]),
 "resource": "video",
-"variation": 258
+"variation": 270
 },
 "PanelContainer/MainContainer/Output": {
-"id": "927166e5cfbc",
-"outputs_id": Array[String](["7fbbaf8c9f03"]),
+"id": "f16d3edf56b7",
+"outputs_id": Array[String](["aa3687182206"]),
 "resource": "video",
-"variation": 258
+"variation": 270
 }
 },
 "filename": "window_folder.tscn",
 "name": "folder0",
-"position": Vector2(2000, 800),
+"position": Vector2(2000, 1500),
 "window": "folder"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "2fec20309c75",
+"id": "2a574f7e3046",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock": {
-"id": "cb95ef32385a",
-"outputs_id": Array[String](["3be0187820ad"]),
+"id": "1afd5113d4be",
+"outputs_id": Array[String](["5769ac17941d"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock2": {
-"id": "a606cfe5b684",
-"outputs_id": Array[String](["f0ecea7967e6"]),
+"id": "4b377e51c782",
+"outputs_id": Array[String](["25a968640dcf"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock3": {
-"id": "55324942a6bc",
-"outputs_id": Array[String](["2a26b72f5aab"]),
+"id": "c2206652e99d",
+"outputs_id": Array[String](["3c145d2f5eb7"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock4": {
-"id": "b7d75643a51d",
-"outputs_id": Array[String](["b5ebafdc51be"]),
+"id": "6f1ae76a741b",
+"outputs_id": Array[String](["17b2b575ea01"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock5": {
-"id": "d58b3c579460",
-"outputs_id": Array[String](["e02ed3508e8d"]),
+"id": "495995ba9835",
+"outputs_id": Array[String](["3bdd64e2697e"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "d7bcd428a7a2",
+"id": "8697e387520a",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "237f806cd668",
+"id": "640c66560e09",
 "outputs_id": Array[String]([]),
 "resource": "cpu_core",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "671d12402b0f",
+"id": "187a75ddc796",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
@@ -2038,19 +2037,9 @@ windows=[{
 "position": Vector2(400, 50),
 "window": "processor"
 }, {
-"color": 0,
-"container_data": {},
-"custom_icon": "code",
-"custom_name": "optimisation",
-"filename": "window_group.tscn",
-"name": "group1",
-"position": Vector2(2900, 2500),
-"size": Vector2(1150, 1950),
-"window": "group"
-}, {
 "container_data": {
 "PanelContainer/MainContainer/Code": {
-"id": "90fd8ecbded3",
+"id": "269651141fb4",
 "outputs_id": Array[String]([]),
 "resource": "code_application",
 "variation": 1
@@ -2058,100 +2047,157 @@ windows=[{
 },
 "filename": "window_build.tscn",
 "name": "build1",
-"position": Vector2(4900, 3800),
+"position": Vector2(5300, 3800),
 "window": "build"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "code",
+"custom_name": "Optimisation",
+"filename": "window_group.tscn",
+"name": "group1",
+"position": Vector2(3300, 2500),
+"size": Vector2(1150, 1950),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "1",
+"filename": "window_group.tscn",
+"name": "group3",
+"position": Vector2(1200, 50),
+"size": Vector2(350, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "1",
+"filename": "window_group.tscn",
+"name": "@VBoxContainer@2393",
+"position": Vector2(1600, 50),
+"size": Vector2(350, 100),
+"window": "group"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "5019d5bc898e",
-"outputs_id": Array[String](["1ca19aa8e833"]),
+"id": "783ed83e2248",
+"outputs_id": Array[String](["11a622fecb4b"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "2af80786524a",
-"outputs_id": Array[String](["5aa851a9bbee"]),
+"id": "8d4cde9cb5f6",
+"outputs_id": Array[String](["b7177d36041b"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "fe7230f63a83",
+"id": "70d2f810a65e",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 }
 },
 "filename": "window_download_limiter.tscn",
-"name": "download_limiter1",
-"position": Vector2(1200, 650),
+"name": "_VBoxContainer_2331",
+"position": Vector2(1200, 450),
+"ratio": 11.0,
+"ratio2": 30.0,
+"window": "download_limiter"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "a0a7554852c4",
+"outputs_id": Array[String](["83ab0dafcd6f"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "b4a5cd3dabf6",
+"outputs_id": Array[String](["a4361dcff3d5"]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "11a622fecb4b",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+}
+},
+"filename": "window_download_limiter.tscn",
+"name": "@VBoxContainer@2618",
+"position": Vector2(1200, 800),
 "ratio": 1.0,
 "ratio2": 10.0,
 "window": "download_limiter"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "1ca19aa8e833",
+"id": "83ab0dafcd6f",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Torrents/Game": {
-"id": "54cf604f40b3",
+"id": "c97621ec3891",
 "outputs_id": Array[String]([]),
 "resource": "torrent_game",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrents/Image": {
-"id": "3d7c7b049314",
+"id": "980add1c0a2a",
 "outputs_id": Array[String]([]),
 "resource": "torrent_image",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrents/Program": {
-"id": "571b14c5043f",
+"id": "dfbf9809ca3d",
 "outputs_id": Array[String]([]),
 "resource": "torrent_program",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrents/Sound": {
-"id": "2fe08e1958ca",
+"id": "d80274c1b321",
 "outputs_id": Array[String]([]),
 "resource": "torrent_sound",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrents/Text": {
-"id": "fcf7b201d3c3",
+"id": "78d2ef111bcf",
 "outputs_id": Array[String]([]),
 "resource": "torrent_text",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrents/Video": {
-"id": "2d0ac4d158a4",
-"outputs_id": Array[String](["92054c2249cf"]),
+"id": "f437ba1deb8b",
+"outputs_id": Array[String](["5d086a3bc14e"]),
 "resource": "torrent_video",
 "variation": 256
 }
 },
 "filename": "window_torrent_browser_infected.tscn",
 "name": "torrent_browser_infected0",
-"position": Vector2(1200, 950),
+"position": Vector2(1200, 1100),
 "window": "torrent_browser_infected"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "5aa851a9bbee",
+"id": "a4361dcff3d5",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "c981458a7431",
-"outputs_id": Array[String](["f35d31248b73"]),
+"id": "7c8af44a50cb",
+"outputs_id": Array[String](["4006d89fd76c"]),
 "resource": "video",
 "variation": 256
 },
 "PanelContainer/MainContainer/Torrent": {
-"id": "92054c2249cf",
+"id": "5d086a3bc14e",
 "outputs_id": Array[String]([]),
 "resource": "torrent_video",
 "variation": 256
@@ -2159,284 +2205,51 @@ windows=[{
 },
 "filename": "window_torrent_downloader.tscn",
 "name": "torrent_downloader0",
-"position": Vector2(1200, 1550),
+"position": Vector2(1200, 1700),
 "window": "torrent_downloader"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "2ed06c4e699e",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "7fbbaf8c9f03",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 258
-},
-"PanelContainer/MainContainer/Output": {
-"id": "00757d8a29ba",
-"outputs_id": Array[String](["89c79028a8d8"]),
-"resource": "video",
-"variation": 262
-}
-},
-"filename": "window_compressor.tscn",
-"name": "compressor0",
-"position": Vector2(2000, 1150),
-"window": "compressor"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "9bb17c97b8b6",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "89c79028a8d8",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 262
-},
-"PanelContainer/MainContainer/Output": {
-"id": "ebb77d93222c",
-"outputs_id": Array[String](["0bf0dd4331d3"]),
-"resource": "video",
-"variation": 270
-}
-},
-"filename": "window_compressor.tscn",
-"name": "compressor3",
-"position": Vector2(2000, 1500),
-"window": "compressor"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "39da95844850",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "0bf0dd4331d3",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 270
-},
-"PanelContainer/MainContainer/Output": {
-"id": "31060f7f40d6",
-"outputs_id": Array[String](["6951bf612383"]),
-"resource": "video",
-"variation": 14
-},
-"PanelContainer/MainContainer/Virus": {
-"id": "bff1d4d5e4a4",
-"outputs_id": Array[String](["eac7fa80d857"]),
-"resource": "virus",
-"variation": 0
-}
-},
-"filename": "window_quarantine.tscn",
-"name": "quarantine0",
-"position": Vector2(2000, 1850),
-"window": "quarantine"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "5c2edd93cff9",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "6951bf612383",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 14
-},
-"PanelContainer/MainContainer/Output": {
-"id": "38eb8f3251c0",
-"outputs_id": Array[String](["b3b33eff9147"]),
-"resource": "video",
-"variation": 15
-}
-},
-"filename": "window_antivirus_pro.tscn",
-"name": "antivirus_pro0",
-"position": Vector2(2400, 50),
-"window": "antivirus_pro"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Trojan": {
-"id": "d31a017d4b37",
-"outputs_id": Array[String](["3440086b1ca6"]),
-"resource": "trojan",
-"variation": 0
-},
-"PanelContainer/MainContainer/Virus": {
-"id": "eac7fa80d857",
-"outputs_id": Array[String]([]),
-"resource": "virus",
-"variation": 0
-}
-},
-"filename": "window_virus_manipulator.tscn",
-"name": "virus_manipulator0",
-"position": Vector2(2400, 400),
-"window": "virus_manipulator"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "748b56cd500d",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "b3b33eff9147",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 15
-},
-"PanelContainer/MainContainer/Output": {
-"id": "5fdd0a3668f0",
-"outputs_id": Array[String](["95bbd035afce"]),
-"resource": "video",
-"variation": 4367
-},
-"PanelContainer/MainContainer/Trojan": {
-"id": "3440086b1ca6",
-"outputs_id": Array[String]([]),
-"resource": "trojan",
-"variation": 0
-}
-},
-"filename": "window_trojan_injector.tscn",
-"name": "trojan_injector0",
-"position": Vector2(2400, 600),
-"window": "trojan_injector"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "c3fbc33307b7",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "95bbd035afce",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 4367
-},
-"PanelContainer/MainContainer/Output": {
-"id": "9820e31d3420",
-"outputs_id": Array[String](["6060a161685c"]),
-"resource": "video",
-"variation": 4111
-}
-},
-"filename": "window_obfuscator.tscn",
-"name": "obfuscator0",
-"position": Vector2(2400, 1000),
-"window": "obfuscator"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "36f4284dbcfe",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "6060a161685c",
-"outputs_id": Array[String]([]),
-"resource": "video",
-"variation": 4111
-},
-"PanelContainer/MainContainer/Output": {
-"id": "d2ba7e60ebfc",
-"outputs_id": Array[String](["6e344dba9141"]),
-"resource": "video",
-"variation": 4195
-}
-},
-"filename": "window_flipper.tscn",
-"name": "flipper0",
-"position": Vector2(2400, 1350),
-"window": "flipper"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "ce98716ab468",
-"outputs_id": Array[String](["eac44f224d28"]),
+"id": "ce0e6817772a",
+"outputs_id": Array[String](["c9ce16faac1b"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "c94744a0b2be",
-"outputs_id": Array[String](["e39300e6590a"]),
+"id": "308b9bc29fa9",
+"outputs_id": Array[String](["8ec0b742a8de"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "277d68eb9bfc",
+"id": "1b3318e61ecb",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 }
 },
 "filename": "window_thread_manager.tscn",
-"name": "thread_manager4",
-"position": Vector2(1600, 350),
-"ratio": 16.0,
-"ratio2": 81.0,
+"name": "thread_manager1",
+"position": Vector2(1600, 450),
+"ratio": 8.0,
+"ratio2": 39.0,
 "window": "thread_manager"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Output1/Splitted": {
-"id": "68ada968687e",
-"outputs_id": Array[String](["2ed06c4e699e", "9bb17c97b8b6"]),
+"id": "79dce4173670",
+"outputs_id": Array[String](["3e6c1fa50731", "335e0a9dd738", "e95d69c347af", "bd4563f1dfdd", "95a3ce687d75"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output2/Splitted": {
-"id": "ccf4b4b0b8e8",
-"outputs_id": Array[String](["18e514091f6b"]),
+"id": "dc0230eec85b",
+"outputs_id": Array[String](["0a3a76f164ee"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Splitting": {
-"id": "e39300e6590a",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-}
-},
-"filename": "window_thread_manager.tscn",
-"name": "thread_manager3",
-"position": Vector2(1600, 650),
-"ratio": 16.0,
-"ratio2": 11.0,
-"window": "thread_manager"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "313e8404b746",
-"outputs_id": Array[String](["39da95844850", "5c2edd93cff9", "748b56cd500d", "c3fbc33307b7"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "a07b17d1bbd6",
-"outputs_id": Array[String](["36f4284dbcfe"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "18e514091f6b",
+"id": "8ec0b742a8de",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
@@ -2444,95 +2257,315 @@ windows=[{
 },
 "filename": "window_thread_manager.tscn",
 "name": "thread_manager2",
-"position": Vector2(1600, 950),
-"ratio": 8.0,
+"position": Vector2(1600, 800),
+"ratio": 10.0,
 "ratio2": 3.0,
 "window": "thread_manager"
 }, {
-"container_data": {
-"PanelContainer/MainContainer/DamageIn": {
-"id": "edd3fe3aebd7",
-"outputs_id": Array[String]([]),
-"resource": "infection_damage",
-"variation": 0
-},
-"PanelContainer/MainContainer/DamageOut": {
-"id": "045ea5665297",
-"outputs_id": Array[String](["b77199e8fcd2"]),
-"resource": "infection_damage",
-"variation": 0
-}
-},
-"filename": "window_charged_attack.tscn",
-"name": "charged_attack1",
-"position": Vector2(400, 2800),
-"window": "charged_attack"
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "2",
+"filename": "window_group.tscn",
+"name": "group4",
+"position": Vector2(1200, 400),
+"size": Vector2(350, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "2",
+"filename": "window_group.tscn",
+"name": "@VBoxContainer@2782",
+"position": Vector2(1600, 400),
+"size": Vector2(350, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "3",
+"filename": "window_group.tscn",
+"name": "@VBoxContainer@2567",
+"position": Vector2(1200, 750),
+"size": Vector2(350, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "3",
+"filename": "window_group.tscn",
+"name": "_VBoxContainer_2567",
+"position": Vector2(1600, 750),
+"size": Vector2(350, 100),
+"window": "group"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/DamageIn": {
-"id": "b77199e8fcd2",
+"PanelContainer/MainContainer/Clock": {
+"id": "5aba9f11c13a",
 "outputs_id": Array[String]([]),
-"resource": "infection_damage",
+"resource": "clock_speed",
 "variation": 0
 },
-"PanelContainer/MainContainer/DamageOut": {
-"id": "6a049db76229",
-"outputs_id": Array[String](["bf24f97c9a72", "170849fcdc37", "cf5cbe9ee694", "b27ee8c770de"]),
-"resource": "infection_damage",
-"variation": 0
+"PanelContainer/MainContainer/File": {
+"id": "858fd18f82bc",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 260
+},
+"PanelContainer/MainContainer/Output": {
+"id": "2cbf9f7f659e",
+"outputs_id": Array[String](["0a4d25ca4fb8"]),
+"resource": "video",
+"variation": 268
 }
 },
-"filename": "window_charged_attack.tscn",
-"name": "charged_attack0",
-"position": Vector2(400, 3050),
-"window": "charged_attack"
+"filename": "window_compressor.tscn",
+"name": "compressor0",
+"position": Vector2(2000, 400),
+"window": "compressor"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Damage": {
-"id": "238a14a7db05",
-"outputs_id": Array[String](["edd3fe3aebd7"]),
-"resource": "infection_damage",
+"PanelContainer/MainContainer/Clock": {
+"id": "c9ce16faac1b",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
 "variation": 0
 },
-"PanelContainer/MainContainer/HackPower": {
-"id": "bd619c6cc8cd",
+"PanelContainer/MainContainer/Corrupted": {
+"id": "d665e0647d63",
+"outputs_id": Array[String](["da3b2c8db492"]),
+"resource": "video",
+"variation": 8462
+},
+"PanelContainer/MainContainer/File": {
+"id": "0a4d25ca4fb8",
 "outputs_id": Array[String]([]),
-"resource": "hack_power",
+"resource": "video",
+"variation": 268
+},
+"PanelContainer/MainContainer/Validated": {
+"id": "0437b26e49a1",
+"outputs_id": Array[String](["5875e99de6e1"]),
+"resource": "video",
+"variation": 270
+}
+},
+"filename": "window_verifier.tscn",
+"name": "verifier0",
+"position": Vector2(2000, 750),
+"window": "verifier"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "a2bd4426738b",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "4006d89fd76c",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 256
+},
+"PanelContainer/MainContainer/Output": {
+"id": "4686260202c2",
+"outputs_id": Array[String](["858fd18f82bc"]),
+"resource": "video",
+"variation": 260
+}
+},
+"filename": "window_compressor.tscn",
+"name": "compressor3",
+"position": Vector2(2000, 50),
+"window": "compressor"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Trojan": {
+"id": "a7218c427fec",
+"outputs_id": Array[String](["da3381f3f95d"]),
+"resource": "trojan",
+"variation": 0
+},
+"PanelContainer/MainContainer/Virus": {
+"id": "cce9e162dec1",
+"outputs_id": Array[String]([]),
+"resource": "virus",
 "variation": 0
 }
 },
-"filename": "window_build_infection.tscn",
-"name": "build_infection0",
-"position": Vector2(400, 2500),
-"window": "build_infection"
+"filename": "window_virus_manipulator.tscn",
+"name": "virus_manipulator0",
+"position": Vector2(2400, 800),
+"window": "virus_manipulator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "bd4563f1dfdd",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "f95b16e5ba44",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 15
+},
+"PanelContainer/MainContainer/Output": {
+"id": "b79a411c4e7e",
+"outputs_id": Array[String](["3f78cfa8fc0c"]),
+"resource": "video",
+"variation": 4367
+},
+"PanelContainer/MainContainer/Trojan": {
+"id": "da3381f3f95d",
+"outputs_id": Array[String]([]),
+"resource": "trojan",
+"variation": 0
+}
+},
+"filename": "window_trojan_injector.tscn",
+"name": "trojan_injector0",
+"position": Vector2(2400, 1050),
+"window": "trojan_injector"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "95a3ce687d75",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "3f78cfa8fc0c",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 4367
+},
+"PanelContainer/MainContainer/Output": {
+"id": "6efb9613f2b5",
+"outputs_id": Array[String](["81ea41968217"]),
+"resource": "video",
+"variation": 4111
+}
+},
+"filename": "window_obfuscator.tscn",
+"name": "obfuscator0",
+"position": Vector2(2400, 1450),
+"window": "obfuscator"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "0a3a76f164ee",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "81ea41968217",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 4111
+},
+"PanelContainer/MainContainer/Output": {
+"id": "4399bf32071a",
+"outputs_id": Array[String](["a3d3a07e8141"]),
+"resource": "video",
+"variation": 4195
+}
+},
+"filename": "window_flipper.tscn",
+"name": "flipper0",
+"position": Vector2(2400, 1800),
+"window": "flipper"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "e95d69c347af",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "cf16196e4e17",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 14
+},
+"PanelContainer/MainContainer/Output": {
+"id": "9ea182e697c4",
+"outputs_id": Array[String](["f95b16e5ba44"]),
+"resource": "video",
+"variation": 15
+}
+},
+"filename": "window_antivirus_pro.tscn",
+"name": "antivirus_pro0",
+"position": Vector2(2400, 450),
+"window": "antivirus_pro"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "3e6c1fa50731",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "aa3687182206",
+"outputs_id": Array[String]([]),
+"resource": "video",
+"variation": 270
+},
+"PanelContainer/MainContainer/Output": {
+"id": "6c23daf8f064",
+"outputs_id": Array[String](["cf16196e4e17"]),
+"resource": "video",
+"variation": 14
+},
+"PanelContainer/MainContainer/Virus": {
+"id": "a8546a09e0fc",
+"outputs_id": Array[String](["cce9e162dec1"]),
+"resource": "virus",
+"variation": 0
+}
+},
+"filename": "window_quarantine.tscn",
+"name": "quarantine0",
+"position": Vector2(2400, 50),
+"window": "quarantine"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input": {
-"id": "f7a1e783395a",
+"id": "c3db612cc818",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "265e95f8445b",
+"id": "2ac6e0915d6c",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input3": {
-"id": "9f080d3ce6c1",
+"id": "42776204b2bf",
 "outputs_id": Array[String]([]),
 "resource": "corporation_data",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input4": {
-"id": "bb7c6c9b342c",
+"id": "f6de97caac87",
 "outputs_id": Array[String]([]),
 "resource": "government_data",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input5": {
-"id": "0b7e6814c613",
+"id": "f36bf0c3067b",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
@@ -2545,13 +2578,13 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "b8f96fda8431",
-"outputs_id": Array[String](["aeb744915515", "74536209127f"]),
+"id": "79c39248c2e2",
+"outputs_id": Array[String](["914d7782d55a", "4558e13601a9"]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Infections": {
-"id": "f9b16a11701b",
+"id": "fc46ac2dfb60",
 "outputs_id": Array[String]([]),
 "resource": "infected_computer",
 "variation": 0
@@ -2564,38 +2597,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "74536209127f",
+"id": "4558e13601a9",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Download": {
-"id": "7cb8b3256438",
-"outputs_id": Array[String](["1df1d318e197"]),
+"id": "4195d3011812",
+"outputs_id": Array[String](["b0c4b7171e4a"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "9a96626b6e63",
+"id": "a4e4aaa43c4c",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "d9f16a245fee",
+"id": "b4d76807c1c2",
 "outputs_id": Array[String]([]),
 "resource": "router",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "3124c8258ea3",
+"id": "554f242f4b52",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "27254929941a",
-"outputs_id": Array[String](["d5bf5d34dff4"]),
+"id": "6d0c5dbe46cc",
+"outputs_id": Array[String](["8277448bda05"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -2606,413 +2639,410 @@ windows=[{
 "window": "network"
 }]
 connectors={
-"030e34ad57ba": {
+"00fa63534477": {
 "custom_points": Array[Vector2]([])
 },
-"03ae77bb1a92": {
+"023f10bda714": {
 "custom_points": Array[Vector2]([])
 },
-"04d4335b6c7b": {
+"05e7cc44c9d7": {
 "custom_points": Array[Vector2]([])
 },
-"056d03b8be6a": {
+"089f9749d1dc": {
 "custom_points": Array[Vector2]([])
 },
-"080643afc077": {
+"0a3a76f164ee": {
 "custom_points": Array[Vector2]([])
 },
-"0bf0dd4331d3": {
+"0a4947386ee9": {
 "custom_points": Array[Vector2]([])
 },
-"0d399c622fc4": {
+"0a4d25ca4fb8": {
 "custom_points": Array[Vector2]([])
 },
-"10b4747a8530": {
+"0dc9becd84c8": {
 "custom_points": Array[Vector2]([])
 },
-"11482ced867f": {
+"10631bf45227": {
 "custom_points": Array[Vector2]([])
 },
-"11bda7929b8b": {
+"11a622fecb4b": {
 "custom_points": Array[Vector2]([])
 },
-"1490b5f4721b": {
+"13faea313c71": {
 "custom_points": Array[Vector2]([])
 },
-"14bf1fae3aa4": {
+"17b2b575ea01": {
 "custom_points": Array[Vector2]([])
 },
-"150be49c5c1d": {
+"182a6e2d6bcf": {
 "custom_points": Array[Vector2]([])
 },
-"166004e2309e": {
+"186e27e9a97f": {
 "custom_points": Array[Vector2]([])
 },
-"170849fcdc37": {
+"18717a7613b9": {
 "custom_points": Array[Vector2]([])
 },
-"18e514091f6b": {
+"18762ad33125": {
 "custom_points": Array[Vector2]([])
 },
-"1c572f20f6ea": {
+"1b3318e61ecb": {
 "custom_points": Array[Vector2]([])
 },
-"1c7a3f887fb6": {
+"1e562e3e8d4a": {
 "custom_points": Array[Vector2]([])
 },
-"1ca19aa8e833": {
+"24109a64e046": {
 "custom_points": Array[Vector2]([])
 },
-"1cf9575f7ef3": {
+"2560f2fe3713": {
 "custom_points": Array[Vector2]([])
 },
-"1d2c1955504e": {
+"25a968640dcf": {
 "custom_points": Array[Vector2]([])
 },
-"1de11feee7d6": {
+"269651141fb4": {
 "custom_points": Array[Vector2]([])
 },
-"1df1d318e197": {
+"299d800975bf": {
 "custom_points": Array[Vector2]([])
 },
-"2581417f7cee": {
+"2ac6e0915d6c": {
 "custom_points": Array[Vector2]([])
 },
-"265e95f8445b": {
+"335e0a9dd738": {
 "custom_points": Array[Vector2]([])
 },
-"277d68eb9bfc": {
+"34234eb1cce6": {
 "custom_points": Array[Vector2]([])
 },
-"284a1bff1af7": {
+"34b909494306": {
 "custom_points": Array[Vector2]([])
 },
-"2a26b72f5aab": {
+"35e55d350dc7": {
 "custom_points": Array[Vector2]([])
 },
-"2ce89d7fabe7": {
+"38179836bc37": {
 "custom_points": Array[Vector2]([])
 },
-"2ed06c4e699e": {
+"385d97b70ad5": {
 "custom_points": Array[Vector2]([])
 },
-"33542bda2f7e": {
+"3bdd64e2697e": {
 "custom_points": Array[Vector2]([])
 },
-"3440086b1ca6": {
+"3c145d2f5eb7": {
 "custom_points": Array[Vector2]([])
 },
-"36f4284dbcfe": {
+"3e6c1fa50731": {
 "custom_points": Array[Vector2]([])
 },
-"39da95844850": {
+"3f78cfa8fc0c": {
 "custom_points": Array[Vector2]([])
 },
-"3a5e209ae061": {
+"4006d89fd76c": {
 "custom_points": Array[Vector2]([])
 },
-"3b0b4819ce20": {
+"42776204b2bf": {
 "custom_points": Array[Vector2]([])
 },
-"3b7840d36093": {
+"42dcf35104eb": {
 "custom_points": Array[Vector2]([])
 },
-"3be0187820ad": {
+"440889ef4e44": {
 "custom_points": Array[Vector2]([])
 },
-"3d6b8eac4689": {
+"4558e13601a9": {
 "custom_points": Array[Vector2]([])
 },
-"3f84703343aa": {
+"45ec4e1b6a28": {
 "custom_points": Array[Vector2]([])
 },
-"456ae525d72a": {
+"4633b3d0e268": {
 "custom_points": Array[Vector2]([])
 },
-"46a497c49f50": {
+"463b6fb3cc23": {
 "custom_points": Array[Vector2]([])
 },
-"4b396934355b": {
+"47e73a724205": {
 "custom_points": Array[Vector2]([])
 },
-"4e121dd8bf5f": {
+"4903a027505c": {
 "custom_points": Array[Vector2]([])
 },
-"4f8a4926332d": {
+"4a29467c17ee": {
 "custom_points": Array[Vector2]([])
 },
-"55eeeac1be92": {
+"5147baf10ad9": {
 "custom_points": Array[Vector2]([])
 },
-"5aa851a9bbee": {
+"51653bcc9ee6": {
 "custom_points": Array[Vector2]([])
 },
-"5b883ea6a27d": {
+"5295e56c01ac": {
 "custom_points": Array[Vector2]([])
 },
-"5c2edd93cff9": {
+"5769ac17941d": {
 "custom_points": Array[Vector2]([])
 },
-"5c4561cac853": {
+"5875e99de6e1": {
 "custom_points": Array[Vector2]([])
 },
-"5cf1cae49259": {
+"5aba9f11c13a": {
 "custom_points": Array[Vector2]([])
 },
-"5ec5ad9f2e9c": {
+"5d086a3bc14e": {
 "custom_points": Array[Vector2]([])
 },
-"6060a161685c": {
+"5d7d96ade009": {
 "custom_points": Array[Vector2]([])
 },
-"65ca35404ba9": {
+"5e7697dd709a": {
 "custom_points": Array[Vector2]([])
 },
-"6951bf612383": {
+"65a15f51a63a": {
 "custom_points": Array[Vector2]([])
 },
-"6c7ca0417102": {
+"685498fa4726": {
 "custom_points": Array[Vector2]([])
 },
-"6e344dba9141": {
+"69a97cb74150": {
 "custom_points": Array[Vector2]([])
 },
-"6febacb4ed26": {
+"70d2f810a65e": {
 "custom_points": Array[Vector2]([])
 },
-"7048f5b5b7d2": {
+"70da555198fe": {
 "custom_points": Array[Vector2]([])
 },
-"7215fe064703": {
+"725502b3d552": {
 "custom_points": Array[Vector2]([])
 },
-"72d42e0cfd82": {
+"759e105778d4": {
 "custom_points": Array[Vector2]([])
 },
-"74536209127f": {
+"79c3cddc6876": {
 "custom_points": Array[Vector2]([])
 },
-"748b56cd500d": {
+"7ca8f680eefa": {
 "custom_points": Array[Vector2]([])
 },
-"7c3ee95f1e8a": {
+"7e6862f4f37e": {
 "custom_points": Array[Vector2]([])
 },
-"7c80130df9d2": {
+"7fe72a9ae8a4": {
 "custom_points": Array[Vector2]([])
 },
-"7fb2afcea481": {
+"81ea41968217": {
 "custom_points": Array[Vector2]([])
 },
-"7fbbaf8c9f03": {
+"8277448bda05": {
 "custom_points": Array[Vector2]([])
 },
-"89c79028a8d8": {
+"83ab0dafcd6f": {
 "custom_points": Array[Vector2]([])
 },
-"8d211877e1ae": {
+"8437d2575fa9": {
 "custom_points": Array[Vector2]([])
 },
-"8fb7f1118e92": {
+"84c7593a780d": {
 "custom_points": Array[Vector2]([])
 },
-"90fd8ecbded3": {
+"858fd18f82bc": {
 "custom_points": Array[Vector2]([])
 },
-"92054c2249cf": {
+"8eb7e17bb303": {
 "custom_points": Array[Vector2]([])
 },
-"95bbd035afce": {
+"8ec0b742a8de": {
 "custom_points": Array[Vector2]([])
 },
-"975459de58c1": {
+"914d7782d55a": {
 "custom_points": Array[Vector2]([])
 },
-"9927bb48411e": {
+"915678923227": {
 "custom_points": Array[Vector2]([])
 },
-"99a996ba9eeb": {
+"91aef8a658ec": {
 "custom_points": Array[Vector2]([])
 },
-"9a0258f6a82d": {
+"921730083521": {
 "custom_points": Array[Vector2]([])
 },
-"9bb17c97b8b6": {
+"95331a7c4137": {
 "custom_points": Array[Vector2]([])
 },
-"9c48b2720a3a": {
+"95a3ce687d75": {
 "custom_points": Array[Vector2]([])
 },
-"9c9743c4cb5a": {
+"9645a5c11a82": {
 "custom_points": Array[Vector2]([])
 },
-"9f080d3ce6c1": {
+"978219743551": {
 "custom_points": Array[Vector2]([])
 },
-"a03353407dc3": {
+"98824ec612c2": {
 "custom_points": Array[Vector2]([])
 },
-"a1c77071611e": {
+"996b4238698c": {
 "custom_points": Array[Vector2]([])
 },
-"a2ae7d16264e": {
+"99ad4c47da11": {
 "custom_points": Array[Vector2]([])
 },
-"a2fffefe4851": {
+"9ae5e5833185": {
 "custom_points": Array[Vector2]([])
 },
-"ac97a0969503": {
+"9ae871dbf8fd": {
 "custom_points": Array[Vector2]([])
 },
-"addf52843149": {
+"9eda37843d21": {
 "custom_points": Array[Vector2]([])
 },
-"aeb744915515": {
+"a2bd4426738b": {
 "custom_points": Array[Vector2]([])
 },
-"b082b83aa168": {
+"a3d3a07e8141": {
 "custom_points": Array[Vector2]([])
 },
-"b27ee8c770de": {
+"a4361dcff3d5": {
 "custom_points": Array[Vector2]([])
 },
-"b3b33eff9147": {
+"a74a9a4d4749": {
 "custom_points": Array[Vector2]([])
 },
-"b5ebafdc51be": {
+"a9c6c9713766": {
 "custom_points": Array[Vector2]([])
 },
-"b6ba043690ef": {
+"a9e92d4372bb": {
 "custom_points": Array[Vector2]([])
 },
-"b77199e8fcd2": {
+"aa3687182206": {
 "custom_points": Array[Vector2]([])
 },
-"bb7c6c9b342c": {
+"ab27bdc99f28": {
 "custom_points": Array[Vector2]([])
 },
-"bd619c6cc8cd": {
+"b0c4b7171e4a": {
 "custom_points": Array[Vector2]([])
 },
-"bf0301593c8a": {
+"b7177d36041b": {
 "custom_points": Array[Vector2]([])
 },
-"bf24f97c9a72": {
+"b7a89464f835": {
 "custom_points": Array[Vector2]([])
 },
-"bf8e24d5b516": {
+"b9e6a9e2cb11": {
 "custom_points": Array[Vector2]([])
 },
-"c3fbc33307b7": {
+"bab18666edf9": {
 "custom_points": Array[Vector2]([])
 },
-"c417a736e510": {
+"bd3c7e163a69": {
 "custom_points": Array[Vector2]([])
 },
-"c5d3e2d27e1c": {
+"bd4563f1dfdd": {
 "custom_points": Array[Vector2]([])
 },
-"ca320b96e803": {
+"c3db612cc818": {
 "custom_points": Array[Vector2]([])
 },
-"cf5cbe9ee694": {
+"c8088928ca8d": {
 "custom_points": Array[Vector2]([])
 },
-"d241d403166c": {
+"c96a15d45d6c": {
 "custom_points": Array[Vector2]([])
 },
-"d5bf5d34dff4": {
+"c9ce16faac1b": {
 "custom_points": Array[Vector2]([])
 },
-"d69accb1e5ef": {
+"ca67d74e5f83": {
 "custom_points": Array[Vector2]([])
 },
-"d71f22e53519": {
+"cb230e1b7b0c": {
 "custom_points": Array[Vector2]([])
 },
-"dd11b1144a07": {
+"cce9e162dec1": {
 "custom_points": Array[Vector2]([])
 },
-"de3c1a4c82e4": {
+"cf16196e4e17": {
 "custom_points": Array[Vector2]([])
 },
-"df0fbb937d8e": {
+"d126c8665178": {
 "custom_points": Array[Vector2]([])
 },
-"e02ed3508e8d": {
+"d566ecd0ba53": {
 "custom_points": Array[Vector2]([])
 },
-"e102dedd51e8": {
+"da3381f3f95d": {
 "custom_points": Array[Vector2]([])
 },
-"e280e03c26e6": {
+"da3b2c8db492": {
 "custom_points": Array[Vector2]([])
 },
-"e36769bc3075": {
+"dceabca368a5": {
 "custom_points": Array[Vector2]([])
 },
-"e39300e6590a": {
+"dd281a97d00e": {
 "custom_points": Array[Vector2]([])
 },
-"e641ef4551ae": {
+"de2b8de51664": {
 "custom_points": Array[Vector2]([])
 },
-"eac44f224d28": {
+"deb09c593137": {
 "custom_points": Array[Vector2]([])
 },
-"eac7fa80d857": {
+"e05d5d2d32ae": {
 "custom_points": Array[Vector2]([])
 },
-"ecff9cc824a0": {
+"e1ce2be88e1b": {
 "custom_points": Array[Vector2]([])
 },
-"edd3fe3aebd7": {
+"e1df6ae5aa3a": {
 "custom_points": Array[Vector2]([])
 },
-"ee52044ee9bd": {
+"e272821d0461": {
 "custom_points": Array[Vector2]([])
 },
-"f0a4a63ac059": {
+"e749dc8433f0": {
 "custom_points": Array[Vector2]([])
 },
-"f0ecea7967e6": {
+"e854a409bb97": {
 "custom_points": Array[Vector2]([])
 },
-"f35d31248b73": {
+"e88434b3879b": {
 "custom_points": Array[Vector2]([])
 },
-"f61f1b942c34": {
+"e919be167c31": {
 "custom_points": Array[Vector2]([])
 },
-"f6593c150fb6": {
+"e95d69c347af": {
 "custom_points": Array[Vector2]([])
 },
-"f7a1e783395a": {
+"eb90f0320c44": {
 "custom_points": Array[Vector2]([])
 },
-"f984fc7dd28b": {
+"f2c626d6723e": {
 "custom_points": Array[Vector2]([])
 },
-"f9b16a11701b": {
+"f6de97caac87": {
 "custom_points": Array[Vector2]([])
 },
-"fb9642e60b96": {
+"f7849bef750d": {
 "custom_points": Array[Vector2]([])
 },
-"fbeacd0ada97": {
+"f95b16e5ba44": {
 "custom_points": Array[Vector2]([])
 },
-"fd933745df41": {
+"fc46ac2dfb60": {
 "custom_points": Array[Vector2]([])
 },
-"fe7230f63a83": {
+"fc77ba7be400": {
 "custom_points": Array[Vector2]([])
 },
-"ff2511eeff98": {
-"custom_points": Array[Vector2]([])
-},
-"ffec39910931": {
+"ff93fdc1b416": {
 "custom_points": Array[Vector2]([])
 }
 }
-rect=Rect2(0, 0, 5250, 4450)
+rect=Rect2(0, 0, 6750, 5500)
