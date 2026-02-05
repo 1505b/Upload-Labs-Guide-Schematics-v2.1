@@ -3444,60 +3444,6 @@ windows=[{
 "window": "research"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "219e7c3eddc7",
-"outputs_id": Array[String](["dd80cde416ae"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "e45d09c087de",
-"outputs_id": Array[String](["20097eae8762"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "2efa195c27b4",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-}
-},
-"filename": "window_thread_manager.tscn",
-"name": "thread_manager15",
-"position": Vector2(350, 150),
-"ratio": 1.0,
-"ratio2": 2.0,
-"window": "thread_manager"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Output1/Splitted": {
-"id": "93750184bac8",
-"outputs_id": Array[String](["a32a6c95092b"]),
-"resource": "gpu_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output2/Splitted": {
-"id": "e0c4ac0fbdae",
-"outputs_id": Array[String](["37c176e7da10"]),
-"resource": "gpu_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Splitting": {
-"id": "90edfbc25a51",
-"outputs_id": Array[String]([]),
-"resource": "gpu_speed",
-"variation": 0
-}
-},
-"filename": "window_gpu_manager.tscn",
-"name": "gpu_manager4",
-"position": Vector2(700, 150),
-"ratio": 2.0,
-"ratio2": 39.0,
-"window": "gpu_manager"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/Input/0": {
 "id": "14fa9da8913b",
 "outputs_id": Array[String]([]),
@@ -6658,16 +6604,6 @@ windows=[{
 "position": Vector2(4400, 5000),
 "window": "folder"
 }, {
-"color": 0,
-"container_data": {},
-"custom_icon": "research",
-"custom_name": "Research section",
-"filename": "window_group.tscn",
-"name": "group6",
-"position": Vector2(0, 4350),
-"size": Vector2(6700, 2400),
-"window": "group"
-}, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
 "id": "64e165d78029",
@@ -6762,37 +6698,6 @@ windows=[{
 "position": Vector2(0, 100),
 "size": Vector2(1400, 450),
 "window": "group"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Boost": {
-"id": "529170cb8c47",
-"outputs_id": Array[String]([]),
-"resource": "boost_research",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "8e0715d57aa0",
-"outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
-},
-"PanelContainer/MainContainer/Points": {
-"id": "9e51fa32a8f5",
-"outputs_id": Array[String](["b7d7a7010224"]),
-"resource": "research",
-"variation": 0
-},
-"PanelContainer/MainContainer/ResearchPower": {
-"id": "db46465bb3cb",
-"outputs_id": Array[String]([]),
-"resource": "research_power",
-"variation": 0
-}
-},
-"filename": "window_data_lab.tscn",
-"name": "data_lab0",
-"position": Vector2(4800, 4400),
-"window": "data_lab"
 }, {
 "color": 1,
 "container_data": {},
@@ -7216,6 +7121,101 @@ windows=[{
 "name": "group7",
 "position": Vector2(0, 50),
 "size": Vector2(1400, 2500),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "219e7c3eddc7",
+"outputs_id": Array[String](["dd80cde416ae"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "e45d09c087de",
+"outputs_id": Array[String](["20097eae8762"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "2efa195c27b4",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+}
+},
+"filename": "window_thread_manager.tscn",
+"name": "thread_manager15",
+"position": Vector2(350, 150),
+"ratio": 1.0,
+"ratio2": 2.0,
+"window": "thread_manager"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Output1/Splitted": {
+"id": "93750184bac8",
+"outputs_id": Array[String](["a32a6c95092b"]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output2/Splitted": {
+"id": "e0c4ac0fbdae",
+"outputs_id": Array[String](["37c176e7da10"]),
+"resource": "gpu_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Splitting": {
+"id": "90edfbc25a51",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+}
+},
+"filename": "window_gpu_manager.tscn",
+"name": "gpu_manager4",
+"position": Vector2(700, 150),
+"ratio": 2.0,
+"ratio2": 39.0,
+"window": "gpu_manager"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "529170cb8c47",
+"outputs_id": Array[String]([]),
+"resource": "boost_research",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "8e0715d57aa0",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Points": {
+"id": "9e51fa32a8f5",
+"outputs_id": Array[String](["b7d7a7010224"]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/ResearchPower": {
+"id": "db46465bb3cb",
+"outputs_id": Array[String]([]),
+"resource": "research_power",
+"variation": 0
+}
+},
+"filename": "window_data_lab.tscn",
+"name": "data_lab0",
+"position": Vector2(4800, 4400),
+"window": "data_lab"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "research",
+"custom_name": "Research section",
+"filename": "window_group.tscn",
+"name": "group6",
+"position": Vector2(0, 4350),
+"size": Vector2(5150, 2400),
 "window": "group"
 }]
 connectors={
