@@ -5206,7 +5206,7 @@ windows=[{
 "name": "splitter1",
 "position": Vector2(800, 1050),
 "ratio": 0.01,
-"ratio2": 0.0,
+"ratio2": 100.0,
 "window": "splitter"
 }, {
 "container_data": {
