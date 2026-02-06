@@ -6508,7 +6508,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/Output": {
 "id": "065b2106bc4b",
-"outputs_id": Array[String]([]),
+"outputs_id": Array[String](["8e0715d57aa0"]),
 "resource": "sound",
 "variation": 207586
 }
@@ -6628,96 +6628,6 @@ windows=[{
 "name": "demuxer0",
 "position": Vector2(2800, 5700),
 "window": "demuxer"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Video",
-"filename": "window_group.tscn",
-"name": "group14",
-"position": Vector2(2400, 4400),
-"size": Vector2(350, 1350),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Game",
-"filename": "window_group.tscn",
-"name": "group12",
-"position": Vector2(1600, 4400),
-"size": Vector2(350, 700),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Program",
-"filename": "window_group.tscn",
-"name": "group13",
-"position": Vector2(2000, 4400),
-"size": Vector2(350, 1350),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Sound",
-"filename": "window_group.tscn",
-"name": "group15",
-"position": Vector2(2800, 4400),
-"size": Vector2(350, 2000),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Image",
-"filename": "window_group.tscn",
-"name": "group17",
-"position": Vector2(3200, 4400),
-"size": Vector2(350, 2000),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Text",
-"filename": "window_group.tscn",
-"name": "group20",
-"position": Vector2(3600, 4400),
-"size": Vector2(350, 2000),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "AGI Core + Server",
-"filename": "window_group.tscn",
-"name": "group3",
-"position": Vector2(0, 100),
-"size": Vector2(1400, 450),
-"window": "group"
-}, {
-"color": 1,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Factory",
-"filename": "window_group.tscn",
-"name": "group19",
-"position": Vector2(6000, 2600),
-"size": Vector2(2850, 1700),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "research",
-"custom_name": "Research",
-"filename": "window_group.tscn",
-"name": "group8",
-"position": Vector2(0, 600),
-"size": Vector2(1400, 400),
-"window": "group"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/GPU": {
@@ -7173,8 +7083,8 @@ windows=[{
 "filename": "window_gpu_manager.tscn",
 "name": "gpu_manager4",
 "position": Vector2(700, 150),
-"ratio": 2.0,
-"ratio2": 39.0,
+"ratio": 7.0,
+"ratio2": 48.0,
 "window": "gpu_manager"
 }, {
 "container_data": {
@@ -7187,8 +7097,8 @@ windows=[{
 "PanelContainer/MainContainer/File": {
 "id": "8e0715d57aa0",
 "outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
+"resource": "sound",
+"variation": 207586
 },
 "PanelContainer/MainContainer/Points": {
 "id": "9e51fa32a8f5",
@@ -7216,6 +7126,96 @@ windows=[{
 "name": "group6",
 "position": Vector2(0, 4350),
 "size": Vector2(5150, 2400),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Game",
+"filename": "window_group.tscn",
+"name": "group12",
+"position": Vector2(1600, 4400),
+"size": Vector2(350, 700),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Program",
+"filename": "window_group.tscn",
+"name": "group13",
+"position": Vector2(2000, 4400),
+"size": Vector2(350, 1350),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Image",
+"filename": "window_group.tscn",
+"name": "group17",
+"position": Vector2(3200, 4400),
+"size": Vector2(350, 2000),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Text",
+"filename": "window_group.tscn",
+"name": "group20",
+"position": Vector2(3600, 4400),
+"size": Vector2(350, 2000),
+"window": "group"
+}, {
+"color": 1,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Factory",
+"filename": "window_group.tscn",
+"name": "group19",
+"position": Vector2(6000, 2600),
+"size": Vector2(2850, 1700),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Video",
+"filename": "window_group.tscn",
+"name": "group14",
+"position": Vector2(2400, 4400),
+"size": Vector2(350, 1350),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Sound",
+"filename": "window_group.tscn",
+"name": "group15",
+"position": Vector2(2800, 4400),
+"size": Vector2(350, 2000),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "AGI Core + Server",
+"filename": "window_group.tscn",
+"name": "group3",
+"position": Vector2(0, 100),
+"size": Vector2(1400, 450),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "research",
+"custom_name": "Research",
+"filename": "window_group.tscn",
+"name": "group8",
+"position": Vector2(0, 600),
+"size": Vector2(1400, 400),
 "window": "group"
 }]
 connectors={
@@ -7841,6 +7841,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "8c67b9844ae1": {
+"custom_points": Array[Vector2]([])
+},
+"8e0715d57aa0": {
 "custom_points": Array[Vector2]([])
 },
 "90088a2ad96c": {
