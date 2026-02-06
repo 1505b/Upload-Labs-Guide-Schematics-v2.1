@@ -4,7 +4,7 @@ windows=[{
 "color": 0,
 "container_data": {},
 "custom_icon": "",
-"custom_name": "End Game Full Setup 290AR",
+"custom_name": "End Game Full Setup",
 "filename": "window_group.tscn",
 "name": "group0",
 "position": Vector2(0, 0),
