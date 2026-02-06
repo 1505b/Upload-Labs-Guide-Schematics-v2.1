@@ -4,7 +4,7 @@ windows=[{
 "color": 0,
 "container_data": {},
 "custom_icon": "",
-"custom_name": "End Game Full Setup",
+"custom_name": "End Game Full Setup 290AR",
 "filename": "window_group.tscn",
 "name": "group0",
 "position": Vector2(0, 0),
@@ -5206,28 +5206,8 @@ windows=[{
 "name": "splitter1",
 "position": Vector2(800, 1050),
 "ratio": 0.01,
-"ratio2": 1.0,
+"ratio2": 0.0,
 "window": "splitter"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "pause the uploader when",
-"filename": "window_group.tscn",
-"name": "group9",
-"position": Vector2(8250, 1900),
-"size": Vector2(450, 100),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "the server starts running",
-"filename": "window_group.tscn",
-"name": "group11",
-"position": Vector2(8250, 2000),
-"size": Vector2(450, 100),
-"window": "group"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Materials/Silicon": {
@@ -7066,37 +7046,6 @@ windows=[{
 "position": Vector2(0, 1050),
 "window": "mine_token"
 }, {
-"container_data": {
-"PanelContainer/MainContainer/File": {
-"id": "b3d78e04695c",
-"outputs_id": Array[String]([]),
-"resource": "text",
-"variation": 217343
-},
-"PanelContainer/MainContainer/Infections": {
-"id": "94bfc74365d9",
-"outputs_id": Array[String]([]),
-"resource": "infected_computer",
-"variation": 0
-},
-"PanelContainer/MainContainer/Result": {
-"id": "f8a22828bccf",
-"outputs_id": Array[String](["73809743be5b"]),
-"resource": "money",
-"variation": 0
-},
-"PanelContainer/MainContainer/Upload": {
-"id": "9307055b16f5",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-}
-},
-"filename": "window_upload.tscn",
-"name": "upload0",
-"position": Vector2(8250, 2100),
-"window": "upload"
-}, {
 "color": 0,
 "container_data": {},
 "custom_icon": "code",
@@ -7217,6 +7166,57 @@ windows=[{
 "name": "data_lab0",
 "position": Vector2(4800, 4400),
 "window": "data_lab"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "pause the uploader when",
+"filename": "window_group.tscn",
+"name": "group9",
+"position": Vector2(8200, 1900),
+"size": Vector2(450, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "the server starts running",
+"filename": "window_group.tscn",
+"name": "group11",
+"position": Vector2(8200, 2000),
+"size": Vector2(450, 100),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/File": {
+"id": "b3d78e04695c",
+"outputs_id": Array[String]([]),
+"resource": "text",
+"variation": 217343
+},
+"PanelContainer/MainContainer/Infections": {
+"id": "94bfc74365d9",
+"outputs_id": Array[String]([]),
+"resource": "infected_computer",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "f8a22828bccf",
+"outputs_id": Array[String](["73809743be5b"]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "9307055b16f5",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_upload.tscn",
+"name": "upload0",
+"position": Vector2(8250, 2100),
+"window": "upload"
 }]
 connectors={
 "0107c5a40e1b": {
