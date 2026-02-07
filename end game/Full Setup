@@ -5047,7 +5047,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/Output": {
 "id": "b60fdb16b6f9",
-"outputs_id": Array[String](["ca2764c78c3d"]),
+"outputs_id": Array[String]([]),
 "resource": "sound",
 "variation": 207586
 }
@@ -5538,57 +5538,6 @@ windows=[{
 "window": "build_infection"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Boost": {
-"id": "8085d63b01e0",
-"outputs_id": Array[String]([]),
-"resource": "boost_research",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "ca2764c78c3d",
-"outputs_id": Array[String]([]),
-"resource": "sound",
-"variation": 207586
-},
-"PanelContainer/MainContainer/Points": {
-"id": "2e6f9b56ff4e",
-"outputs_id": Array[String](["210c13662f21"]),
-"resource": "research",
-"variation": 0
-},
-"PanelContainer/MainContainer/ResearchPower": {
-"id": "dc4d3a203568",
-"outputs_id": Array[String]([]),
-"resource": "research_power",
-"variation": 0
-}
-},
-"filename": "window_data_lab.tscn",
-"name": "data_lab0",
-"position": Vector2(4800, 4400),
-"window": "data_lab"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "pause the uploader when",
-"filename": "window_group.tscn",
-"name": "group9",
-"position": Vector2(7550, 1900),
-"size": Vector2(450, 100),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "the server starts running",
-"filename": "window_group.tscn",
-"name": "group11",
-"position": Vector2(7550, 2000),
-"size": Vector2(450, 100),
-"window": "group"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/0": {
 "id": "40ae17359a17",
 "outputs_id": Array[String]([]),
@@ -5721,7 +5670,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/Boost": {
 "id": "3769912fee41",
-"outputs_id": Array[String](["8085d63b01e0"]),
+"outputs_id": Array[String](["cf2e53d58056"]),
 "resource": "boost_research",
 "variation": 0
 }
@@ -6433,16 +6382,6 @@ windows=[{
 "ratio2": 35.0,
 "window": "gpu_manager"
 }, {
-"color": 1,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Splitter section",
-"filename": "window_group.tscn",
-"name": "group7",
-"position": Vector2(0, 50),
-"size": Vector2(1150, 2500),
-"window": "group"
-}, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
 "id": "3d36a625ab2f",
@@ -6962,39 +6901,6 @@ windows=[{
 "ratio2": 100.0,
 "window": "splitter"
 }, {
-"container_data": {
-"PanelContainer/MainContainer/GPU": {
-"id": "7a8609bb3576",
-"outputs_id": Array[String]([]),
-"resource": "gpu_speed",
-"variation": 0
-}
-},
-"filename": "window_mine_token.tscn",
-"name": "mine_token0",
-"position": Vector2(0, 1050),
-"window": "mine_token"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "AGI Core + Server",
-"filename": "window_group.tscn",
-"name": "group3",
-"position": Vector2(0, 100),
-"size": Vector2(1150, 450),
-"window": "group"
-}, {
-"color": 0,
-"container_data": {},
-"custom_icon": "research",
-"custom_name": "Research",
-"filename": "window_group.tscn",
-"name": "group8",
-"position": Vector2(0, 600),
-"size": Vector2(1150, 400),
-"window": "group"
-}, {
 "color": 0,
 "container_data": {},
 "custom_icon": "",
@@ -7035,15 +6941,18 @@ windows=[{
 "size": Vector2(350, 2000),
 "window": "group"
 }, {
-"color": 0,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Video",
-"filename": "window_group.tscn",
-"name": "group14",
-"position": Vector2(2400, 4400),
-"size": Vector2(350, 1350),
-"window": "group"
+"container_data": {
+"PanelContainer/MainContainer/GPU": {
+"id": "7a8609bb3576",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+}
+},
+"filename": "window_mine_token.tscn",
+"name": "mine_token0",
+"position": Vector2(0, 1050),
+"window": "mine_token"
 }, {
 "color": 0,
 "container_data": {},
@@ -7054,6 +6963,97 @@ windows=[{
 "position": Vector2(2800, 4400),
 "size": Vector2(350, 2000),
 "window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Video",
+"filename": "window_group.tscn",
+"name": "group14",
+"position": Vector2(2400, 4400),
+"size": Vector2(350, 1350),
+"window": "group"
+}, {
+"color": 1,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Splitter section",
+"filename": "window_group.tscn",
+"name": "group7",
+"position": Vector2(0, 50),
+"size": Vector2(1150, 2500),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "AGI Core + Server",
+"filename": "window_group.tscn",
+"name": "group3",
+"position": Vector2(0, 100),
+"size": Vector2(1150, 450),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "research",
+"custom_name": "Research",
+"filename": "window_group.tscn",
+"name": "group8",
+"position": Vector2(0, 600),
+"size": Vector2(1150, 400),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "pause the uploader when",
+"filename": "window_group.tscn",
+"name": "group9",
+"position": Vector2(7550, 1900),
+"size": Vector2(450, 100),
+"window": "group"
+}, {
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "the server starts running",
+"filename": "window_group.tscn",
+"name": "group11",
+"position": Vector2(7550, 2000),
+"size": Vector2(450, 100),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "cf2e53d58056",
+"outputs_id": Array[String]([]),
+"resource": "boost_research",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "73318176bb2e",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Points": {
+"id": "2f9f922821b3",
+"outputs_id": Array[String](["210c13662f21"]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/ResearchPower": {
+"id": "dd0819bcf1d8",
+"outputs_id": Array[String]([]),
+"resource": "research_power",
+"variation": 0
+}
+},
+"filename": "window_data_lab.tscn",
+"name": "data_lab1",
+"position": Vector2(4800, 4400),
+"window": "data_lab"
 }]
 connectors={
 "0028ec2a9a77": {
@@ -7620,9 +7620,6 @@ connectors={
 "8069321ab179": {
 "custom_points": Array[Vector2]([])
 },
-"8085d63b01e0": {
-"custom_points": Array[Vector2]([])
-},
 "80a2589cb0b9": {
 "custom_points": Array[Vector2]([])
 },
@@ -7932,9 +7929,6 @@ connectors={
 "ca13ea514a65": {
 "custom_points": Array[Vector2]([])
 },
-"ca2764c78c3d": {
-"custom_points": Array[Vector2]([])
-},
 "ca463c1b1fab": {
 "custom_points": Array[Vector2]([])
 },
@@ -7972,6 +7966,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "cee8975f5ac5": {
+"custom_points": Array[Vector2]([])
+},
+"cf2e53d58056": {
 "custom_points": Array[Vector2]([])
 },
 "cf89d7285357": {
