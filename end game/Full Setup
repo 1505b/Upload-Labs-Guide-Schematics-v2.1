@@ -2911,8 +2911,8 @@ windows=[{
 "filename": "window_download_limiter.tscn",
 "name": "_VBoxContainer_2331",
 "position": Vector2(4800, 100),
-"ratio": 42.0,
-"ratio2": 100.0,
+"ratio": 41.0,
+"ratio2": 97.0,
 "window": "download_limiter"
 }, {
 "container_data": {
