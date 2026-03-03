@@ -39,7 +39,7 @@ windows=[{
 },
 "filename": "window_upload.tscn",
 "name": "upload0",
-"position": Vector2(2400, 100),
+"position": Vector2(3200, 100),
 "window": "upload"
 }, {
 "container_data": {
@@ -70,7 +70,7 @@ windows=[{
 },
 "filename": "window_virus_scanner.tscn",
 "name": "virus_scanner0",
-"position": Vector2(2000, 100),
+"position": Vector2(2800, 100),
 "window": "virus_scanner"
 }, {
 "container_data": {
@@ -101,7 +101,7 @@ windows=[{
 },
 "filename": "window_quarantine.tscn",
 "name": "quarantine0",
-"position": Vector2(2000, 500),
+"position": Vector2(2800, 500),
 "window": "quarantine"
 }, {
 "container_data": {
@@ -144,7 +144,7 @@ windows=[{
 },
 "filename": "window_folder.tscn",
 "name": "folder0",
-"position": Vector2(2000, 900),
+"position": Vector2(2800, 900),
 "window": "folder"
 }, {
 "container_data": {
@@ -163,27 +163,8 @@ windows=[{
 },
 "filename": "window_download_sound.tscn",
 "name": "download_sound0",
-"position": Vector2(1600, 100),
+"position": Vector2(2400, 100),
 "window": "download_sound"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Download": {
-"id": "3f1b7e7ebe0f",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "e9a0e50e3204",
-"outputs_id": Array[String](["0d2a3aea5897"]),
-"resource": "image",
-"variation": 0
-}
-},
-"filename": "window_download_image.tscn",
-"name": "download_image0",
-"position": Vector2(2800, 100),
-"window": "download_image"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
@@ -225,39 +206,8 @@ windows=[{
 },
 "filename": "window_folder.tscn",
 "name": "folder1",
-"position": Vector2(2800, 400),
+"position": Vector2(2000, 400),
 "window": "folder"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Boost": {
-"id": "803c1bf148e0",
-"outputs_id": Array[String]([]),
-"resource": "boost_research",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "a9310affdc3f",
-"outputs_id": Array[String]([]),
-"resource": "image",
-"variation": 0
-},
-"PanelContainer/MainContainer/Points": {
-"id": "4fbc7ff45598",
-"outputs_id": Array[String](["9514d79e2980"]),
-"resource": "research",
-"variation": 0
-},
-"PanelContainer/MainContainer/ResearchPower": {
-"id": "39c44c93dc98",
-"outputs_id": Array[String]([]),
-"resource": "research_power",
-"variation": 0
-}
-},
-"filename": "window_data_lab.tscn",
-"name": "data_lab0",
-"position": Vector2(3200, 100),
-"window": "data_lab"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/File": {
@@ -287,7 +237,7 @@ windows=[{
 },
 "filename": "window_upload.tscn",
 "name": "upload1",
-"position": Vector2(2400, 450),
+"position": Vector2(3200, 450),
 "window": "upload"
 }, {
 "container_data": {
@@ -318,7 +268,7 @@ windows=[{
 },
 "filename": "window_verifier.tscn",
 "name": "verifier0",
-"position": Vector2(2000, 1250),
+"position": Vector2(2800, 1250),
 "window": "verifier"
 }, {
 "container_data": {
@@ -361,7 +311,7 @@ windows=[{
 },
 "filename": "window_inventory.tscn",
 "name": "inventory1",
-"position": Vector2(2400, 800),
+"position": Vector2(3200, 800),
 "window": "inventory"
 }, {
 "container_data": {
@@ -398,7 +348,7 @@ windows=[{
 },
 "filename": "window_auto_collect.tscn",
 "name": "auto_collect0",
-"position": Vector2(2400, 1150),
+"position": Vector2(3200, 1150),
 "window": "auto_collect"
 }, {
 "container_data": {
@@ -441,7 +391,7 @@ windows=[{
 },
 "filename": "window_inventory.tscn",
 "name": "inventory0",
-"position": Vector2(3200, 500),
+"position": Vector2(1600, 500),
 "window": "inventory"
 }, {
 "container_data": {
@@ -540,26 +490,6 @@ windows=[{
 "size": Vector2(350, 1050),
 "window": "group"
 }, {
-"color": 1,
-"container_data": {},
-"custom_icon": "",
-"custom_name": "Money",
-"filename": "window_group.tscn",
-"name": "group0",
-"position": Vector2(1600, 50),
-"size": Vector2(1150, 1600),
-"window": "group"
-}, {
-"color": 5,
-"container_data": {},
-"custom_icon": "research",
-"custom_name": "Research",
-"filename": "window_group.tscn",
-"name": "group3",
-"position": Vector2(2800, 50),
-"size": Vector2(750, 1600),
-"window": "group"
-}, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
 "id": "186d6355aacd",
@@ -621,6 +551,76 @@ windows=[{
 "name": "task_scheduler0",
 "position": Vector2(1200, 1050),
 "window": "task_scheduler"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "803c1bf148e0",
+"outputs_id": Array[String]([]),
+"resource": "boost_research",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "a9310affdc3f",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Points": {
+"id": "4fbc7ff45598",
+"outputs_id": Array[String](["9514d79e2980"]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/ResearchPower": {
+"id": "39c44c93dc98",
+"outputs_id": Array[String]([]),
+"resource": "research_power",
+"variation": 0
+}
+},
+"filename": "window_data_lab.tscn",
+"name": "data_lab0",
+"position": Vector2(1600, 100),
+"window": "data_lab"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "3f1b7e7ebe0f",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "e9a0e50e3204",
+"outputs_id": Array[String](["0d2a3aea5897"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_download_image.tscn",
+"name": "download_image0",
+"position": Vector2(2000, 100),
+"window": "download_image"
+}, {
+"color": 5,
+"container_data": {},
+"custom_icon": "research",
+"custom_name": "Research",
+"filename": "window_group.tscn",
+"name": "group3",
+"position": Vector2(1600, 50),
+"size": Vector2(750, 1600),
+"window": "group"
+}, {
+"color": 1,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Money",
+"filename": "window_group.tscn",
+"name": "group0",
+"position": Vector2(2400, 50),
+"size": Vector2(1150, 1600),
+"window": "group"
 }]
 connectors={
 "04d6d7c10c37": {
