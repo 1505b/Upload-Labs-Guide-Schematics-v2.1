@@ -573,25 +573,6 @@ windows=[{
 "position": Vector2(1200, 500),
 "window": "synchronizer"
 }, {
-"container_data": {
-"PanelContainer/MainContainer/Clock": {
-"id": "7c01b4e5b18c",
-"outputs_id": Array[String](["3a15b2c1b9d7"]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/GPU": {
-"id": "b6156e30f10a",
-"outputs_id": Array[String]([]),
-"resource": "gpu_speed",
-"variation": 0
-}
-},
-"filename": "window_task_scheduler.tscn",
-"name": "task_scheduler0",
-"position": Vector2(1200, 800),
-"window": "task_scheduler"
-}, {
 "color": 5,
 "container_data": {},
 "custom_icon": "",
@@ -621,6 +602,25 @@ windows=[{
 "position": Vector2(2800, 50),
 "size": Vector2(750, 1600),
 "window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "7c01b4e5b18c",
+"outputs_id": Array[String](["3a15b2c1b9d7"]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/GPU": {
+"id": "b6156e30f10a",
+"outputs_id": Array[String]([]),
+"resource": "gpu_speed",
+"variation": 0
+}
+},
+"filename": "window_task_scheduler.tscn",
+"name": "task_scheduler0",
+"position": Vector2(1200, 850),
+"window": "task_scheduler"
 }]
 connectors={
 "04d6d7c10c37": {
@@ -630,6 +630,12 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "0d2a3aea5897": {
+"custom_points": Array[Vector2]([])
+},
+"17c0e1783519": {
+"custom_points": Array[Vector2]([])
+},
+"186d6355aacd": {
 "custom_points": Array[Vector2]([])
 },
 "205cb1d2456c": {
@@ -648,6 +654,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "5bd6e22823d5": {
+"custom_points": Array[Vector2]([])
+},
+"7e403b51d02c": {
 "custom_points": Array[Vector2]([])
 },
 "82fc36aafb89": {
@@ -672,6 +681,9 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "a9310affdc3f": {
+"custom_points": Array[Vector2]([])
+},
+"b6156e30f10a": {
 "custom_points": Array[Vector2]([])
 },
 "e7f3b21b486d": {
