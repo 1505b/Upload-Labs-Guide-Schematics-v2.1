@@ -489,49 +489,6 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "186d6355aacd",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/1": {
-"id": "131f9906e3b5",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/2": {
-"id": "f28cb29548a1",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/3": {
-"id": "5b0fc39004e0",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input/4": {
-"id": "a9a9642f6aa1",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/Output": {
-"id": "65d30c944767",
-"outputs_id": Array[String](["4a05d963e28b", "2f88c720c98a"]),
-"resource": "upload_speed",
-"variation": 0
-}
-},
-"filename": "window_upload_merger.tscn",
-"name": "upload_merger0",
-"position": Vector2(1200, 300),
-"window": "upload_merger"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Input/0": {
 "id": "7e403b51d02c",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
@@ -570,7 +527,7 @@ windows=[{
 },
 "filename": "window_synchronizer.tscn",
 "name": "synchronizer0",
-"position": Vector2(1200, 500),
+"position": Vector2(1200, 700),
 "window": "synchronizer"
 }, {
 "color": 5,
@@ -604,6 +561,49 @@ windows=[{
 "window": "group"
 }, {
 "container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "186d6355aacd",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "131f9906e3b5",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "f28cb29548a1",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "5b0fc39004e0",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "a9a9642f6aa1",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "65d30c944767",
+"outputs_id": Array[String](["4a05d963e28b", "2f88c720c98a"]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_upload_merger.tscn",
+"name": "upload_merger0",
+"position": Vector2(1200, 400),
+"window": "upload_merger"
+}, {
+"container_data": {
 "PanelContainer/MainContainer/Clock": {
 "id": "7c01b4e5b18c",
 "outputs_id": Array[String](["3a15b2c1b9d7"]),
@@ -619,7 +619,7 @@ windows=[{
 },
 "filename": "window_task_scheduler.tscn",
 "name": "task_scheduler0",
-"position": Vector2(1200, 850),
+"position": Vector2(1200, 1050),
 "window": "task_scheduler"
 }]
 connectors={
