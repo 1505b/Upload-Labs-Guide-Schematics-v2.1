@@ -21,37 +21,6 @@ windows=[{
 "window": "download_image"
 }, {
 "container_data": {
-"PanelContainer/MainContainer/Clean": {
-"id": "b077a7790815",
-"outputs_id": Array[String](["2761dc449f63"]),
-"resource": "image",
-"variation": 1
-},
-"PanelContainer/MainContainer/Clock": {
-"id": "70d8a33a831a",
-"outputs_id": Array[String]([]),
-"resource": "clock_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "33aad5952b67",
-"outputs_id": Array[String]([]),
-"resource": "image",
-"variation": 0
-},
-"PanelContainer/MainContainer/Infected": {
-"id": "c0750fc31a7a",
-"outputs_id": Array[String](["7197be5e8c37"]),
-"resource": "image",
-"variation": 257
-}
-},
-"filename": "window_virus_scanner.tscn",
-"name": "virus_scanner0",
-"position": Vector2(3150, 0),
-"window": "virus_scanner"
-}, {
-"container_data": {
 "PanelContainer/MainContainer/File": {
 "id": "7197be5e8c37",
 "outputs_id": Array[String]([]),
@@ -79,38 +48,7 @@ windows=[{
 },
 "filename": "window_upload.tscn",
 "name": "upload1",
-"position": Vector2(3550, 350),
-"window": "upload"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/File": {
-"id": "2761dc449f63",
-"outputs_id": Array[String]([]),
-"resource": "image",
-"variation": 1
-},
-"PanelContainer/MainContainer/Infections": {
-"id": "35d3fa49c638",
-"outputs_id": Array[String]([]),
-"resource": "infected_computer",
-"variation": 0
-},
-"PanelContainer/MainContainer/Result": {
-"id": "b2c3250b8dd1",
-"outputs_id": Array[String](["de33456ab615"]),
-"resource": "money",
-"variation": 0
-},
-"PanelContainer/MainContainer/Upload": {
-"id": "6fa12de1fccb",
-"outputs_id": Array[String]([]),
-"resource": "upload_speed",
-"variation": 0
-}
-},
-"filename": "window_upload.tscn",
-"name": "upload0",
-"position": Vector2(3550, 0),
+"position": Vector2(2750, 1000),
 "window": "upload"
 }, {
 "container_data": {
@@ -147,8 +85,70 @@ windows=[{
 },
 "filename": "window_auto_collect.tscn",
 "name": "auto_collect0",
-"position": Vector2(3550, 700),
+"position": Vector2(2750, 1350),
 "window": "auto_collect"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clean": {
+"id": "b077a7790815",
+"outputs_id": Array[String](["2761dc449f63"]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Clock": {
+"id": "70d8a33a831a",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "33aad5952b67",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Infected": {
+"id": "c0750fc31a7a",
+"outputs_id": Array[String](["7197be5e8c37"]),
+"resource": "image",
+"variation": 257
+}
+},
+"filename": "window_virus_scanner.tscn",
+"name": "virus_scanner0",
+"position": Vector2(2750, 250),
+"window": "virus_scanner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/File": {
+"id": "2761dc449f63",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 1
+},
+"PanelContainer/MainContainer/Infections": {
+"id": "35d3fa49c638",
+"outputs_id": Array[String]([]),
+"resource": "infected_computer",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "b2c3250b8dd1",
+"outputs_id": Array[String](["de33456ab615"]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "6fa12de1fccb",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_upload.tscn",
+"name": "upload0",
+"position": Vector2(2750, 650),
+"window": "upload"
 }]
 connectors={
 "2761dc449f63": {
@@ -160,11 +160,23 @@ connectors={
 "5a76693c61c5": {
 "custom_points": Array[Vector2]([])
 },
+"6fa12de1fccb": {
+"custom_points": Array[Vector2]([])
+},
+"70d8a33a831a": {
+"custom_points": Array[Vector2]([])
+},
 "7197be5e8c37": {
+"custom_points": Array[Vector2]([])
+},
+"95b38e59e772": {
+"custom_points": Array[Vector2]([])
+},
+"d370c59d7594": {
 "custom_points": Array[Vector2]([])
 },
 "de33456ab615": {
 "custom_points": Array[Vector2]([])
 }
 }
-rect=Rect2(2750, 0, 1150, 969)
+rect=Rect2(2750, 0, 350, 1619)
