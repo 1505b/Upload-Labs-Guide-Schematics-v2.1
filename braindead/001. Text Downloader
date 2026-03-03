@@ -3,37 +3,37 @@
 windows=[{
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "903d1e654407",
+"id": "f3e92c8977fd",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "6691335ea4c3",
+"id": "0832aac98645",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "a2219b54cf62",
+"id": "c757300c3d14",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "02953f53b03d",
+"id": "f23c62155c56",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "5d54835b1512",
+"id": "3280291dc967",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "92b34ef5a925",
+"id": "3c190a45494f",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
@@ -46,25 +46,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "19973fee7593",
+"id": "5112a24ec920",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "9d133c2d84a6",
+"id": "296eed7d7e1d",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "54a6855cb00d",
-"outputs_id": Array[String](["7330e2f442ec"]),
+"id": "71cd64ef9752",
+"outputs_id": Array[String](["aa0e83159f07"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "ba79f1d76c38",
+"id": "c021e619284e",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -77,25 +77,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "92ea850a4094",
+"id": "b290fb51fdb0",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "a08b2bf4d176",
+"id": "df33cdd28db9",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "ab640c93f8de",
-"outputs_id": Array[String](["7e5694465d12"]),
+"id": "8a3715a283f5",
+"outputs_id": Array[String](["2d49675a6dd3"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "3c9777f35930",
+"id": "e704953737d4",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -108,25 +108,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "7b9088b8d1e8",
+"id": "2458f4b89ce8",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "612cc0a4571d",
+"id": "77ccf171f66a",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "d28f6a694262",
-"outputs_id": Array[String](["fd3dd093f042"]),
+"id": "9c780c7ec96d",
+"outputs_id": Array[String](["ab77cd3500f0"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "b7ae9f109406",
+"id": "b3213d1acd51",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -139,25 +139,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "083ab6b36ae4",
+"id": "d01fcd6dda59",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "33e21d9c81e3",
+"id": "39d62a58c069",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "c94749a0045b",
-"outputs_id": Array[String](["831cc4110c4e"]),
+"id": "9390bf9fd848",
+"outputs_id": Array[String](["155b827c70be"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "1dda0f8c1942",
+"id": "2839f8182d1c",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -170,25 +170,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "8ab3f43c890e",
+"id": "6c8bba17bc59",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "b86dd287a02a",
+"id": "c6901317598b",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "dae65f592311",
-"outputs_id": Array[String](["d6dbbfe9480a"]),
+"id": "8cb89e893271",
+"outputs_id": Array[String](["0938f71fa740"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "c1335924f6a1",
+"id": "a4ca26774715",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -201,38 +201,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "739568ac118e",
+"id": "b575abd477c9",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Download": {
-"id": "786a6687a707",
-"outputs_id": Array[String](["a9821115a9a9", "ea1046566d90"]),
+"id": "9be6b8653dd8",
+"outputs_id": Array[String](["585e988c97cc", "e388d097c87b"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "f93320aa7e30",
-"outputs_id": Array[String](["8bdca958f1de", "47ee55c98c02", "c2718e8aa62c", "d2dd1aba424b", "54b4c855c177"]),
+"id": "bd560cebafb0",
+"outputs_id": Array[String](["c34e2b5f4642", "049c20f0c114", "e58447307df7", "30597d8b7928", "ffd20dd7c0eb"]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "e23fa82e51e4",
+"id": "cd9981125eda",
 "outputs_id": Array[String]([]),
 "resource": "router",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "48131c2b222a",
+"id": "8b447d6e9fea",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "90f92c665daa",
-"outputs_id": Array[String](["903d1e654407", "479c3b63d712"]),
+"id": "37014773ae64",
+"outputs_id": Array[String](["f3e92c8977fd", "85ab15f9de6d"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -244,25 +244,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "0c6b45cf1dd4",
+"id": "11cbe6ac86a0",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "7e0c74740575",
+"id": "e201cdeb60f4",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "2ff9ff278cf4",
-"outputs_id": Array[String](["9d5939be751e"]),
+"id": "dd03cbeba5e0",
+"outputs_id": Array[String](["90a1305bd6f9"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "f5b436d2c177",
+"id": "369cb57b76cc",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -275,37 +275,37 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "9251c8665e26",
+"id": "f78f1f2745b2",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "c84c404a82b5",
+"id": "11396426db2e",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "49115171522a",
+"id": "214d4d4fe077",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "56fe4febb919",
+"id": "2e8e6d453803",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "354ebdd4eb15",
+"id": "762fe19fe235",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "a8d18abe8eb2",
+"id": "edfb7fe3c81a",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
@@ -318,38 +318,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "fa943ac761a7",
+"id": "a0f11c54b16a",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "d39d8ff9c3c3",
+"id": "1852953f0d86",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "c276d8b8f749",
+"id": "ac26f75c2558",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "715ad08034d1",
+"id": "b16b44274371",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "2833d1505a1a",
+"id": "89d179794d30",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "178de5deacbf",
-"outputs_id": Array[String](["7e0c74740575", "612cc0a4571d", "d402564a82bd", "72f0521df08b", "3f2b4068caff", "b86dd287a02a", "a08b2bf4d176", "9d133c2d84a6", "33e21d9c81e3"]),
+"id": "35e24eee5c0c",
+"outputs_id": Array[String](["e201cdeb60f4", "77ccf171f66a", "9c96e758b467", "3cb465ef25f4", "7cd4794a1c13", "c6901317598b", "df33cdd28db9", "296eed7d7e1d", "39d62a58c069"]),
 "resource": "image",
 "variation": 0
 }
@@ -361,55 +361,55 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "791bd61c9ba7",
+"id": "958f5b1c94cb",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock": {
-"id": "667205765d68",
-"outputs_id": Array[String](["9251c8665e26"]),
+"id": "5ac07418fc18",
+"outputs_id": Array[String](["f78f1f2745b2"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock2": {
-"id": "ddf6ce904725",
-"outputs_id": Array[String](["c84c404a82b5"]),
+"id": "b69969829233",
+"outputs_id": Array[String](["11396426db2e"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock3": {
-"id": "654341ba11fb",
-"outputs_id": Array[String](["49115171522a"]),
+"id": "6b65b4ee2116",
+"outputs_id": Array[String](["214d4d4fe077"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock4": {
-"id": "1861f83319a1",
-"outputs_id": Array[String](["56fe4febb919"]),
+"id": "76121c9d8212",
+"outputs_id": Array[String](["2e8e6d453803"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock5": {
-"id": "9dbbafdb2cee",
-"outputs_id": Array[String](["354ebdd4eb15"]),
+"id": "38ca9fd3ed3f",
+"outputs_id": Array[String](["762fe19fe235"]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "75384b5e0448",
-"outputs_id": Array[String](["c309cab45f8d", "3e51bc0b590b", "5428564d62e5", "c8e22db5456c", "e91f8a559111"]),
+"id": "6e2491626ec7",
+"outputs_id": Array[String](["416190f3b50f", "8d3fdcee605f", "bb33c21c9da0", "9b76394c8af0", "43efd3b0c786"]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "d934cd43d5ff",
+"id": "a3469c905c3f",
 "outputs_id": Array[String]([]),
 "resource": "cpu_core",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "6c145a195b17",
+"id": "223e99a11e50",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
@@ -422,85 +422,85 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "49f56198a39a",
+"id": "a57ba10a25ce",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock": {
-"id": "41f033c09ab9",
-"outputs_id": Array[String](["7af626576050"]),
+"id": "37a65628a308",
+"outputs_id": Array[String](["7911c9d1688c"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock10": {
-"id": "673f317865bc",
-"outputs_id": Array[String](["e8621b9729b6"]),
+"id": "ebdf52f01e88",
+"outputs_id": Array[String](["fe5648e85150"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock2": {
-"id": "5965a9b81954",
-"outputs_id": Array[String](["80e4ea1adc7e"]),
+"id": "e13e0a08fbb3",
+"outputs_id": Array[String](["01d8e026b6f2"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock3": {
-"id": "0c4c8cb0080c",
-"outputs_id": Array[String](["a4eddbd1d8f0"]),
+"id": "f3ad31526ab3",
+"outputs_id": Array[String](["c42567756eb6"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock4": {
-"id": "43282fce00f2",
-"outputs_id": Array[String](["3c78af1a1db2"]),
+"id": "1ec81c9b4c01",
+"outputs_id": Array[String](["2bc263112f78"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock5": {
-"id": "e88ffdb451d7",
-"outputs_id": Array[String](["1aa65d309286"]),
+"id": "50f6ecc4661f",
+"outputs_id": Array[String](["7d6f99b3525f"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock6": {
-"id": "c76bb85d31b3",
-"outputs_id": Array[String](["dda6f9a6d5b7"]),
+"id": "3ad0252ad1a8",
+"outputs_id": Array[String](["e8fa903e43e3"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock7": {
-"id": "1a231c8f4804",
-"outputs_id": Array[String](["66b916ddb483"]),
+"id": "17e070d0f802",
+"outputs_id": Array[String](["c0fc7050ff97"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock8": {
-"id": "eaf33f7afc79",
-"outputs_id": Array[String](["1d768d801e68"]),
+"id": "1ac6208a0acb",
+"outputs_id": Array[String](["7e8659d42e8a"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Clocks/Clock9": {
-"id": "8ee8e7fdcc2d",
-"outputs_id": Array[String](["6a582cfdc415"]),
+"id": "0ff613a2cbf3",
+"outputs_id": Array[String](["db3ddd56bf49"]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "6e3deb45fffc",
-"outputs_id": Array[String](["f438732848fb", "f27eb05d256c", "25e86a50540d", "890fca5412b9", "c2e0140e6767"]),
+"id": "7abb6bd315ad",
+"outputs_id": Array[String](["2c96ad6d4edc", "d92b11761b32", "cc604b9d76e6", "fa5d4e6308a8", "47630e7a60ed"]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "e4903f99ee81",
+"id": "a95bdf29f7ac",
 "outputs_id": Array[String]([]),
 "resource": "gpu",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "7e6e2c008c1b",
+"id": "2d840725742c",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
@@ -513,37 +513,37 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "a9821115a9a9",
+"id": "585e988c97cc",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "0257abec46ab",
+"id": "2179b0948e75",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "e523ecc64f8e",
+"id": "1cb3f01d3d21",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "602912d2b6bf",
+"id": "29c45cc23b55",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "89afecef94e9",
+"id": "14aa315b6a44",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "6fa8f4f373f7",
+"id": "2fd2d37308d7",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
@@ -556,31 +556,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/0": {
-"id": "8bdca958f1de",
+"id": "c34e2b5f4642",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/1": {
-"id": "ea262d167e66",
+"id": "08391b8e7c4b",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/2": {
-"id": "c309cab45f8d",
+"id": "416190f3b50f",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/3": {
-"id": "f438732848fb",
+"id": "2c96ad6d4edc",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/4": {
-"id": "0281f166d40c",
+"id": "5caa3ab31387",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
@@ -593,31 +593,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/0": {
-"id": "47ee55c98c02",
+"id": "049c20f0c114",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/1": {
-"id": "fed7cdb7caaf",
+"id": "b9ca88f9e298",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/2": {
-"id": "5428564d62e5",
+"id": "bb33c21c9da0",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/3": {
-"id": "25e86a50540d",
+"id": "cc604b9d76e6",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/4": {
-"id": "1227f7a2fdd9",
+"id": "f6071d32f779",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
@@ -630,31 +630,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/0": {
-"id": "c2718e8aa62c",
+"id": "e58447307df7",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/1": {
-"id": "f5ab5fe14bb6",
+"id": "528f224fce2b",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/2": {
-"id": "3e51bc0b590b",
+"id": "8d3fdcee605f",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/3": {
-"id": "f27eb05d256c",
+"id": "d92b11761b32",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/4": {
-"id": "b9160fe278b9",
+"id": "7a0f750ed7b4",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
@@ -667,31 +667,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/0": {
-"id": "54b4c855c177",
+"id": "ffd20dd7c0eb",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/1": {
-"id": "c72122944eca",
+"id": "b6df10e44348",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/2": {
-"id": "c8e22db5456c",
+"id": "9b76394c8af0",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/3": {
-"id": "890fca5412b9",
+"id": "fa5d4e6308a8",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/4": {
-"id": "250120f71623",
+"id": "bc379b3eabc2",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
@@ -704,38 +704,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "5188d4376576",
+"id": "40d003251882",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "7d47849a59e1",
+"id": "c7e2dc5b3727",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "e7760b5c4975",
+"id": "e1c083da85c8",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "168340f99d72",
+"id": "0da9c1da3c9b",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "e3538bfee7db",
+"id": "3394051c988b",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "abb03656d2e9",
-"outputs_id": Array[String](["b72d1eebd3ca", "9307e2260fd9", "1332aeb45752"]),
+"id": "be8e13d4a2f4",
+"outputs_id": Array[String](["78e56bb63dd4", "6b1cc8a623bb", "8a7ee87d105d"]),
 "resource": "money",
 "variation": 0
 }
@@ -747,14 +747,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Money": {
-"id": "1332aeb45752",
+"id": "8a7ee87d105d",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Product": {
-"id": "182296737b00",
-"outputs_id": Array[String]([]),
+"id": "04fc8d94c9be",
+"outputs_id": Array[String](["a95bdf29f7ac"]),
 "resource": "gpu",
 "variation": 0
 }
@@ -766,8 +766,8 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Overclock": {
-"id": "622786b528c9",
-"outputs_id": Array[String](["48131c2b222a", "6c145a195b17", "7e6e2c008c1b", "2ebfe0c1b773"]),
+"id": "552e9454f99e",
+"outputs_id": Array[String](["8b447d6e9fea", "223e99a11e50", "2d840725742c", "4bbcb215dceb"]),
 "resource": "overclock",
 "variation": 0
 }
@@ -780,14 +780,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Money": {
-"id": "b72d1eebd3ca",
+"id": "78e56bb63dd4",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Product": {
-"id": "700244ca91c9",
-"outputs_id": Array[String]([]),
+"id": "c9b5893ea8f9",
+"outputs_id": Array[String](["cd9981125eda", "ac3417c4edc4"]),
 "resource": "router",
 "variation": 0
 }
@@ -799,38 +799,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "9d5939be751e",
+"id": "90a1305bd6f9",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "7330e2f442ec",
+"id": "aa0e83159f07",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "7e5694465d12",
+"id": "2d49675a6dd3",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "fd3dd093f042",
+"id": "ab77cd3500f0",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "831cc4110c4e",
+"id": "155b827c70be",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "38274eeb4375",
-"outputs_id": Array[String](["0f6009482658"]),
+"id": "0fee6e22f5e1",
+"outputs_id": Array[String](["a5d6330dcb38"]),
 "resource": "research",
 "variation": 0
 }
@@ -842,14 +842,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Money": {
-"id": "9307e2260fd9",
+"id": "6b1cc8a623bb",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Product": {
-"id": "e33aa89a7c37",
-"outputs_id": Array[String]([]),
+"id": "567015b606fb",
+"outputs_id": Array[String](["a3469c905c3f"]),
 "resource": "cpu_core",
 "variation": 0
 }
@@ -861,38 +861,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "cd84b9b2c8d4",
+"id": "651843e9613d",
 "outputs_id": Array[String]([]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Download": {
-"id": "0cc0f64640a8",
-"outputs_id": Array[String](["0257abec46ab"]),
+"id": "d9f7d1d1341e",
+"outputs_id": Array[String](["2179b0948e75"]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Heat": {
-"id": "b597d4e00915",
-"outputs_id": Array[String](["ea262d167e66", "f5ab5fe14bb6", "fed7cdb7caaf", "c72122944eca", "541986e34a59"]),
+"id": "78025a5b0a1f",
+"outputs_id": Array[String](["08391b8e7c4b", "528f224fce2b", "b9ca88f9e298", "b6df10e44348", "838d0e7895f4"]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/Module": {
-"id": "8ce5e9981ade",
+"id": "ac3417c4edc4",
 "outputs_id": Array[String]([]),
 "resource": "router",
 "variation": 0
 },
 "PanelContainer/MainContainer/Overclock": {
-"id": "2ebfe0c1b773",
+"id": "4bbcb215dceb",
 "outputs_id": Array[String]([]),
 "resource": "overclock",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "97649dd5ac90",
-"outputs_id": Array[String](["6691335ea4c3"]),
+"id": "cf9f6ddd0dd3",
+"outputs_id": Array[String](["0832aac98645"]),
 "resource": "upload_speed",
 "variation": 0
 }
@@ -904,25 +904,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "3549e3503d0e",
+"id": "f6e9f338ebe1",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "d402564a82bd",
+"id": "9c96e758b467",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "b11f0173f4c9",
-"outputs_id": Array[String](["aab74a2d1166"]),
+"id": "cd0297b9aaf1",
+"outputs_id": Array[String](["3575acc7ad7b"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "c826ce108919",
+"id": "05a63159382b",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -935,13 +935,13 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "31251c8f743f",
-"outputs_id": Array[String](["739568ac118e", "791bd61c9ba7", "cd84b9b2c8d4", "49f56198a39a"]),
+"id": "e81e8437ea6b",
+"outputs_id": Array[String](["b575abd477c9", "958f5b1c94cb", "651843e9613d", "a57ba10a25ce"]),
 "resource": "boost_component",
 "variation": 0
 },
 "PanelContainer/MainContainer/Infections": {
-"id": "5355cc9efa64",
+"id": "15a7674e6556",
 "outputs_id": Array[String]([]),
 "resource": "infected_computer",
 "variation": 0
@@ -954,37 +954,37 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "0f6009482658",
+"id": "a5d6330dcb38",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "d6dbbfe9480a",
+"id": "0938f71fa740",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "aab74a2d1166",
+"id": "3575acc7ad7b",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "0131397ecef4",
+"id": "b324c9d1d72b",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "f9df1a98bffc",
+"id": "e8dac9ac174a",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "fbbb5fb1d20f",
+"id": "cd6af8f07c0b",
 "outputs_id": Array[String]([]),
 "resource": "research",
 "variation": 0
@@ -997,31 +997,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/0": {
-"id": "d2dd1aba424b",
+"id": "30597d8b7928",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/1": {
-"id": "541986e34a59",
+"id": "838d0e7895f4",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/2": {
-"id": "e91f8a559111",
+"id": "43efd3b0c786",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/3": {
-"id": "c2e0140e6767",
+"id": "47630e7a60ed",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
 },
 "PanelContainer/MainContainer/4": {
-"id": "0d263f2b972c",
+"id": "d153db8e77bc",
 "outputs_id": Array[String]([]),
 "resource": "heat",
 "variation": 0
@@ -1034,25 +1034,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "8f404837b32a",
+"id": "f4413f4846b5",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "3f2b4068caff",
+"id": "7cd4794a1c13",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "c845c78b370b",
-"outputs_id": Array[String](["f9df1a98bffc"]),
+"id": "be2d69f45861",
+"outputs_id": Array[String](["e8dac9ac174a"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "9162ecad506a",
+"id": "42463973552d",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -1065,25 +1065,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Boost": {
-"id": "6c6e6b2fcfdb",
+"id": "0c2623f0f4ca",
 "outputs_id": Array[String]([]),
 "resource": "boost_research",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "72f0521df08b",
+"id": "3cb465ef25f4",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Points": {
-"id": "82bb245d7b00",
-"outputs_id": Array[String](["0131397ecef4"]),
+"id": "60fbd08f19a8",
+"outputs_id": Array[String](["b324c9d1d72b"]),
 "resource": "research",
 "variation": 0
 },
 "PanelContainer/MainContainer/ResearchPower": {
-"id": "7ef6f204b1f9",
+"id": "a9e10335ad6e",
 "outputs_id": Array[String]([]),
 "resource": "research_power",
 "variation": 0
@@ -1096,67 +1096,67 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "7af626576050",
+"id": "7911c9d1688c",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "80e4ea1adc7e",
+"id": "01d8e026b6f2",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "a4eddbd1d8f0",
+"id": "c42567756eb6",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "3c78af1a1db2",
+"id": "2bc263112f78",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "1aa65d309286",
+"id": "7d6f99b3525f",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/5": {
-"id": "dda6f9a6d5b7",
+"id": "e8fa903e43e3",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/6": {
-"id": "66b916ddb483",
+"id": "c0fc7050ff97",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/7": {
-"id": "1d768d801e68",
+"id": "7e8659d42e8a",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/8": {
-"id": "6a582cfdc415",
+"id": "db3ddd56bf49",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input/9": {
-"id": "e8621b9729b6",
+"id": "fe5648e85150",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/Output": {
-"id": "42d72a5c4d84",
+"id": "2f614f31b014",
 "outputs_id": Array[String]([]),
 "resource": "gpu_speed",
 "variation": 0
@@ -1169,14 +1169,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "ea1046566d90",
+"id": "e388d097c87b",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "5f2348c7262e",
-"outputs_id": Array[String](["548c9ae99eb7"]),
+"id": "ddeb49bed971",
+"outputs_id": Array[String](["92619c36ceff"]),
 "resource": "text",
 "variation": 0
 }
@@ -1188,25 +1188,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/File": {
-"id": "548c9ae99eb7",
+"id": "92619c36ceff",
 "outputs_id": Array[String]([]),
 "resource": "text",
 "variation": 0
 },
 "PanelContainer/MainContainer/Infections": {
-"id": "63c1470d521a",
+"id": "219b7b50a7fa",
 "outputs_id": Array[String]([]),
 "resource": "infected_computer",
 "variation": 0
 },
 "PanelContainer/MainContainer/Result": {
-"id": "80d1c45f038d",
-"outputs_id": Array[String](["59c2f5645ad8"]),
+"id": "50db966a7721",
+"outputs_id": Array[String](["1039a5681ed6"]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "479c3b63d712",
+"id": "85ab15f9de6d",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
@@ -1219,31 +1219,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input": {
-"id": "59c2f5645ad8",
+"id": "1039a5681ed6",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "8ad07c3c16c4",
+"id": "79b3bf5ccd6d",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input3": {
-"id": "fc0a3f92e43e",
+"id": "cb7f12ad3ab7",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input4": {
-"id": "6a514487cf38",
+"id": "0a161fdf0a88",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input5": {
-"id": "9afc59ca74ea",
+"id": "be99015994b0",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
@@ -1255,223 +1255,235 @@ windows=[{
 "window": "collect"
 }]
 connectors={
-"0131397ecef4": {
+"01d8e026b6f2": {
 "custom_points": Array[Vector2]([])
 },
-"0257abec46ab": {
+"049c20f0c114": {
 "custom_points": Array[Vector2]([])
 },
-"0f6009482658": {
+"0832aac98645": {
 "custom_points": Array[Vector2]([])
 },
-"1332aeb45752": {
+"08391b8e7c4b": {
 "custom_points": Array[Vector2]([])
 },
-"1aa65d309286": {
+"0938f71fa740": {
 "custom_points": Array[Vector2]([])
 },
-"1d768d801e68": {
+"1039a5681ed6": {
 "custom_points": Array[Vector2]([])
 },
-"25e86a50540d": {
+"11396426db2e": {
 "custom_points": Array[Vector2]([])
 },
-"2ebfe0c1b773": {
+"155b827c70be": {
 "custom_points": Array[Vector2]([])
 },
-"33e21d9c81e3": {
+"214d4d4fe077": {
 "custom_points": Array[Vector2]([])
 },
-"354ebdd4eb15": {
+"2179b0948e75": {
 "custom_points": Array[Vector2]([])
 },
-"3c78af1a1db2": {
+"223e99a11e50": {
 "custom_points": Array[Vector2]([])
 },
-"3e51bc0b590b": {
+"296eed7d7e1d": {
 "custom_points": Array[Vector2]([])
 },
-"3f2b4068caff": {
+"2bc263112f78": {
 "custom_points": Array[Vector2]([])
 },
-"479c3b63d712": {
+"2c96ad6d4edc": {
 "custom_points": Array[Vector2]([])
 },
-"47ee55c98c02": {
+"2d49675a6dd3": {
 "custom_points": Array[Vector2]([])
 },
-"48131c2b222a": {
+"2d840725742c": {
 "custom_points": Array[Vector2]([])
 },
-"49115171522a": {
+"2e8e6d453803": {
 "custom_points": Array[Vector2]([])
 },
-"49f56198a39a": {
+"30597d8b7928": {
 "custom_points": Array[Vector2]([])
 },
-"541986e34a59": {
+"3575acc7ad7b": {
 "custom_points": Array[Vector2]([])
 },
-"5428564d62e5": {
+"39d62a58c069": {
 "custom_points": Array[Vector2]([])
 },
-"548c9ae99eb7": {
+"3cb465ef25f4": {
 "custom_points": Array[Vector2]([])
 },
-"54b4c855c177": {
+"416190f3b50f": {
 "custom_points": Array[Vector2]([])
 },
-"56fe4febb919": {
+"43efd3b0c786": {
 "custom_points": Array[Vector2]([])
 },
-"59c2f5645ad8": {
+"47630e7a60ed": {
 "custom_points": Array[Vector2]([])
 },
-"612cc0a4571d": {
+"4bbcb215dceb": {
 "custom_points": Array[Vector2]([])
 },
-"6691335ea4c3": {
+"528f224fce2b": {
 "custom_points": Array[Vector2]([])
 },
-"66b916ddb483": {
+"585e988c97cc": {
 "custom_points": Array[Vector2]([])
 },
-"6a582cfdc415": {
+"651843e9613d": {
 "custom_points": Array[Vector2]([])
 },
-"6c145a195b17": {
+"6b1cc8a623bb": {
 "custom_points": Array[Vector2]([])
 },
-"72f0521df08b": {
+"762fe19fe235": {
 "custom_points": Array[Vector2]([])
 },
-"7330e2f442ec": {
+"77ccf171f66a": {
 "custom_points": Array[Vector2]([])
 },
-"739568ac118e": {
+"78e56bb63dd4": {
 "custom_points": Array[Vector2]([])
 },
-"791bd61c9ba7": {
+"7911c9d1688c": {
 "custom_points": Array[Vector2]([])
 },
-"7af626576050": {
+"7cd4794a1c13": {
 "custom_points": Array[Vector2]([])
 },
-"7e0c74740575": {
+"7d6f99b3525f": {
 "custom_points": Array[Vector2]([])
 },
-"7e5694465d12": {
+"7e8659d42e8a": {
 "custom_points": Array[Vector2]([])
 },
-"7e6e2c008c1b": {
+"838d0e7895f4": {
 "custom_points": Array[Vector2]([])
 },
-"80e4ea1adc7e": {
+"85ab15f9de6d": {
 "custom_points": Array[Vector2]([])
 },
-"831cc4110c4e": {
+"8a7ee87d105d": {
 "custom_points": Array[Vector2]([])
 },
-"890fca5412b9": {
+"8b447d6e9fea": {
 "custom_points": Array[Vector2]([])
 },
-"8bdca958f1de": {
+"8d3fdcee605f": {
 "custom_points": Array[Vector2]([])
 },
-"903d1e654407": {
+"90a1305bd6f9": {
 "custom_points": Array[Vector2]([])
 },
-"9251c8665e26": {
+"92619c36ceff": {
 "custom_points": Array[Vector2]([])
 },
-"9307e2260fd9": {
+"958f5b1c94cb": {
 "custom_points": Array[Vector2]([])
 },
-"9d133c2d84a6": {
+"9b76394c8af0": {
 "custom_points": Array[Vector2]([])
 },
-"9d5939be751e": {
+"9c96e758b467": {
 "custom_points": Array[Vector2]([])
 },
-"a08b2bf4d176": {
+"a3469c905c3f": {
 "custom_points": Array[Vector2]([])
 },
-"a4eddbd1d8f0": {
+"a57ba10a25ce": {
 "custom_points": Array[Vector2]([])
 },
-"a9821115a9a9": {
+"a5d6330dcb38": {
 "custom_points": Array[Vector2]([])
 },
-"aab74a2d1166": {
+"a95bdf29f7ac": {
 "custom_points": Array[Vector2]([])
 },
-"b72d1eebd3ca": {
+"aa0e83159f07": {
 "custom_points": Array[Vector2]([])
 },
-"b86dd287a02a": {
+"ab77cd3500f0": {
 "custom_points": Array[Vector2]([])
 },
-"c2718e8aa62c": {
+"ac3417c4edc4": {
 "custom_points": Array[Vector2]([])
 },
-"c2e0140e6767": {
+"b324c9d1d72b": {
 "custom_points": Array[Vector2]([])
 },
-"c309cab45f8d": {
+"b575abd477c9": {
 "custom_points": Array[Vector2]([])
 },
-"c72122944eca": {
+"b6df10e44348": {
 "custom_points": Array[Vector2]([])
 },
-"c84c404a82b5": {
+"b9ca88f9e298": {
 "custom_points": Array[Vector2]([])
 },
-"c8e22db5456c": {
+"bb33c21c9da0": {
 "custom_points": Array[Vector2]([])
 },
-"cd84b9b2c8d4": {
+"c0fc7050ff97": {
 "custom_points": Array[Vector2]([])
 },
-"d2dd1aba424b": {
+"c34e2b5f4642": {
 "custom_points": Array[Vector2]([])
 },
-"d402564a82bd": {
+"c42567756eb6": {
 "custom_points": Array[Vector2]([])
 },
-"d6dbbfe9480a": {
+"c6901317598b": {
 "custom_points": Array[Vector2]([])
 },
-"dda6f9a6d5b7": {
+"cc604b9d76e6": {
 "custom_points": Array[Vector2]([])
 },
-"e8621b9729b6": {
+"cd9981125eda": {
 "custom_points": Array[Vector2]([])
 },
-"e91f8a559111": {
+"d92b11761b32": {
 "custom_points": Array[Vector2]([])
 },
-"ea1046566d90": {
+"db3ddd56bf49": {
 "custom_points": Array[Vector2]([])
 },
-"ea262d167e66": {
+"df33cdd28db9": {
 "custom_points": Array[Vector2]([])
 },
-"f27eb05d256c": {
+"e201cdeb60f4": {
 "custom_points": Array[Vector2]([])
 },
-"f438732848fb": {
+"e388d097c87b": {
 "custom_points": Array[Vector2]([])
 },
-"f5ab5fe14bb6": {
+"e58447307df7": {
 "custom_points": Array[Vector2]([])
 },
-"f9df1a98bffc": {
+"e8dac9ac174a": {
 "custom_points": Array[Vector2]([])
 },
-"fd3dd093f042": {
+"e8fa903e43e3": {
 "custom_points": Array[Vector2]([])
 },
-"fed7cdb7caaf": {
+"f3e92c8977fd": {
+"custom_points": Array[Vector2]([])
+},
+"f78f1f2745b2": {
+"custom_points": Array[Vector2]([])
+},
+"fa5d4e6308a8": {
+"custom_points": Array[Vector2]([])
+},
+"fe5648e85150": {
+"custom_points": Array[Vector2]([])
+},
+"ffd20dd7c0eb": {
 "custom_points": Array[Vector2]([])
 }
 }
