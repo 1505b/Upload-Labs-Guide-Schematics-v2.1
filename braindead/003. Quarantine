@@ -1,24 +1,15 @@
 [schematic]
 
 windows=[{
-"container_data": {
-"PanelContainer/MainContainer/Download": {
-"id": "c344b2b755f7",
-"outputs_id": Array[String]([]),
-"resource": "download_speed",
-"variation": 0
-},
-"PanelContainer/MainContainer/File": {
-"id": "0775febecd4b",
-"outputs_id": Array[String](["c07836e97e94"]),
-"resource": "image",
-"variation": 0
-}
-},
-"filename": "window_download_image.tscn",
-"name": "download_image0",
+"color": 1,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group0",
 "position": Vector2(2700, 0),
-"window": "download_image"
+"size": Vector2(800, 1950),
+"window": "group"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clean": {
@@ -48,7 +39,7 @@ windows=[{
 },
 "filename": "window_virus_scanner.tscn",
 "name": "virus_scanner0",
-"position": Vector2(2700, 250),
+"position": Vector2(2700, 300),
 "window": "virus_scanner"
 }, {
 "container_data": {
@@ -79,7 +70,7 @@ windows=[{
 },
 "filename": "window_quarantine.tscn",
 "name": "quarantine0",
-"position": Vector2(2700, 650),
+"position": Vector2(2700, 700),
 "window": "quarantine"
 }, {
 "container_data": {
@@ -110,45 +101,8 @@ windows=[{
 },
 "filename": "window_upload.tscn",
 "name": "upload0",
-"position": Vector2(2700, 1050),
+"position": Vector2(2700, 1100),
 "window": "upload"
-}, {
-"container_data": {
-"PanelContainer/MainContainer/Input": {
-"id": "0076984d1ec1",
-"outputs_id": Array[String]([]),
-"resource": "money",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input2": {
-"id": "65b1b3dffc77",
-"outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input3": {
-"id": "7e35df89991d",
-"outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input4": {
-"id": "afe84931a825",
-"outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
-},
-"PanelContainer/MainContainer/Input5": {
-"id": "1cb9266dd61f",
-"outputs_id": Array[String]([]),
-"resource": "",
-"variation": 0
-}
-},
-"filename": "window_auto_collect.tscn",
-"name": "auto_collect0",
-"position": Vector2(2700, 1400),
-"window": "auto_collect"
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
@@ -190,8 +144,64 @@ windows=[{
 },
 "filename": "window_folder.tscn",
 "name": "folder1",
-"position": Vector2(3150, 500),
+"position": Vector2(3150, 550),
 "window": "folder"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "c344b2b755f7",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "0775febecd4b",
+"outputs_id": Array[String](["c07836e97e94"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_download_image.tscn",
+"name": "download_image0",
+"position": Vector2(2700, 50),
+"window": "download_image"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input": {
+"id": "0076984d1ec1",
+"outputs_id": Array[String]([]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "65b1b3dffc77",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input3": {
+"id": "7e35df89991d",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input4": {
+"id": "afe84931a825",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input5": {
+"id": "1cb9266dd61f",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+}
+},
+"filename": "window_auto_collect.tscn",
+"name": "auto_collect0",
+"position": Vector2(2700, 1450),
+"window": "auto_collect"
 }]
 connectors={
 "0076984d1ec1": {
@@ -206,11 +216,23 @@ connectors={
 "65fd0f40fe7d": {
 "custom_points": Array[Vector2]([])
 },
+"bb9409320323": {
+"custom_points": Array[Vector2]([])
+},
 "c07836e97e94": {
+"custom_points": Array[Vector2]([])
+},
+"c1df21871e3d": {
+"custom_points": Array[Vector2]([])
+},
+"c344b2b755f7": {
 "custom_points": Array[Vector2]([])
 },
 "cd5cd9a730c2": {
 "custom_points": Array[Vector2]([])
+},
+"dbd586a5b53e": {
+"custom_points": Array[Vector2]([])
 }
 }
-rect=Rect2(2700, 0, 800, 1599)
+rect=Rect2(2700, 0, 800, 1950)
