@@ -1,7 +1,7 @@
 [schematic]
 
 windows=[{
-"color": 0,
+"color": 1,
 "container_data": {},
 "custom_icon": "",
 "custom_name": "",
@@ -13,14 +13,14 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Download": {
-"id": "8185be618bee",
+"id": "247e32971469",
 "outputs_id": Array[String]([]),
 "resource": "download_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "6488d2eb67aa",
-"outputs_id": Array[String](["d7f24395e729"]),
+"id": "74f5e0837bc0",
+"outputs_id": Array[String](["51b5bc0c95fb"]),
 "resource": "image",
 "variation": 0
 }
@@ -32,26 +32,26 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clean": {
-"id": "45ce6dbf44dc",
-"outputs_id": Array[String](["01eb920c11fc"]),
+"id": "c1ccf0aa37b6",
+"outputs_id": Array[String](["78676634a026"]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Clock": {
-"id": "5e480a714614",
+"id": "51e632f45295",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "d7f24395e729",
+"id": "51b5bc0c95fb",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 0
 },
 "PanelContainer/MainContainer/Infected": {
-"id": "915b7d93921b",
-"outputs_id": Array[String](["581e65f21df3"]),
+"id": "ea4c72938789",
+"outputs_id": Array[String](["8935eca2965f"]),
 "resource": "image",
 "variation": 257
 }
@@ -63,25 +63,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Clock": {
-"id": "d4a9a24e55c1",
+"id": "6e30fa4cb453",
 "outputs_id": Array[String]([]),
 "resource": "clock_speed",
 "variation": 0
 },
 "PanelContainer/MainContainer/File": {
-"id": "581e65f21df3",
+"id": "8935eca2965f",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 257
 },
 "PanelContainer/MainContainer/Output": {
-"id": "11df94120e29",
-"outputs_id": Array[String](["caea9a9dd115"]),
+"id": "ab7c2ab5a611",
+"outputs_id": Array[String](["4778661c4dd2"]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Virus": {
-"id": "5dc0044a94ff",
+"id": "1744fe299a54",
 "outputs_id": Array[String]([]),
 "resource": "virus",
 "variation": 0
@@ -94,38 +94,38 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input/0": {
-"id": "01eb920c11fc",
+"id": "78676634a026",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/1": {
-"id": "caea9a9dd115",
+"id": "4778661c4dd2",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/2": {
-"id": "ce24302f336a",
+"id": "f4a60ec4bded",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/3": {
-"id": "8f397301ef6d",
+"id": "ea598a688bed",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Input/4": {
-"id": "388fe0489531",
+"id": "98958182ca4b",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Output": {
-"id": "215bbbbd073b",
-"outputs_id": Array[String](["cf4b9a38ff1d"]),
+"id": "4d9f70843e63",
+"outputs_id": Array[String](["879b497a6f34"]),
 "resource": "image",
 "variation": 1
 }
@@ -137,25 +137,25 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/File": {
-"id": "cf4b9a38ff1d",
+"id": "879b497a6f34",
 "outputs_id": Array[String]([]),
 "resource": "image",
 "variation": 1
 },
 "PanelContainer/MainContainer/Infections": {
-"id": "2096174f788f",
+"id": "5078cc904130",
 "outputs_id": Array[String]([]),
 "resource": "infected_computer",
 "variation": 0
 },
 "PanelContainer/MainContainer/Result": {
-"id": "651576f65d19",
-"outputs_id": Array[String](["baf9d36a49a2"]),
+"id": "c2ecdc91584c",
+"outputs_id": Array[String](["df6d21af2ae5"]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Upload": {
-"id": "c222b0522ed0",
+"id": "4180beb539ed",
 "outputs_id": Array[String]([]),
 "resource": "upload_speed",
 "variation": 0
@@ -168,31 +168,31 @@ windows=[{
 }, {
 "container_data": {
 "PanelContainer/MainContainer/Input": {
-"id": "baf9d36a49a2",
+"id": "df6d21af2ae5",
 "outputs_id": Array[String]([]),
 "resource": "money",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input2": {
-"id": "73727dfe1e8a",
+"id": "2a67e14db123",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input3": {
-"id": "45c46cb2a06b",
+"id": "ed2457811649",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input4": {
-"id": "f2ab5460532c",
+"id": "0c6ed1b54677",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
 },
 "PanelContainer/MainContainer/Input5": {
-"id": "fbaa284f930a",
+"id": "313155dc8b99",
 "outputs_id": Array[String]([]),
 "resource": "",
 "variation": 0
@@ -204,22 +204,34 @@ windows=[{
 "window": "auto_collect"
 }]
 connectors={
-"01eb920c11fc": {
+"247e32971469": {
 "custom_points": Array[Vector2]([])
 },
-"581e65f21df3": {
+"4180beb539ed": {
 "custom_points": Array[Vector2]([])
 },
-"baf9d36a49a2": {
+"4778661c4dd2": {
 "custom_points": Array[Vector2]([])
 },
-"caea9a9dd115": {
+"51b5bc0c95fb": {
 "custom_points": Array[Vector2]([])
 },
-"cf4b9a38ff1d": {
+"51e632f45295": {
 "custom_points": Array[Vector2]([])
 },
-"d7f24395e729": {
+"6e30fa4cb453": {
+"custom_points": Array[Vector2]([])
+},
+"78676634a026": {
+"custom_points": Array[Vector2]([])
+},
+"879b497a6f34": {
+"custom_points": Array[Vector2]([])
+},
+"8935eca2965f": {
+"custom_points": Array[Vector2]([])
+},
+"df6d21af2ae5": {
 "custom_points": Array[Vector2]([])
 }
 }
