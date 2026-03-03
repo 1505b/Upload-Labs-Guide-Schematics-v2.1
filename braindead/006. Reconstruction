@@ -203,7 +203,7 @@ windows=[{
 },
 "PanelContainer/MainContainer/Output": {
 "id": "ac1fad906847",
-"outputs_id": Array[String](["53108ad3060b", "e2a7852f0c3b", "5ea09b6363d8", "58af32936891"]),
+"outputs_id": Array[String](["53108ad3060b"]),
 "resource": "sound",
 "variation": 3
 },
@@ -598,13 +598,7 @@ connectors={
 "587c902b4627": {
 "custom_points": Array[Vector2]([])
 },
-"58af32936891": {
-"custom_points": Array[Vector2]([])
-},
 "5e20fbd509f8": {
-"custom_points": Array[Vector2]([])
-},
-"5ea09b6363d8": {
 "custom_points": Array[Vector2]([])
 },
 "7774d7df705e": {
@@ -638,9 +632,6 @@ connectors={
 "custom_points": Array[Vector2]([])
 },
 "dc456f990da9": {
-"custom_points": Array[Vector2]([])
-},
-"e2a7852f0c3b": {
 "custom_points": Array[Vector2]([])
 },
 "e2f381f1cf73": {
