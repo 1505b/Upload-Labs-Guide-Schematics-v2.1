@@ -1,0 +1,357 @@
+[schematic]
+
+windows=[{
+"color": 0,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "",
+"filename": "window_group.tscn",
+"name": "group2",
+"position": Vector2(4850, 4800),
+"size": Vector2(1950, 1550),
+"window": "group"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/File": {
+"id": "879b497a6f34",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Infections": {
+"id": "5078cc904130",
+"outputs_id": Array[String]([]),
+"resource": "infected_computer",
+"variation": 0
+},
+"PanelContainer/MainContainer/Result": {
+"id": "c2ecdc91584c",
+"outputs_id": Array[String](["df6d21af2ae5"]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Upload": {
+"id": "4180beb539ed",
+"outputs_id": Array[String]([]),
+"resource": "upload_speed",
+"variation": 0
+}
+},
+"filename": "window_upload.tscn",
+"name": "upload0",
+"position": Vector2(5650, 4900),
+"window": "upload"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clean": {
+"id": "c1ccf0aa37b6",
+"outputs_id": Array[String](["78676634a026"]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Clock": {
+"id": "51e632f45295",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "51b5bc0c95fb",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 0
+},
+"PanelContainer/MainContainer/Infected": {
+"id": "ea4c72938789",
+"outputs_id": Array[String](["8935eca2965f"]),
+"resource": "sound",
+"variation": 257
+}
+},
+"filename": "window_virus_scanner.tscn",
+"name": "virus_scanner0",
+"position": Vector2(5250, 4900),
+"window": "virus_scanner"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Clock": {
+"id": "6e30fa4cb453",
+"outputs_id": Array[String]([]),
+"resource": "clock_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "8935eca2965f",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 257
+},
+"PanelContainer/MainContainer/Output": {
+"id": "ab7c2ab5a611",
+"outputs_id": Array[String](["4778661c4dd2"]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Virus": {
+"id": "1744fe299a54",
+"outputs_id": Array[String]([]),
+"resource": "virus",
+"variation": 0
+}
+},
+"filename": "window_quarantine.tscn",
+"name": "quarantine0",
+"position": Vector2(5250, 5300),
+"window": "quarantine"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "78676634a026",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "4778661c4dd2",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "f4a60ec4bded",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "ea598a688bed",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "98958182ca4b",
+"outputs_id": Array[String]([]),
+"resource": "sound",
+"variation": 1
+},
+"PanelContainer/MainContainer/Output": {
+"id": "4d9f70843e63",
+"outputs_id": Array[String](["879b497a6f34"]),
+"resource": "sound",
+"variation": 1
+}
+},
+"filename": "window_folder.tscn",
+"name": "folder0",
+"position": Vector2(5250, 5700),
+"window": "folder"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "b63059393d49",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "3f333d973429",
+"outputs_id": Array[String](["51b5bc0c95fb"]),
+"resource": "sound",
+"variation": 0
+}
+},
+"filename": "window_download_sound.tscn",
+"name": "download_sound0",
+"position": Vector2(4850, 4900),
+"window": "download_sound"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Download": {
+"id": "21ecc3c38b32",
+"outputs_id": Array[String]([]),
+"resource": "download_speed",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "9fbd495960f2",
+"outputs_id": Array[String](["db70d0714754"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_download_image.tscn",
+"name": "download_image0",
+"position": Vector2(6050, 4900),
+"window": "download_image"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input/0": {
+"id": "db70d0714754",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/1": {
+"id": "e4b7c4435d9c",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/2": {
+"id": "7e756225c1a1",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/3": {
+"id": "26d9a59e1bb7",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input/4": {
+"id": "9fc1dd367734",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Output": {
+"id": "139832fe2802",
+"outputs_id": Array[String](["62bf27c7302e"]),
+"resource": "image",
+"variation": 0
+}
+},
+"filename": "window_folder.tscn",
+"name": "folder1",
+"position": Vector2(6050, 5200),
+"window": "folder"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Boost": {
+"id": "eda3d3601f1a",
+"outputs_id": Array[String]([]),
+"resource": "boost_research",
+"variation": 0
+},
+"PanelContainer/MainContainer/File": {
+"id": "62bf27c7302e",
+"outputs_id": Array[String]([]),
+"resource": "image",
+"variation": 0
+},
+"PanelContainer/MainContainer/Points": {
+"id": "719e66bfb0b5",
+"outputs_id": Array[String](["2a67e14db123"]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/ResearchPower": {
+"id": "77b5a20b3953",
+"outputs_id": Array[String]([]),
+"resource": "research_power",
+"variation": 0
+}
+},
+"filename": "window_data_lab.tscn",
+"name": "data_lab0",
+"position": Vector2(6450, 4900),
+"window": "data_lab"
+}, {
+"container_data": {
+"PanelContainer/MainContainer/Input": {
+"id": "df6d21af2ae5",
+"outputs_id": Array[String]([]),
+"resource": "money",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input2": {
+"id": "2a67e14db123",
+"outputs_id": Array[String]([]),
+"resource": "research",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input3": {
+"id": "ed2457811649",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input4": {
+"id": "0c6ed1b54677",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+},
+"PanelContainer/MainContainer/Input5": {
+"id": "313155dc8b99",
+"outputs_id": Array[String]([]),
+"resource": "",
+"variation": 0
+}
+},
+"filename": "window_auto_collect.tscn",
+"name": "auto_collect0",
+"position": Vector2(5650, 5250),
+"window": "auto_collect"
+}, {
+"color": 1,
+"container_data": {},
+"custom_icon": "",
+"custom_name": "Money",
+"filename": "window_group.tscn",
+"name": "group0",
+"position": Vector2(4850, 4850),
+"size": Vector2(1150, 1500),
+"window": "group"
+}, {
+"color": 5,
+"container_data": {},
+"custom_icon": "research",
+"custom_name": "Research",
+"filename": "window_group.tscn",
+"name": "group3",
+"position": Vector2(6050, 4850),
+"size": Vector2(750, 1500),
+"window": "group"
+}]
+connectors={
+"2a67e14db123": {
+"custom_points": Array[Vector2]([])
+},
+"4180beb539ed": {
+"custom_points": Array[Vector2]([])
+},
+"4778661c4dd2": {
+"custom_points": Array[Vector2]([])
+},
+"51b5bc0c95fb": {
+"custom_points": Array[Vector2]([])
+},
+"51e632f45295": {
+"custom_points": Array[Vector2]([])
+},
+"62bf27c7302e": {
+"custom_points": Array[Vector2]([])
+},
+"6e30fa4cb453": {
+"custom_points": Array[Vector2]([])
+},
+"78676634a026": {
+"custom_points": Array[Vector2]([])
+},
+"879b497a6f34": {
+"custom_points": Array[Vector2]([])
+},
+"8935eca2965f": {
+"custom_points": Array[Vector2]([])
+},
+"db70d0714754": {
+"custom_points": Array[Vector2]([])
+},
+"df6d21af2ae5": {
+"custom_points": Array[Vector2]([])
+}
+}
+rect=Rect2(4850, 4800, 1950, 1550)
