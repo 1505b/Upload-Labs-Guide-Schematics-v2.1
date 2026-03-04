@@ -3,12 +3,15 @@ Schematics for the upload labs guide v2.1:
 https://docs.google.com/document/d/1QpDOViW4pWlKfUC7cq7cNJpWqYV1GIHdp6NaYIvNb18/edit?tab=t.0
 
 To import, go to the relevant schematic page and click this button to copy the entire text.
+
 <img width="213" height="56" alt="image" src="https://github.com/user-attachments/assets/5d3fa8e9-df04-47e7-81ac-e1bce092b1d0" />
 
 Go to the game and press ctrl+v to paste it. If you are on mobile, use the import from clipboard button.
+
 <img width="402" height="450" alt="image" src="https://github.com/user-attachments/assets/00fff880-a299-44c7-9e08-447de6825456" />
 
 Remember to press the tick button at the bottom after pasting to activate the nodes.
+
 <img width="232" height="81" alt="image" src="https://github.com/user-attachments/assets/679340a8-f9bb-44f6-8afd-7c57db3c4146" />
 
 There is a schematic viewer on the official site of the game. You can paste schematics there to view it.
